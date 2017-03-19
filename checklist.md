@@ -19,6 +19,7 @@ Checklist of all license agreements:
 - [x]     1	chuggafan <chuggafans@gmail.com>
 - [x]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [x]     1	Rob Gagnon <rgagnon24@gmail.com>
+- [x]     1	Jtzl Forshizl <jtg@intarcorp.com>
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -262,7 +263,6 @@ Checklist of all license agreements:
 - [ ]     1	Jeremy Rossi <jeremy@jeremyrossi.com>
 - [ ]     1	Jeroen Ooms <jeroenooms@gmail.com>
 - [ ]     1	Jose Luis Blanco-Claraco <joseluisblancoc@gmail.com>
-- [ ]     1	Jtzl Forshizl <jtg@intarcorp.com>
 - [ ]     1	Julien Ruffin <jur@ivu.de>
 - [ ]     1	Kenneth Wilke <kenneth.wilke@rackspace.com>
 - [ ]     1	KennyTM~ <kennytm@gmail.com>
