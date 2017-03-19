@@ -3,14 +3,15 @@ Checklist of all license agreements:
 - [x]  1139	Pieter Hintjens <ph@imatix.com>
 - [x]   376	Luca Boccassi <luca.boccassi@gmail.com>
 - [x]   123	Doron Somech <somdoron@gmail.com>
+- [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
 - [x]    19	Ewen McNeill <ewen@naos.co.nz>
+- [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
-- [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
-- [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
+- [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -290,7 +291,6 @@ Checklist of all license agreements:
 - [ ]     1	Nikhil Mishra <nikhil@cinarra.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
 - [ ]     1	Nikolay Amiantov <ab@fmap.me>
-- [ ]     1	Nir Soffer <nirsof@gmail.com>
 - [ ]     1	Patrick McLean <chutzpah@gentoo.org>
 - [ ]     1	Paul Betts <paul@paulbetts.org>
 - [ ]     1	Paul Colomiets <paul@colomiets.name>
