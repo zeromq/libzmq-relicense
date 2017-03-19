@@ -13,6 +13,7 @@ Checklist of all license agreements:
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
 - [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
+- [x]     1	Andrew Thompson <andy@fud.org.nz>
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -194,7 +195,6 @@ Checklist of all license agreements:
 - [ ]     1	Akhil Thampy <akhilthampy@yahoo.com>
 - [ ]     1	Alex Grönholm <alex.gronholm+git@nextday.fi>
 - [ ]     1	Anass Bouassaba <anass.bouassaba@t-online.de>
-- [ ]     1	Andrew Thompson <andy@fud.org.nz>
 - [ ]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
 - [ ]     1	Armin Burgmeier <aburgmeier@bloomberg.net>
