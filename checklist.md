@@ -14,6 +14,11 @@ Checklist of all license agreements:
 - [x]     1	Christopher Dolan <chris@codingstream.org>
 - [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
 - [x]     1	Andrew Thompson <andy@fud.org.nz>
+- [x]     1	Alex Grönholm <alex.gronholm+git@nextday.fi>
+- [x]     6	Timothee Besset <ttimo@ttimo.net>
+- [x]     1	chuggafan <chuggafans@gmail.com>
+- [x]     2	Jan Kryl <jan.kryl@nexenta.com>
+- [x]     1	Rob Gagnon <rgagnon24@gmail.com>
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -76,7 +81,6 @@ Checklist of all license agreements:
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
 - [ ]     6	Luca Boccassi <lboccass@brocade.com>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
-- [ ]     6	Timothee Besset <ttimo@ttimo.net>
 - [ ]     6	Trevor Bernard <trevor.bernard@gmail.com>
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
@@ -148,7 +152,6 @@ Checklist of all license agreements:
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
 - [ ]     2	Hugh Powell <hugh@hughpowell.co.uk>
 - [ ]     2	Hunter Laux <hunterlaux@gmail.com>
-- [ ]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [ ]     2	Jim Hague <jim.hague@acm.org>
 - [ ]     2	Joel Lauener <Joel.Lauener@cern.ch>
 - [ ]     2	John Murphy <murphybytes@gmail.com>
@@ -193,7 +196,6 @@ Checklist of all license agreements:
 - [ ]     1	Ahmad M. Zawawi <ahmad.zawawi@gmail.com>
 - [ ]     1	Ahmet Kakici <ahmet.kakici@pro-line.com.tr>
 - [ ]     1	Akhil Thampy <akhilthampy@yahoo.com>
-- [ ]     1	Alex Grönholm <alex.gronholm+git@nextday.fi>
 - [ ]     1	Anass Bouassaba <anass.bouassaba@t-online.de>
 - [ ]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
@@ -303,7 +305,6 @@ Checklist of all license agreements:
 - [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Richard Janis Goldschmidt <janis.beckert@gmail.com>
 - [ ]     1	Rik van der Heijden <mail@rikvanderheijden.com>
-- [ ]     1	Rob Gagnon <rgagnon24@gmail.com>
 - [ ]     1	Robert Castle <robert@egomotion.co.uk>
 - [ ]     1	Saif Hasan <has@fb.com>
 - [ ]     1	Sam Lishak <sam@lishak.com>
@@ -332,7 +333,6 @@ Checklist of all license agreements:
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
 - [ ]     1	camachat <camachat@users.noreply.github.com>
-- [ ]     1	chuggafan <chuggafans@gmail.com>
 - [ ]     1	hjp <hjp-github@hjp.at>
 - [ ]     1	mlodew <markus.schori@outlook.com>
 - [ ]     1	o172(xenovo) <git@o172.net>
