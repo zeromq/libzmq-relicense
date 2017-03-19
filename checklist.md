@@ -9,6 +9,7 @@ Checklist of all license agreements:
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
+- [x]     2	Andre Caron <andre.l.caron@gmail.com>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
 - [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
@@ -126,7 +127,6 @@ Checklist of all license agreements:
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
 - [ ]     2	Adrian Muraru <amuraru@adobe.com>
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
-- [ ]     2	Andre Caron <andre.l.caron@gmail.com>
 - [ ]     2	Andreas Rottmann <a.rottmann@gmx.at>
 - [ ]     2	Anthony Scemama <scemama@irsamc.ups-tlse.fr>
 - [ ]     2	Asmod4n <Asmod4n@users.noreply.github.com>
