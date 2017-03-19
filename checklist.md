@@ -9,6 +9,8 @@ Checklist of all license agreements:
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
+- [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
+- [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -346,14 +348,12 @@ Check code (former ericsson employee):
 - [ ]     1	Erik Hugne <erik.hugne@gmail.com>
 
 Invalid e-mail:
-- [ ]    93	Pavol Malosek <malosek@fastmq.com>
 - [ ]    23	Thomas Rodgers <trodgers@drw.com>
 - [ ]    16	Jens Auer <jens.auer@cgi.com>
 - [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
 - [ ]    12	Michel Zou <xantares10@hotmail.com>
 - [ ]    12	Arthur O'Dwyer <arthur@push.am>
 - [ ]     8	Matt Arsenault <arsenm2@rpi.edu>
-- [ ]     3	Tamara Kustarova <kustarova@fastmq.com>
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
 - [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     2	dave b <david.brown@datasift.com>
