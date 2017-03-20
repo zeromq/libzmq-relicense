@@ -6,6 +6,7 @@ Checklist of all license agreements:
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
+- [x]    24	Sergey KHripchenko <shripchenko@intermedia.net>
 - [x]    19	Ewen McNeill <ewen@naos.co.nz>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
@@ -17,12 +18,18 @@ Checklist of all license agreements:
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
+- [x]     2	Adrian Muraru <amuraru@adobe.com>
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
 - [x]     2	Andre Caron <andre.l.caron@gmail.com>
 - [x]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [x]     2	Brian Knox <taotetek@gmail.com>
-- [x]     2	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org> (agreed by email, still has to send in license agreement)
-- [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl> (agreed by email, still has to send in license agreement)
+- [x]     2	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org>
+- [x]     2	Alessandro Ghedini <al3xbio@gmail.com> (provided only a minor bugfix)
+- [x]     2	Mikael Helbo Kjaer <mhk@designtech.dk> (provided only a minor bugfix)
+- [x]     2	Topher Brown <chris.brown@farsounder.com> (provided only a minor bugfix)
+- [x]     2	Alexey Melnichuk <mimir@newmail.ru> (provided only a minor bugfix)
+- [x]     2	Alex Pyrgiotis <apyrgio@grnet.gr> (provided only a minor bugfix)
+- [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
 - [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
@@ -37,6 +44,23 @@ Checklist of all license agreements:
 - [x]     1	Matt Bolger <matt.bolger@csiro.au>
 - [x]     1	Taras Shpot <taras.shpot@eleks.com> (provided only a minor bugfix)
 - [x]     1	Christophe Juniet <c.juniet@gmail.com>
+- [x]     1	Montoya Edu <montoya.edu@gmail.com>
+- [x]     1	Cyril Holweck <cyril.holweck@free.fr>
+- [x]     1	NetImperia <com@netimperia.com> (provided only a minor bugfix)
+- [x]     1	Bjorn Reese <breese@sourceforge.net> (provided only a minor bugfix)
+- [x]     1	Daniel Lupu <dflupu@bitbucket.org> (provided only a minor bugfix)
+- [x]     1	Jose Pedro Oliveira <jpo@di.uminho.pt> (provided only a minor bugfix)
+- [x]     1	Claudio Scordino <c.scordino@list-group.com> (provided only a minor bugfix)
+- [x]     1	Michael Compton <michael.compton@littleedge.co.uk> (provided only a minor bugfix)
+- [x]     1	Diego Duclos <diego.duclos@palmstonegames.com> (provided only a minor bugfix)
+- [x]     1	Michaël Paul <michael.paul@fivesgroup.com> (provided only a minor bugfix)
+- [x]     1	Gergely Nagy <algernon@balabit.hu> (provided only a minor bugfix)
+- [x]     1	Mathias Hablützel <habl@zhaw.ch> (provided only a minor bugfix)
+- [x]     1	ganesh.vr <ganesh.vr@samsung.com> (provided only a minor bugfix)
+- [x]     1	PP <pp@pp.com> (provided only a minor bugfix)
+- [x]     1	Markus Rothe <markus@unixforces.net> (provided only a minor bugfix)
+- [x]     1	Jeremy Tan <jeremy@jx.tan.fake> (provided only a minor bugfix)
+
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
@@ -50,7 +74,6 @@ Checklist of all license agreements:
 - [ ]    41	KIU Shueng Chuan <nixchuan@gmail.com>
 - [ ]    27	unknown <bundra@.(none)>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
-- [ ]    24	Sergey KHripchenko <shripchenko@intermedia.net>
 - [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
 - [ ]    21	Arnaud Kapp <kapp.arno@gmail.com>
 - [ ]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
@@ -140,7 +163,7 @@ Checklist of all license agreements:
 - [ ]     3	Thomas Braun <thomas.braun@byte-physics.de>
 - [ ]     3	Tom Whittock <tom.whittock@gmail.com>
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
-- [ ]     2	Adrian Muraru <amuraru@adobe.com>
+- [ ]     3	John Murphy <murphybytes@gmail.com>
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
 - [ ]     2	Andreas Rottmann <a.rottmann@gmx.at>
 - [ ]     2	Anthony Scemama <scemama@irsamc.ups-tlse.fr>
@@ -162,7 +185,6 @@ Checklist of all license agreements:
 - [ ]     2	Hunter Laux <hunterlaux@gmail.com>
 - [ ]     2	Jim Hague <jim.hague@acm.org>
 - [ ]     2	Joel Lauener <Joel.Lauener@cern.ch>
-- [ ]     2	John Murphy <murphybytes@gmail.com>
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Joshua Gao <jmg116@gmail.com>
 - [ ]     2	Justin.Hung <justin.hung@foxmail.com>
@@ -224,7 +246,6 @@ Checklist of all license agreements:
 - [ ]     1	Chris Staite <chris@yourdreamnet.co.uk>
 - [ ]     1	Chris-P-Bacon <m00d@freenet.de>
 - [ ]     1	Christian Gudrian <christian.gudrian@fluidon.com>
-- [ ]     1	Cyril Holweck <cyril.holweck@free.fr>
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
 - [ ]     1	Dahko <steed2005@gmail.com>
 - [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
@@ -289,7 +310,6 @@ Checklist of all license agreements:
 - [ ]     1	Michel Zou <xantares09@hotmail.com>
 - [ ]     1	Mika Fischer <fischer@videmo.de>
 - [ ]     1	Mika Fischer <mika.fischer@zoopnet.de>
-- [ ]     1	Montoya Edu <montoya.edu@gmail.com>
 - [ ]     1	Neale Ferguson <neale@sinenomine.net>
 - [ ]     1	Nikhil Mishra <nikhil@cinarra.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
@@ -360,28 +380,8 @@ Invalid e-mail:
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
 - [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     2	dave b <david.brown@datasift.com>
-- [ ]     2	Alexey Melnichuk <mimir@newmail.ru>
-- [ ]     2	Alex Pyrgiotis <apyrgio@grnet.gr>
-- [ ]     2	Alessandro Ghedini <al3xbio@gmail.com>
-- [ ]     2	Mikael Helbo Kjaer <mhk@designtech.dk>
-- [ ]     2	Topher Brown <chris.brown@farsounder.com>
-- [ ]     1	Markus Rothe <markus@unixforces.net>
-- [ ]     1	Jeremy Tan <jeremy@jx.tan.fake>
-- [ ]     1	Daniel Lupu <dflupu@bitbucket.org>
-- [ ]     1	Jose Pedro Oliveira <jpo@di.uminho.pt>
-- [ ]     1	Claudio Scordino <c.scordino@list-group.com>
-- [ ]     1	Michael Compton <michael.compton@littleedge.co.uk>
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
-- [ ]     1	John Murphy <muprhybytes@gmail.com>
-- [ ]     1	Diego Duclos <diego.duclos@palmstonegames.com>
-- [ ]     1	Michaël Paul <michael.paul@fivesgroup.com>
-- [ ]     1	Gergely Nagy <algernon@balabit.hu>
-- [ ]     1	Mathias Hablützel <habl@zhaw.ch>
-- [ ]     1	ganesh.vr <ganesh.vr@samsung.com>
-- [ ]     1	PP <pp@pp.com>
 - [ ]     1	Adrian von Bidder <avbidder@fortytwo.ch>
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
-- [ ]     1	Bjorn Reese <breese@sourceforge.net>
 - [ ]     1	Ken Steele <ken@tilera.com>
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
-- [ ]     1	NetImperia <com@netimperia.com>
