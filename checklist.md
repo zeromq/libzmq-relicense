@@ -31,6 +31,7 @@ Checklist of all license agreements:
 - [x]     1	Daniel Shih <hotingwow@gmail.com>
 - [x]     1	Tore Halvorsen <tore.halvorsen@gmail.com>
 - [x]     1	Matt Bolger <matt.bolger@csiro.au>
+- [x]     1	Taras Shpot <taras.shpot@eleks.com> (provided only a minor bugfix)
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -317,7 +318,6 @@ Checklist of all license agreements:
 - [ ]     1	Steven Chamberlain <steven@pyro.eu.org>
 - [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Takeshi Abe <tabe@fixedpoint.jp>
-- [ ]     1	Taras Shpot <taras.shpot@eleks.com>
 - [ ]     1	Toralf Wittner <toralf.wittner@gmail.com>
 - [ ]     1	Usama Mehboob <10beeumehboob@seecs.edu.pk>
 - [ ]     1	V G <veegee@veegee.org>
