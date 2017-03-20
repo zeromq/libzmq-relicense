@@ -60,7 +60,6 @@ Checklist of all license agreements:
 - [x]     1	PP <pp@pp.com> (provided only a minor bugfix)
 - [x]     1	Markus Rothe <markus@unixforces.net> (provided only a minor bugfix)
 - [x]     1	Jeremy Tan <jeremy@jx.tan.fake> (provided only a minor bugfix)
-
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
