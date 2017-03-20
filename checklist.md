@@ -1,19 +1,19 @@
 Checklist of all license agreements:
 
-- [x]  1139	Pieter Hintjens <ph@imatix.com>
+- [x]  1139	Pieter Hintjens <ph@imatix.com> **(MPLv2)**
 - [x]   891	Martin Sustrik <sustrik@250bpm.com> (grant by iMatix)
-- [x]   376	Luca Boccassi <luca.boccassi@gmail.com>
+- [x]   376	Luca Boccassi <luca.boccassi@gmail.com> **(MPLv2)**
 - [x]   284	Constantin Rack <constantin.rack@gmail.com>
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
 - [x]    24	Sergey KHripchenko <shripchenko@intermedia.net>
-- [x]    19	Ewen McNeill <ewen@naos.co.nz>
+- [x]    19	Ewen McNeill <ewen@naos.co.nz> **(MPLv2)**
 - [x]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
-- [x]     8	Kevin Sapper <mail@kevinsapper.de>
+- [x]     8	Kevin Sapper <mail@kevinsapper.de> **(MPLv2)**
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
 - [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
@@ -28,9 +28,9 @@ Checklist of all license agreements:
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
 - [x]     2	Andre Caron <andre.l.caron@gmail.com>
 - [x]     2	Jan Kryl <jan.kryl@nexenta.com>
-- [x]     2	Brian Knox <taotetek@gmail.com>
-- [x]     1	Brian Knox <bknox@digitalocean.com>
-- [x]     1	Brian Knox <briank@talksum.com>
+- [x]     2	Brian Knox <taotetek@gmail.com> **(MPLv2)**
+- [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
+- [x]     1	Brian Knox <briank@talksum.com> **(MPLv2)**
 - [x]     2	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org>
 - [x]     2	Alessandro Ghedini <al3xbio@gmail.com> (provided only a minor bugfix)
 - [x]     2	Mikael Helbo Kjaer <mhk@designtech.dk> (provided only a minor bugfix)
@@ -49,7 +49,7 @@ Checklist of all license agreements:
 - [x]     1	chuggafan <chuggafans@gmail.com>
 - [x]     1	Rob Gagnon <rgagnon24@gmail.com>
 - [x]     1	Jtzl Forshizl <jtg@intarcorp.com>
-- [x]     1	Chia-liang Kao <clkao@clkao.org>
+- [x]     1	Chia-liang Kao <clkao@clkao.org> **(MPLv2 share-alike)**
 - [x]     1	Daniel Shih <hotingwow@gmail.com>
 - [x]     1	Tore Halvorsen <tore.halvorsen@gmail.com>
 - [x]     1	Matt Bolger <matt.bolger@csiro.au>
