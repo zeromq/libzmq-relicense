@@ -6,14 +6,18 @@ Checklist of all license agreements:
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
 - [x]    19	Ewen McNeill <ewen@naos.co.nz>
+- [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
+- [x]    10	Bitiquinho <consoni_2519@hotmail.com>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
+- [x]     3	Vincent Tellier <vincent@tellier.me>
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
 - [x]     2	Andre Caron <andre.l.caron@gmail.com>
 - [x]     2	Jan Kryl <jan.kryl@nexenta.com>
+- [x]     2	Brian Knox <taotetek@gmail.com>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
 - [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
@@ -22,7 +26,9 @@ Checklist of all license agreements:
 - [x]     1	chuggafan <chuggafans@gmail.com>
 - [x]     1	Rob Gagnon <rgagnon24@gmail.com>
 - [x]     1	Jtzl Forshizl <jtg@intarcorp.com>
-- [ ]     1	Daniel Shih <hotingwow@gmail.com>
+- [x]     1	Chia-liang Kao <clkao@clkao.org>
+- [x]     1	Daniel Shih <hotingwow@gmail.com>
+- [x]     1	Tore Halvorsen <tore.halvorsen@gmail.com>
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -47,7 +53,6 @@ Checklist of all license agreements:
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
 - [ ]    14	Matt Connolly <matt.connolly@me.com>
 - [ ]    13	Frank Hartmann <soundart@gmx.net>
-- [ ]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [ ]    13	Timothy Mossbarger <tim@ent.net>
 - [ ]    12	Brian Silverman <brian@peloton-tech.com>
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
@@ -59,7 +64,6 @@ Checklist of all license agreements:
 - [ ]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
 - [ ]    11	Olaf Mandel <o.mandel@menlosystems.com>
 - [ ]    10	AJ Lewis <aj.lewis@quantum.com>
-- [ ]    10	Bitiquinho <consoni_2519@hotmail.com>
 - [ ]    10	Mike Gatny <mgatny@gmail.com>
 - [ ]    10	Phillip Mienk <mienkphi@gmail.com>
 - [ ]     9	Anonymous Maarten <anonymous.maarten@gmail.com>
@@ -130,14 +134,12 @@ Checklist of all license agreements:
 - [ ]     3	Samuel Martin <s.martin49@gmail.com>
 - [ ]     3	Thomas Braun <thomas.braun@byte-physics.de>
 - [ ]     3	Tom Whittock <tom.whittock@gmail.com>
-- [ ]     3	Vincent Tellier <vincent@tellier.me>
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
 - [ ]     2	Adrian Muraru <amuraru@adobe.com>
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
 - [ ]     2	Andreas Rottmann <a.rottmann@gmx.at>
 - [ ]     2	Anthony Scemama <scemama@irsamc.ups-tlse.fr>
 - [ ]     2	Asmod4n <Asmod4n@users.noreply.github.com>
-- [ ]     2	Brian Knox <taotetek@gmail.com>
 - [ ]     2	Bruno D. Rodrigues <bruno.rodrigues@litux.org>
 - [ ]     2	Caleb Epstein <cae@bklyn.org>
 - [ ]     2	Charles McGarvey <chazmcgarvey@brokenzipper.com>
@@ -215,7 +217,6 @@ Checklist of all license agreements:
 - [ ]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [ ]     1	Carl Clemens <carlclemens1@yahoo.com>
 - [ ]     1	Chernyshev Vyacheslav <astellar@ro.ru>
-- [ ]     1	Chia-liang Kao <clkao@clkao.org>
 - [ ]     1	Chris Rempel <csrl@gmx.com>
 - [ ]     1	Chris Staite <chris@yourdreamnet.co.uk>
 - [ ]     1	Chris-P-Bacon <m00d@freenet.de>
@@ -320,7 +321,6 @@ Checklist of all license agreements:
 - [ ]     1	Takeshi Abe <tabe@fixedpoint.jp>
 - [ ]     1	Taras Shpot <taras.shpot@eleks.com>
 - [ ]     1	Toralf Wittner <toralf.wittner@gmail.com>
-- [ ]     1	Tore Halvorsen <tore.halvorsen@gmail.com>
 - [ ]     1	Usama Mehboob <10beeumehboob@seecs.edu.pk>
 - [ ]     1	V G <veegee@veegee.org>
 - [ ]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
