@@ -8,11 +8,14 @@ Checklist of all license agreements:
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
 - [x]    24	Sergey KHripchenko <shripchenko@intermedia.net>
 - [x]    19	Ewen McNeill <ewen@naos.co.nz>
+- [x]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
 - [x]     8	Kevin Sapper <mail@kevinsapper.de>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
+- [x]     5	Johan Mabille <johan.mabille@gmail.com>
+- [x]     4	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
@@ -29,6 +32,8 @@ Checklist of all license agreements:
 - [x]     2	Topher Brown <chris.brown@farsounder.com> (provided only a minor bugfix)
 - [x]     2	Alexey Melnichuk <mimir@newmail.ru> (provided only a minor bugfix)
 - [x]     2	Alex Pyrgiotis <apyrgio@grnet.gr> (provided only a minor bugfix)
+- [x]     2	Justin.Hung <justin.hung@foxmail.com>
+- [x]     2	Jim Hague <jim.hague@acm.org>
 - [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
@@ -61,6 +66,9 @@ Checklist of all license agreements:
 - [x]     1	Markus Rothe <markus@unixforces.net> (provided only a minor bugfix)
 - [x]     1	Jeremy Tan <jeremy@jx.tan.fake> (provided only a minor bugfix)
 - [x]     1	Diego Fons <diego.fons@intraway.com>
+- [x]     1	Dan Riegsecker <1baldgeek@gmail.com>
+- [x]     1	Eric Camachat <eric@camachat.org>
+- [x]     1	Gavin <gavin@mcniff.ie>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
@@ -76,7 +84,6 @@ Checklist of all license agreements:
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
 - [ ]    21	Arnaud Kapp <kapp.arno@gmail.com>
-- [ ]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
 - [ ]    17	Chuck Remes <git@chuckremes.com>
 - [ ]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
@@ -91,7 +98,6 @@ Checklist of all license agreements:
 - [ ]    12	Osiris <opedroso@gmail.com>
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
 - [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
-- [ ]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
 - [ ]    11	Olaf Mandel <o.mandel@menlosystems.com>
 - [ ]    10	AJ Lewis <aj.lewis@quantum.com>
 - [ ]    10	Mike Gatny <mgatny@gmail.com>
@@ -101,7 +107,6 @@ Checklist of all license agreements:
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
 - [ ]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
-- [ ]     9	Thomas Rodgers <rodgert@twrodgers.com>
 - [ ]     8	Laughing <hnwyllmm@126.com>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 - [ ]     8	Stoian Ivanov <sdr@tera-com.com>
@@ -122,7 +127,6 @@ Checklist of all license agreements:
 - [ ]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
 - [ ]     5	Fedor Sheremetyev <sheremetyev@gmail.com>
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
-- [ ]     5	Johan Mabille <johan.mabille@gmail.com>
 - [ ]     5	Jos Decoster <jos.decoster@gmail.com>
 - [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu>
 - [ ]     5	Mark Barbisan <mark@barbisan.ca>
@@ -139,7 +143,6 @@ Checklist of all license agreements:
 - [ ]     4	Nick Guiffrida <goodfella005@gmail.com>
 - [ ]     4	Rik van der Heijden <rik.vanderheijden@dualinventive.com>
 - [ ]     4	Sergei Nikulov <sergey.nikulov@gmail.com>
-- [ ]     4	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [ ]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [ ]     3	Ben Gray <ben@benjamg.com>
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
@@ -183,17 +186,14 @@ Checklist of all license agreements:
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
 - [ ]     2	Hugh Powell <hugh@hughpowell.co.uk>
 - [ ]     2	Hunter Laux <hunterlaux@gmail.com>
-- [ ]     2	Jim Hague <jim.hague@acm.org>
 - [ ]     2	Joel Lauener <Joel.Lauener@cern.ch>
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Joshua Gao <jmg116@gmail.com>
-- [ ]     2	Justin.Hung <justin.hung@foxmail.com>
 - [ ]     2	Kos <vbz276@gmail.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
 - [ ]     2	Lourens Naudé <lourens@methodmissing.com>
 - [ ]     2	Maarten Ditzel <maarten.ditzel@tno.nl>
 - [ ]     2	Martijn Jasperse <m.jasperse@gmail.com>
-- [ ]     2	Matt Arsenault <arsenm2@gmail.com>
 - [ ]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
 - [ ]     2	Matthias Kluwe <mkluwe@gmail.com>
 - [ ]     2	Michael Lutz <michi@icosahedron.de>
@@ -250,7 +250,6 @@ Checklist of all license agreements:
 - [ ]     1	Dahko <steed2005@gmail.com>
 - [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
 - [ ]     1	Dan Mick <dan.mick@inktank.com>
-- [ ]     1	Dan Riegsecker <1baldgeek@gmail.com>
 - [ ]     1	Dave Olszewski <daveo@nodesource.com>
 - [ ]     1	David Millard <dmillard10@gmail.com>
 - [ ]     1	Davor Lozic <warriorkitty@warriorkitty.com>
@@ -261,10 +260,8 @@ Checklist of all license agreements:
 - [ ]     1	Duane Littleton <dlittleton@vocollect.com>
 - [ ]     1	Edward Vielmetti <edward.vielmetti@gmail.com>
 - [ ]     1	Emmanuel Taurel <taurel@esrf.fr>
-- [ ]     1	Eric Camachat <eric@camachat.org>
 - [ ]     1	Evan Burkitt <evanb@edulinksys.com>
 - [ ]     1	Floris Bruynooghe <flub@devork.be>
-- [ ]     1	Gavin <gavin@mcniff.ie>
 - [ ]     1	Gennady Makovetski <makovetski@gmail.com>
 - [ ]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
 - [ ]     1	Ghislain Putois <ghpu@infonie.fr>
@@ -306,7 +303,6 @@ Checklist of all license agreements:
 - [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
 - [ ]     1	Michael Hand <mipa@matrix.by>
 - [ ]     1	Michel Pelletier <pelletier.michel@gmail.com>
-- [ ]     1	Michel Zou <xantares09@hotmail.com>
 - [ ]     1	Mika Fischer <fischer@videmo.de>
 - [ ]     1	Mika Fischer <mika.fischer@zoopnet.de>
 - [ ]     1	Neale Ferguson <neale@sinenomine.net>
@@ -367,15 +363,25 @@ Check code (former ericsson employee):
 
 Same user
 - [ ]     2	a4z <harald.achitz@gmail.com>
-- [ ]     1	Harald <harald.achitz@getinge.com>
+- [ ]     1	Harald <harald.achitz@getinge.com> (don't use this email, work email configured, wrong git config)
+
+Same user
+- [ ]    23	Thomas Rodgers <trodgers@drw.com> (invalid email)
+- [ ]     9	Thomas Rodgers <rodgert@twrodgers.com>
+
+Same user
+- [ ]    12	Michel Zou <xantares10@hotmail.com> (invalid email)
+- [ ]     1	Michel Zou <xantares09@hotmail.com>
+
+Same user
+- [ ]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
+- [ ]     8	Matt Arsenault <arsenm2@rpi.edu>
+- [ ]     2	Matt Arsenault <arsenm2@gmail.com>
 
 Invalid e-mail:
-- [ ]    23	Thomas Rodgers <trodgers@drw.com>
 - [ ]    16	Jens Auer <jens.auer@cgi.com>
 - [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
-- [ ]    12	Michel Zou <xantares10@hotmail.com>
 - [ ]    12	Arthur O'Dwyer <arthur@push.am>
-- [ ]     8	Matt Arsenault <arsenm2@rpi.edu>
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
 - [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     2	dave b <david.brown@datasift.com>
