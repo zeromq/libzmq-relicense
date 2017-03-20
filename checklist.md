@@ -60,6 +60,7 @@ Checklist of all license agreements:
 - [x]     1	PP <pp@pp.com> (provided only a minor bugfix)
 - [x]     1	Markus Rothe <markus@unixforces.net> (provided only a minor bugfix)
 - [x]     1	Jeremy Tan <jeremy@jx.tan.fake> (provided only a minor bugfix)
+- [x]     1	Diego Fons <diego.fons@intraway.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
@@ -254,7 +255,6 @@ Checklist of all license agreements:
 - [ ]     1	David Millard <dmillard10@gmail.com>
 - [ ]     1	Davor Lozic <warriorkitty@warriorkitty.com>
 - [ ]     1	Denis Mingulov <denis@mingulov.com>
-- [ ]     1	Diego Fons <diego.fons@intraway.com>
 - [ ]     1	Diego Rodriguez-Losada <diego.rlosada@gmail.com>
 - [ ]     1	Douglas Cuthbertson <doug.cuthbertson@gmail.com>
 - [ ]     1	Drew Crawford <drew@sealedabstract.com>
