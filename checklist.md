@@ -17,6 +17,7 @@ Checklist of all license agreements:
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
 - [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
+- [x]     5	Fedor Sheremetyev <sheremetyev@gmail.com> **(MPLv2)**
 - [x]     4	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
@@ -28,6 +29,8 @@ Checklist of all license agreements:
 - [x]     2	Andre Caron <andre.l.caron@gmail.com>
 - [x]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [x]     2	Brian Knox <taotetek@gmail.com>
+- [x]     1	Brian Knox <bknox@digitalocean.com>
+- [x]     1	Brian Knox <briank@talksum.com>
 - [x]     2	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org>
 - [x]     2	Alessandro Ghedini <al3xbio@gmail.com> (provided only a minor bugfix)
 - [x]     2	Mikael Helbo Kjaer <mhk@designtech.dk> (provided only a minor bugfix)
@@ -71,6 +74,7 @@ Checklist of all license agreements:
 - [x]     1	Diego Fons <diego.fons@intraway.com>
 - [x]     1	Dan Riegsecker <1baldgeek@gmail.com>
 - [x]     1	Eric Camachat <eric@camachat.org>
+- [x]     1	camachat <camachat@users.noreply.github.com>
 - [x]     1	Gavin <gavin@mcniff.ie>
 - [x]     1	mlodew <markus.schori@outlook.com> (provided only a minor bugfix)
 - [x]     1	o172(xenovo) <git@o172.net> (provided only a minor bugfix)
@@ -83,6 +87,7 @@ Checklist of all license agreements:
 - [x]     1	hjp <hjp-github@hjp.at> (provided only a minor bugfix)
 - [x]     1	Ghislain Putois <ghpu@infonie.fr>
 - [x]     1	Armin Burgmeier <aburgmeier@bloomberg.net>
+- [x]     1	Diego Rodriguez-Losada <diego.rlosada@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
@@ -90,7 +95,6 @@ Checklist of all license agreements:
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [ ]    51	Min RK <benjaminrk@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
 - [ ]    45	Joe Eli McIlvain <joe.eli.mac@gmail.com>
 - [ ]    41	KIU Shueng Chuan <nixchuan@gmail.com>
 - [ ]    27	unknown <bundra@.(none)>
@@ -133,11 +137,8 @@ Checklist of all license agreements:
 - [ ]     6	Andrey Sibiryov <me@kobology.ru>
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
 - [ ]     6	Luca Boccassi <lboccass@brocade.com>
-- [ ]     6	OBATA Akio <obache@users.noreply.github.com>
 - [ ]     6	Trevor Bernard <trevor.bernard@gmail.com>
-- [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
-- [ ]     5	Fedor Sheremetyev <sheremetyev@gmail.com>
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
 - [ ]     5	Jos Decoster <jos.decoster@gmail.com>
 - [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu>
@@ -165,7 +166,6 @@ Checklist of all license agreements:
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
 - [ ]     3	Hiten P <hp010170@gmail.com>
 - [ ]     3	Ivo Danihelka <ivo@danihelka.net>
-- [ ]     3	Jim Klimov <jim@jimklimov.com>
 - [ ]     3	John Muehlhausen <jgm@jgm.org>
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
 - [ ]     3	Josh Blum <josh@joshknows.com>
@@ -182,7 +182,6 @@ Checklist of all license agreements:
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
 - [ ]     2	Andreas Rottmann <a.rottmann@gmx.at>
 - [ ]     2	Anthony Scemama <scemama@irsamc.ups-tlse.fr>
-- [ ]     2	Asmod4n <Asmod4n@users.noreply.github.com>
 - [ ]     2	Bruno D. Rodrigues <bruno.rodrigues@litux.org>
 - [ ]     2	Caleb Epstein <cae@bklyn.org>
 - [ ]     2	Charles McGarvey <chazmcgarvey@brokenzipper.com>
@@ -225,7 +224,6 @@ Checklist of all license agreements:
 - [ ]     2	Volodymyr Korniichuk <VolodymyrKorn@gmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
 - [ ]     2	boris@boressoft.ru <boris@boressoft.ru>
-- [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
 - [ ]     2	niXman <i.nixman@gmail.com>
 - [ ]     2	pavel.pimenov <pavel.pimenov@gmail.com>
 - [ ]     2	sunkin351 <17joshuanewcomb@gmail.com>
@@ -245,11 +243,8 @@ Checklist of all license agreements:
 - [ ]     1	Bjorn Topel <bjorn.topel@gmail.com>
 - [ ]     1	Boris Lytochkin <lytboris@yandex-team.ru>
 - [ ]     1	Brian Buchanan <bwb@holo.org>
-- [ ]     1	Brian Knox <bknox@digitalocean.com>
-- [ ]     1	Brian Knox <briank@talksum.com>
 - [ ]     1	Bruno Bigras <bigras.bruno@gmail.com>
 - [ ]     1	Burak Arslan <burak-github@arskom.com.tr>
-- [ ]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [ ]     1	Carl Clemens <carlclemens1@yahoo.com>
 - [ ]     1	Chernyshev Vyacheslav <astellar@ro.ru>
 - [ ]     1	Chris Rempel <csrl@gmx.com>
@@ -264,7 +259,6 @@ Checklist of all license agreements:
 - [ ]     1	David Millard <dmillard10@gmail.com>
 - [ ]     1	Davor Lozic <warriorkitty@warriorkitty.com>
 - [ ]     1	Denis Mingulov <denis@mingulov.com>
-- [ ]     1	Diego Rodriguez-Losada <diego.rlosada@gmail.com>
 - [ ]     1	Douglas Cuthbertson <doug.cuthbertson@gmail.com>
 - [ ]     1	Drew Crawford <drew@sealedabstract.com>
 - [ ]     1	Duane Littleton <dlittleton@vocollect.com>
@@ -298,7 +292,6 @@ Checklist of all license agreements:
 - [ ]     1	Kouhei Sutou <kou@clear-code.com>
 - [ ]     1	Leonard Michelet <leonard.michelet@openwide.fr>
 - [ ]     1	Lionel Orry <lionel.orry@gmail.com>
-- [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
 - [ ]     1	Marc Rossi <mrossi19@gmail.com>
 - [ ]     1	Marin Atanasov Nikolov <dnaeon@gmail.com>
 - [ ]     1	Markus Pfeiffer <markus.pfeiffer@morphism.de>
@@ -326,7 +319,6 @@ Checklist of all license agreements:
 - [ ]     1	Pete LaDow <pete_ladow@selinc.com>
 - [ ]     1	Peter Bourgon <peter.bourgon@gmail.com>
 - [ ]     1	Peter Korsgaard <peter@korsgaard.com>
-- [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Richard Janis Goldschmidt <janis.beckert@gmail.com>
 - [ ]     1	Rik van der Heijden <mail@rikvanderheijden.com>
 - [ ]     1	Robert Castle <robert@egomotion.co.uk>
@@ -354,7 +346,6 @@ Checklist of all license agreements:
 - [ ]     1	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
-- [ ]     1	camachat <camachat@users.noreply.github.com>
 - [ ]     1	sigiesec <simon.giesecke@btc-ag.com>
 
 Check code (former ericsson employee):
@@ -390,3 +381,14 @@ Invalid e-mail:
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
 - [ ]     1	Ken Steele <ken@tilera.com>
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
+
+Email not accepted:
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
+- [ ]     6	OBATA Akio <obache@users.noreply.github.com>
+- [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
+- [ ]     3	Jim Klimov <jim@jimklimov.com>
+- [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
+- [ ]     2	Asmod4n <Asmod4n@users.noreply.github.com>
+- [ ]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
+- [ ]     1	Philip Kovacs <phil@philkovacs.com>
+- [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
