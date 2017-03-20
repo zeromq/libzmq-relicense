@@ -12,6 +12,7 @@ Checklist of all license agreements:
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
+- [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
@@ -29,6 +30,7 @@ Checklist of all license agreements:
 - [x]     1	Chia-liang Kao <clkao@clkao.org>
 - [x]     1	Daniel Shih <hotingwow@gmail.com>
 - [x]     1	Tore Halvorsen <tore.halvorsen@gmail.com>
+- [x]     1	Matt Bolger <matt.bolger@csiro.au>
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
@@ -121,7 +123,6 @@ Checklist of all license agreements:
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
 - [ ]     3	Hiten P <hp010170@gmail.com>
 - [ ]     3	Ivo Danihelka <ivo@danihelka.net>
-- [ ]     3	Jim Garlick <garlick.jim@gmail.com>
 - [ ]     3	Jim Klimov <jim@jimklimov.com>
 - [ ]     3	John Muehlhausen <jgm@jgm.org>
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
@@ -187,7 +188,6 @@ Checklist of all license agreements:
 - [ ]     2	Vincent Tellier <Vincent.Tellier@Stingray.no>
 - [ ]     2	Volodymyr Korniichuk <VolodymyrKorn@gmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
-- [ ]     2	a4z <harald.achitz@gmail.com>
 - [ ]     2	boris@boressoft.ru <boris@boressoft.ru>
 - [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
 - [ ]     2	niXman <i.nixman@gmail.com>
@@ -250,7 +250,6 @@ Checklist of all license agreements:
 - [ ]     1	Giulio Eulisse <giulio.eulisse@cern.ch>
 - [ ]     1	Guilherme Steinmann <guidefloripa@gmail.com>
 - [ ]     1	Gyula Laszlo <gyula.laszlo.gm@gmail.com>
-- [ ]     1	Harald <harald.achitz@getinge.com>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
 - [ ]     1	Henrik Feldt <henrik@haf.se>
 - [ ]     1	Henrik S. Gaßmann <h.gassmann@online.de>
@@ -276,7 +275,6 @@ Checklist of all license agreements:
 - [ ]     1	Marin Atanasov Nikolov <dnaeon@gmail.com>
 - [ ]     1	Markus Pfeiffer <markus.pfeiffer@morphism.de>
 - [ ]     1	Martin Natano <natano@natano.net>
-- [ ]     1	Matt Bolger <matt.bolger@csiro.au>
 - [ ]     1	Matthew Hawn <steamraven@yahoo.com>
 - [ ]     1	Maurice Barnum <msb@yahoo-inc.com>
 - [ ]     1	Maurizio Melato <maurizio.melato@nice-software.com>
@@ -346,6 +344,10 @@ Checklist of all license agreements:
 Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
 - [ ]     1	Erik Hugne <erik.hugne@gmail.com>
+
+Same user
+- [ ]     2	a4z <harald.achitz@gmail.com>
+- [ ]     1	Harald <harald.achitz@getinge.com>
 
 Invalid e-mail:
 - [ ]    23	Thomas Rodgers <trodgers@drw.com>
