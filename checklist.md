@@ -69,6 +69,15 @@ Checklist of all license agreements:
 - [x]     1	Dan Riegsecker <1baldgeek@gmail.com>
 - [x]     1	Eric Camachat <eric@camachat.org>
 - [x]     1	Gavin <gavin@mcniff.ie>
+- [x]     1	mlodew <markus.schori@outlook.com> (provided only a minor bugfix)
+- [x]     1	o172(xenovo) <git@o172.net> (provided only a minor bugfix)
+- [x]     1	reza-ebrahimi <reza.ebrahimi.dev@gmail.com> (provided only a minor bugfix)
+- [x]     1	roalz <roal.zanazzi@gmail.com> (provided only a minor bugfix)
+- [x]     1	yasirs <yasir.suhail@gmail.com> (provided only a minor bugfix)
+- [x]     1	zstang <zshtangbuaa@gmail.com> (provided only a minor bugfix)
+- [x]     1	xinchuan <nixchuan@gmail.com> (provided only a minor bugfix)
+- [x]     1	Peter J. Holzer <hjp@hjp.at> (provided only a minor bugfix)
+- [x]     1	hjp <hjp-github@hjp.at> (provided only a minor bugfix)
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
@@ -316,7 +325,6 @@ Checklist of all license agreements:
 - [ ]     1	Perry Kundert <perry@kundert.ca>
 - [ ]     1	Pete LaDow <pete_ladow@selinc.com>
 - [ ]     1	Peter Bourgon <peter.bourgon@gmail.com>
-- [ ]     1	Peter J. Holzer <hjp@hjp.at>
 - [ ]     1	Peter Korsgaard <peter@korsgaard.com>
 - [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Richard Janis Goldschmidt <janis.beckert@gmail.com>
@@ -347,15 +355,7 @@ Checklist of all license agreements:
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
 - [ ]     1	camachat <camachat@users.noreply.github.com>
-- [ ]     1	hjp <hjp-github@hjp.at>
-- [ ]     1	mlodew <markus.schori@outlook.com>
-- [ ]     1	o172(xenovo) <git@o172.net>
-- [ ]     1	reza-ebrahimi <reza.ebrahimi.dev@gmail.com>
-- [ ]     1	roalz <roal.zanazzi@gmail.com>
 - [ ]     1	sigiesec <simon.giesecke@btc-ag.com>
-- [ ]     1	xinchuan <nixchuan@gmail.com>
-- [ ]     1	yasirs <yasir.suhail@gmail.com>
-- [ ]     1	zstang <zshtangbuaa@gmail.com>
 
 Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
