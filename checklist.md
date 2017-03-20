@@ -1,6 +1,7 @@
 Checklist of all license agreements:
 
 - [x]  1139	Pieter Hintjens <ph@imatix.com>
+- [x]   891	Martin Sustrik <sustrik@250bpm.com> (grant by iMatix)
 - [x]   376	Luca Boccassi <luca.boccassi@gmail.com>
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
@@ -9,6 +10,7 @@ Checklist of all license agreements:
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
+- [x]     8	Kevin Sapper <mail@kevinsapper.de>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
@@ -34,7 +36,7 @@ Checklist of all license agreements:
 - [x]     1	Tore Halvorsen <tore.halvorsen@gmail.com>
 - [x]     1	Matt Bolger <matt.bolger@csiro.au>
 - [x]     1	Taras Shpot <taras.shpot@eleks.com> (provided only a minor bugfix)
-- [ ]   891	Martin Sustrik <sustrik@250bpm.com>
+- [x]     1	Christophe Juniet <c.juniet@gmail.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
@@ -77,7 +79,6 @@ Checklist of all license agreements:
 - [ ]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]     9	Thomas Rodgers <rodgert@twrodgers.com>
-- [ ]     8	Kevin Sapper <mail@kevinsapper.de>
 - [ ]     8	Laughing <hnwyllmm@126.com>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 - [ ]     8	Stoian Ivanov <sdr@tera-com.com>
@@ -223,7 +224,6 @@ Checklist of all license agreements:
 - [ ]     1	Chris Staite <chris@yourdreamnet.co.uk>
 - [ ]     1	Chris-P-Bacon <m00d@freenet.de>
 - [ ]     1	Christian Gudrian <christian.gudrian@fluidon.com>
-- [ ]     1	Christophe Juniet <c.juniet@gmail.com>
 - [ ]     1	Cyril Holweck <cyril.holweck@free.fr>
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
 - [ ]     1	Dahko <steed2005@gmail.com>
