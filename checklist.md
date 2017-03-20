@@ -82,6 +82,7 @@ Checklist of all license agreements:
 - [x]     1	Peter J. Holzer <hjp@hjp.at> (provided only a minor bugfix)
 - [x]     1	hjp <hjp-github@hjp.at> (provided only a minor bugfix)
 - [x]     1	Ghislain Putois <ghpu@infonie.fr>
+- [x]     1	Armin Burgmeier <aburgmeier@bloomberg.net>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
@@ -238,7 +239,6 @@ Checklist of all license agreements:
 - [ ]     1	Anass Bouassaba <anass.bouassaba@t-online.de>
 - [ ]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
-- [ ]     1	Armin Burgmeier <aburgmeier@bloomberg.net>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
 - [ ]     1	Bernd Prager <bernd@prager.ws>
