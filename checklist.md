@@ -3,30 +3,32 @@ Checklist of all license agreements:
 - [x]  1139	Pieter Hintjens <ph@imatix.com>
 - [x]   376	Luca Boccassi <luca.boccassi@gmail.com>
 - [x]   123	Doron Somech <somdoron@gmail.com>
+- [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
 - [x]    19	Ewen McNeill <ewen@naos.co.nz>
+- [x]    10	Christian Kamm <kamm@incasoftware.de>
+- [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
 - [x]     2	Elliot Saba <staticfloat@gmail.com>
 - [x]     2	Andre Caron <andre.l.caron@gmail.com>
+- [x]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
 - [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
 - [x]     1	Andrew Thompson <andy@fud.org.nz>
 - [x]     1	Alex Grönholm <alex.gronholm+git@nextday.fi>
-- [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     1	chuggafan <chuggafans@gmail.com>
-- [x]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [x]     1	Rob Gagnon <rgagnon24@gmail.com>
 - [x]     1	Jtzl Forshizl <jtg@intarcorp.com>
+- [ ]     1	Daniel Shih <hotingwow@gmail.com>
 - [ ]   891	Martin Sustrik <sustrik@250bpm.com>
 - [ ]   284	Constantin Rack <constantin.rack@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
-- [ ]    96	Eric Voskuil <eric@voskuil.org>
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [ ]    51	Min RK <benjaminrk@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
@@ -58,7 +60,6 @@ Checklist of all license agreements:
 - [ ]    11	Olaf Mandel <o.mandel@menlosystems.com>
 - [ ]    10	AJ Lewis <aj.lewis@quantum.com>
 - [ ]    10	Bitiquinho <consoni_2519@hotmail.com>
-- [ ]    10	Christian Kamm <kamm@incasoftware.de>
 - [ ]    10	Mike Gatny <mgatny@gmail.com>
 - [ ]    10	Phillip Mienk <mienkphi@gmail.com>
 - [ ]     9	Anonymous Maarten <anonymous.maarten@gmail.com>
@@ -226,7 +227,6 @@ Checklist of all license agreements:
 - [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
 - [ ]     1	Dan Mick <dan.mick@inktank.com>
 - [ ]     1	Dan Riegsecker <1baldgeek@gmail.com>
-- [ ]     1	Daniel Shih <hotingwow@gmail.com>
 - [ ]     1	Dave Olszewski <daveo@nodesource.com>
 - [ ]     1	David Millard <dmillard10@gmail.com>
 - [ ]     1	Davor Lozic <warriorkitty@warriorkitty.com>
