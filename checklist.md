@@ -34,6 +34,7 @@ Checklist of all license agreements:
 - [x]     2	Alex Pyrgiotis <apyrgio@grnet.gr> (provided only a minor bugfix)
 - [x]     2	Justin.Hung <justin.hung@foxmail.com>
 - [x]     2	Jim Hague <jim.hague@acm.org>
+- [x]     2	Florian Ebeling <florian.ebeling@gmail.com>
 - [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
@@ -190,7 +191,6 @@ Checklist of all license agreements:
 - [ ]     2	Dmitriy-GH <dimatart@mail.ru>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	Eric Cornelius <EricMCornelius@gmail.com>
-- [ ]     2	Florian Ebeling <florian.ebeling@gmail.com>
 - [ ]     2	Giuseppe Corbelli <cowo78@gmail.com>
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
 - [ ]     2	Hugh Powell <hugh@hughpowell.co.uk>
