@@ -3,6 +3,7 @@ Checklist of all license agreements:
 - [x]  1139	Pieter Hintjens <ph@imatix.com>
 - [x]   891	Martin Sustrik <sustrik@250bpm.com> (grant by iMatix)
 - [x]   376	Luca Boccassi <luca.boccassi@gmail.com>
+- [x]   284	Constantin Rack <constantin.rack@gmail.com>
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
@@ -15,6 +16,7 @@ Checklist of all license agreements:
 - [x]     8	Kevin Sapper <mail@kevinsapper.de>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
+- [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
 - [x]     4	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
@@ -79,7 +81,7 @@ Checklist of all license agreements:
 - [x]     1	xinchuan <nixchuan@gmail.com> (provided only a minor bugfix)
 - [x]     1	Peter J. Holzer <hjp@hjp.at> (provided only a minor bugfix)
 - [x]     1	hjp <hjp-github@hjp.at> (provided only a minor bugfix)
-- [ ]   284	Constantin Rack <constantin.rack@gmail.com>
+- [x]     1	Ghislain Putois <ghpu@infonie.fr>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
@@ -134,7 +136,6 @@ Checklist of all license agreements:
 - [ ]     6	Trevor Bernard <trevor.bernard@gmail.com>
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
-- [ ]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
 - [ ]     5	Fedor Sheremetyev <sheremetyev@gmail.com>
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
 - [ ]     5	Jos Decoster <jos.decoster@gmail.com>
@@ -273,7 +274,6 @@ Checklist of all license agreements:
 - [ ]     1	Floris Bruynooghe <flub@devork.be>
 - [ ]     1	Gennady Makovetski <makovetski@gmail.com>
 - [ ]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
-- [ ]     1	Ghislain Putois <ghpu@infonie.fr>
 - [ ]     1	Gian Lorenzo Meocci <glmeocci@gmail.com>
 - [ ]     1	Giulio Eulisse <giulio.eulisse@cern.ch>
 - [ ]     1	Guilherme Steinmann <guidefloripa@gmail.com>
