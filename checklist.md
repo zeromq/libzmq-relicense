@@ -19,6 +19,8 @@ Checklist of all license agreements:
 - [x]     2	Andre Caron <andre.l.caron@gmail.com>
 - [x]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [x]     2	Brian Knox <taotetek@gmail.com>
+- [x]     2	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org> (agreed by email, still has to send in license agreement)
+- [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl> (agreed by email, still has to send in license agreement)
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
 - [x]     1	Christopher Dolan <chris@codingstream.org>
 - [x]     1	Nir Soffer <nirsof@gmail.com> (provided only a minor bugfix)
@@ -154,7 +156,6 @@ Checklist of all license agreements:
 - [ ]     2	Eric Cornelius <EricMCornelius@gmail.com>
 - [ ]     2	Florian Ebeling <florian.ebeling@gmail.com>
 - [ ]     2	Giuseppe Corbelli <cowo78@gmail.com>
-- [ ]     2	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org>
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
 - [ ]     2	Hugh Powell <hugh@hughpowell.co.uk>
 - [ ]     2	Hunter Laux <hunterlaux@gmail.com>
@@ -382,6 +383,5 @@ Invalid e-mail:
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
 - [ ]     1	Bjorn Reese <breese@sourceforge.net>
 - [ ]     1	Ken Steele <ken@tilera.com>
-- [ ]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
 - [ ]     1	NetImperia <com@netimperia.com>
