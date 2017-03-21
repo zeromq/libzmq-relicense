@@ -100,6 +100,7 @@ Checklist of all license agreements:
 - [x]     1	Adam Seering <aseering@gmail.com>
 - [x]     1	Gennady Makovetski <makovetski@gmail.com>
 - [x]     1	Michael Hand <mipa@matrix.by>
+- [x]     1	Edward Vielmetti <edward.vielmetti@gmail.com> (provided only a minor documentation fix)
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
@@ -265,7 +266,6 @@ Checklist of all license agreements:
 - [ ]     1	Douglas Cuthbertson <doug.cuthbertson@gmail.com>
 - [ ]     1	Drew Crawford <drew@sealedabstract.com>
 - [ ]     1	Duane Littleton <dlittleton@vocollect.com>
-- [ ]     1	Edward Vielmetti <edward.vielmetti@gmail.com>
 - [ ]     1	Emmanuel Taurel <taurel@esrf.fr>
 - [ ]     1	Evan Burkitt <evanb@edulinksys.com>
 - [ ]     1	Floris Bruynooghe <flub@devork.be>
