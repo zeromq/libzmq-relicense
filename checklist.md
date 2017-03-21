@@ -49,6 +49,8 @@ Checklist of all license agreements:
 - [x]     2	Anthony Scemama <scemama@irsamc.ups-tlse.fr>
 - [x]     2	Caleb Epstein <cae@bklyn.org>
 - [x]     2	Tommy Back <tommy.jh.back@gmail.com> (provided only a minor bugfix)
+- [x]     2	a4z <harald.achitz@gmail.com>
+- [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     1	Robert Castle <robert@egomotion.co.uk>
 - [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
@@ -348,10 +350,6 @@ Checklist of all license agreements:
 Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
 - [ ]     1	Erik Hugne <erik.hugne@gmail.com>
-
-Same user
-- [ ]     2	a4z <harald.achitz@gmail.com>
-- [ ]     1	Harald <harald.achitz@getinge.com> (don't use this email, work email configured, wrong git config)
 
 Same user
 - [ ]    23	Thomas Rodgers <trodgers@drw.com> (invalid email)
