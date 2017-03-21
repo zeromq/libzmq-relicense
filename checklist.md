@@ -48,6 +48,7 @@ Checklist of all license agreements:
 - [x]     2	Giuseppe Corbelli <cowo78@gmail.com>
 - [x]     2	Anthony Scemama <scemama@irsamc.ups-tlse.fr>
 - [x]     2	Caleb Epstein <cae@bklyn.org>
+- [x]     2	Tommy Back <tommy.jh.back@gmail.com> (provided only a minor bugfix)
 - [x]     1	Robert Castle <robert@egomotion.co.uk>
 - [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
@@ -213,7 +214,6 @@ Checklist of all license agreements:
 - [ ]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
 - [ ]     2	Matthias Kluwe <mkluwe@gmail.com>
 - [ ]     2	Michael Lutz <michi@icosahedron.de>
-- [ ]     2	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [ ]     2	Nikolay Edigaryev <edigaryev@gmail.com>
 - [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
 - [ ]     2	Sebastian Otaegui <feniix@gmail.com>
@@ -222,7 +222,6 @@ Checklist of all license agreements:
 - [ ]     2	Stuart Webster <sw_webster@hotmail.com>
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
 - [ ]     2	Thomas Braun <thomas.braun@virtuell-zuhause.de>
-- [ ]     2	Tommy Back <tommy.jh.back@gmail.com>
 - [ ]     2	Tristian Celestin <tristian.celestin@outlook.com>
 - [ ]     2	Vaughan Newton <newton.vaughan0@gmail.com>
 - [ ]     2	Victor Perron <victor@iso3103.net>
@@ -382,11 +381,14 @@ Invalid e-mail:
 - [ ]     1	Ken Steele <ken@tilera.com>
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
 
+Collegues:
+- [ ]     3	Jim Klimov <jim@jimklimov.com>
+- [ ]     2	Michal Vyskocil <michal.vyskocil@gmail.com>
+
 Email not accepted:
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
-- [ ]     3	Jim Klimov <jim@jimklimov.com>
 - [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
 - [ ]     2	Asmod4n <Asmod4n@users.noreply.github.com>
 - [ ]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
