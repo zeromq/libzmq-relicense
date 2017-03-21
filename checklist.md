@@ -113,7 +113,6 @@ Checklist of all license agreements:
 - [ ]    41	KIU Shueng Chuan <nixchuan@gmail.com>
 - [ ]    27	unknown <bundra@.(none)>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
-- [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
 - [ ]    21	Arnaud Kapp <kapp.arno@gmail.com>
 - [ ]    17	Chuck Remes <git@chuckremes.com>
 - [ ]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
@@ -303,7 +302,6 @@ Checklist of all license agreements:
 - [ ]     1	Max Kozlovsky <max@portworx.com>
 - [ ]     1	Max Wolf <YIDIEPXGXGPN@spammotel.com>
 - [ ]     1	Maxim Yakhontov <ymaax@mail.ru>
-- [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
 - [ ]     1	Michel Pelletier <pelletier.michel@gmail.com>
 - [ ]     1	Mika Fischer <fischer@videmo.de>
 - [ ]     1	Mika Fischer <mika.fischer@zoopnet.de>
@@ -387,6 +385,7 @@ Collegues:
 
 Email not accepted:
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
+- [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
@@ -394,3 +393,4 @@ Email not accepted:
 - [ ]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
+- [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
