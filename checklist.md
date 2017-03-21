@@ -21,6 +21,7 @@ Checklist of all license agreements:
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
 - [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
 - [x]     5	Fedor Sheremetyev <sheremetyev@gmail.com> **(MPLv2)**
+- [x]     5	Michael Fox <415fox@gmail.com>
 - [x]     4	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [x]     4	Franco Fichtner <franco@lastsummer.de>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
@@ -155,7 +156,6 @@ Checklist of all license agreements:
 - [ ]     5	Jos Decoster <jos.decoster@gmail.com>
 - [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu>
 - [ ]     5	Mark Barbisan <mark@barbisan.ca>
-- [ ]     5	Michael Fox <415fox@gmail.com>
 - [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com>
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be>
 - [ ]     4	Chris Busbey <cbusbey@connamara.com>
