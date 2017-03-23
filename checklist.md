@@ -55,6 +55,7 @@ Checklist of all license agreements:
 - [x]     2	Tommy Back <tommy.jh.back@gmail.com> (provided only a minor bugfix)
 - [x]     2	a4z <harald.achitz@gmail.com>
 - [x]     1	Harald <harald.achitz@getinge.com>
+- [x]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
 - [x]     1	Brian Knox <briank@talksum.com> **(MPLv2)**
 - [x]     1	Robert Castle <robert@egomotion.co.uk>
@@ -168,7 +169,6 @@ Checklist of all license agreements:
 - [ ]     4	Chris Laws <clawsicus@gmail.com>
 - [ ]     4	Dongmin Yu <miniway@gmail.com>
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
-- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     4	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com>
 - [ ]     4	Nick Guiffrida <goodfella005@gmail.com>
 - [ ]     4	Rik van der Heijden <rik.vanderheijden@dualinventive.com>
@@ -386,9 +386,9 @@ Email not accepted:
 - [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
+- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
 - [ ]     2	Asmod4n <Asmod4n@users.noreply.github.com>
-- [ ]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
 - [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
