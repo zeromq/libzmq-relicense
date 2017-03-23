@@ -7,16 +7,20 @@ Checklist of all license agreements:
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
+- [x]    41	KIU Shueng Chuan <nixchuan@gmail.com> **(MPLv2)**
 - [x]    24	Sergey KHripchenko <shripchenko@intermedia.net>
 - [x]    19	Ewen McNeill <ewen@naos.co.nz> **(MPLv2)**
 - [x]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
+- [x]    17	Chuck Remes <git@chuckremes.com>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    12	Osiris <opedroso@gmail.com>
 - [x]    11	Olaf Mandel <o.mandel@menlosystems.com> **(MPLv2)**
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
+- [x]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [x]     8	Sébastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     8	Kevin Sapper <mail@kevinsapper.de> **(MPLv2)**
+- [x]     8	Stoian Ivanov <sdr@tera-com.com>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
 - [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
@@ -27,6 +31,7 @@ Checklist of all license agreements:
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
+- [x]     3	Ivo Danihelka <ivo@danihelka.net>
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
 - [x]     2	Adrian Muraru <amuraru@adobe.com>
@@ -34,8 +39,6 @@ Checklist of all license agreements:
 - [x]     2	Andre Caron <andre.l.caron@gmail.com>
 - [x]     2	Jan Kryl <jan.kryl@nexenta.com>
 - [x]     2	Brian Knox <taotetek@gmail.com> **(MPLv2)**
-- [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
-- [x]     1	Brian Knox <briank@talksum.com> **(MPLv2)**
 - [x]     2	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org>
 - [x]     2	Alessandro Ghedini <al3xbio@gmail.com> (provided only a minor bugfix)
 - [x]     2	Mikael Helbo Kjaer <mhk@designtech.dk> (provided only a minor bugfix)
@@ -52,6 +55,8 @@ Checklist of all license agreements:
 - [x]     2	Tommy Back <tommy.jh.back@gmail.com> (provided only a minor bugfix)
 - [x]     2	a4z <harald.achitz@gmail.com>
 - [x]     1	Harald <harald.achitz@getinge.com>
+- [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
+- [x]     1	Brian Knox <briank@talksum.com> **(MPLv2)**
 - [x]     1	Robert Castle <robert@egomotion.co.uk>
 - [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [x]     1	Yuval Langer <yuval.langer@gmail.com>
@@ -105,6 +110,11 @@ Checklist of all license agreements:
 - [x]     1	Gennady Makovetski <makovetski@gmail.com>
 - [x]     1	Michael Hand <mipa@matrix.by>
 - [x]     1	Edward Vielmetti <edward.vielmetti@gmail.com> (provided only a minor documentation fix)
+- [x]     1	Martin Natano <natano@natano.net>
+- [x]     1	Takeshi Abe <tabe@fixedpoint.jp>
+- [x]     1	Bernd Prager <bernd@prager.ws>
+- [x]     1	Erik Hugne <erik.hugne@gmail.com>
+- [x]     1	Lionel Orry <lionel.orry@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
@@ -113,11 +123,9 @@ Checklist of all license agreements:
 - [ ]    51	Min RK <benjaminrk@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [ ]    45	Joe Eli McIlvain <joe.eli.mac@gmail.com>
-- [ ]    41	KIU Shueng Chuan <nixchuan@gmail.com>
 - [ ]    27	unknown <bundra@.(none)>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    21	Arnaud Kapp <kapp.arno@gmail.com>
-- [ ]    17	Chuck Remes <git@chuckremes.com>
 - [ ]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
@@ -136,11 +144,9 @@ Checklist of all license agreements:
 - [ ]     9	Anonymous Maarten <anonymous.maarten@gmail.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
-- [ ]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]     8	Laughing <hnwyllmm@126.com>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
-- [ ]     8	Stoian Ivanov <sdr@tera-com.com>
 - [ ]     8	Thomas Köppe <tkoeppe@google.com>
 - [ ]     8	Uli Köhler <ulikoehler@online.de>
 - [ ]     7	Chris Busbey <chris.busbey@gmail.com>
@@ -176,7 +182,6 @@ Checklist of all license agreements:
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu>
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
 - [ ]     3	Hiten P <hp010170@gmail.com>
-- [ ]     3	Ivo Danihelka <ivo@danihelka.net>
 - [ ]     3	John Muehlhausen <jgm@jgm.org>
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
 - [ ]     3	Josh Blum <josh@joshknows.com>
@@ -243,7 +248,6 @@ Checklist of all license agreements:
 - [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
-- [ ]     1	Bernd Prager <bernd@prager.ws>
 - [ ]     1	Bjorn Topel <bjorn.topel@gmail.com>
 - [ ]     1	Boris Lytochkin <lytboris@yandex-team.ru>
 - [ ]     1	Brian Buchanan <bwb@holo.org>
@@ -293,11 +297,9 @@ Checklist of all license agreements:
 - [ ]     1	Kevin Sapper <kevin.b.sapper@student.hs-rm.de>
 - [ ]     1	Kouhei Sutou <kou@clear-code.com>
 - [ ]     1	Leonard Michelet <leonard.michelet@openwide.fr>
-- [ ]     1	Lionel Orry <lionel.orry@gmail.com>
 - [ ]     1	Marc Rossi <mrossi19@gmail.com>
 - [ ]     1	Marin Atanasov Nikolov <dnaeon@gmail.com>
 - [ ]     1	Markus Pfeiffer <markus.pfeiffer@morphism.de>
-- [ ]     1	Martin Natano <natano@natano.net>
 - [ ]     1	Matthew Hawn <steamraven@yahoo.com>
 - [ ]     1	Maurice Barnum <msb@yahoo-inc.com>
 - [ ]     1	Maurizio Melato <maurizio.melato@nice-software.com>
@@ -332,7 +334,6 @@ Checklist of all license agreements:
 - [ ]     1	Soren Hansen <Soren.Hansen@ril.com>
 - [ ]     1	Steven Chamberlain <steven@pyro.eu.org>
 - [ ]     1	Suudy <pladow@gmail.com>
-- [ ]     1	Takeshi Abe <tabe@fixedpoint.jp>
 - [ ]     1	Toralf Wittner <toralf.wittner@gmail.com>
 - [ ]     1	Usama Mehboob <10beeumehboob@seecs.edu.pk>
 - [ ]     1	V G <veegee@veegee.org>
@@ -349,7 +350,6 @@ Checklist of all license agreements:
 
 Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
-- [ ]     1	Erik Hugne <erik.hugne@gmail.com>
 
 Same user
 - [ ]    23	Thomas Rodgers <trodgers@drw.com> (invalid email)
