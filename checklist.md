@@ -58,6 +58,7 @@ Checklist of all license agreements:
 - [x]     2	Tommy Back <tommy.jh.back@gmail.com> (provided only a minor bugfix)
 - [x]     2	a4z <harald.achitz@gmail.com>
 - [x]     2	Maarten Ditzel <maarten.ditzel@tno.nl>
+- [x]     2	Matthias Kluwe <mkluwe@gmail.com>
 - [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
@@ -223,7 +224,6 @@ Checklist of all license agreements:
 - [ ]     2	Lourens Naudé <lourens@methodmissing.com>
 - [ ]     2	Martijn Jasperse <m.jasperse@gmail.com>
 - [ ]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
-- [ ]     2	Matthias Kluwe <mkluwe@gmail.com>
 - [ ]     2	Michael Lutz <michi@icosahedron.de>
 - [ ]     2	Nikolay Edigaryev <edigaryev@gmail.com>
 - [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
