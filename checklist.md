@@ -32,6 +32,9 @@ Checklist of all license agreements:
 - [x]     3	Vincent Tellier <vincent@tellier.me>
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
 - [x]     3	Ivo Danihelka <ivo@danihelka.net>
+- [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com> (PR still open, template not completely filled)
+- [x]     3	Jim Klimov <jim@jimklimov.com>
+- [x]     2	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
 - [x]     2	Adrian Muraru <amuraru@adobe.com>
@@ -54,6 +57,7 @@ Checklist of all license agreements:
 - [x]     2	Caleb Epstein <cae@bklyn.org>
 - [x]     2	Tommy Back <tommy.jh.back@gmail.com> (provided only a minor bugfix)
 - [x]     2	a4z <harald.achitz@gmail.com>
+- [x]     2	Maarten Ditzel <maarten.ditzel@tno.nl>
 - [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
@@ -116,6 +120,9 @@ Checklist of all license agreements:
 - [x]     1	Bernd Prager <bernd@prager.ws>
 - [x]     1	Erik Hugne <erik.hugne@gmail.com>
 - [x]     1	Lionel Orry <lionel.orry@gmail.com>
+- [x]     1	Will Strang <william.p.strang@gmail.com>
+- [x]     1	Nikolay Amiantov <ab@fmap.me>
+- [x]     1	Brian Buchanan <bwb@holo.org>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
@@ -187,7 +194,6 @@ Checklist of all license agreements:
 - [ ]     3	Josh Blum <josh@joshknows.com>
 - [ ]     3	Martin Pales <m.pales@gmail.com>
 - [ ]     3	Matt Powley <matt.powley@renishaw.com>
-- [ ]     3	Piotr Trojanek <piotr.trojanek@gmail.com>
 - [ ]     3	Rodrigo Mosconi <mosconi.rmg@gmail.com>
 - [ ]     3	Rohan Bedarkar <rohanb@cs.uchicago.edu>
 - [ ]     3	Samuel Martin <s.martin49@gmail.com>
@@ -215,7 +221,6 @@ Checklist of all license agreements:
 - [ ]     2	Kos <vbz276@gmail.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
 - [ ]     2	Lourens Naudé <lourens@methodmissing.com>
-- [ ]     2	Maarten Ditzel <maarten.ditzel@tno.nl>
 - [ ]     2	Martijn Jasperse <m.jasperse@gmail.com>
 - [ ]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
 - [ ]     2	Matthias Kluwe <mkluwe@gmail.com>
@@ -250,7 +255,6 @@ Checklist of all license agreements:
 - [ ]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
 - [ ]     1	Bjorn Topel <bjorn.topel@gmail.com>
 - [ ]     1	Boris Lytochkin <lytboris@yandex-team.ru>
-- [ ]     1	Brian Buchanan <bwb@holo.org>
 - [ ]     1	Bruno Bigras <bigras.bruno@gmail.com>
 - [ ]     1	Burak Arslan <burak-github@arskom.com.tr>
 - [ ]     1	Carl Clemens <carlclemens1@yahoo.com>
@@ -312,7 +316,6 @@ Checklist of all license agreements:
 - [ ]     1	Neale Ferguson <neale@sinenomine.net>
 - [ ]     1	Nikhil Mishra <nikhil@cinarra.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
-- [ ]     1	Nikolay Amiantov <ab@fmap.me>
 - [ ]     1	Patrick McLean <chutzpah@gentoo.org>
 - [ ]     1	Paul Betts <paul@paulbetts.org>
 - [ ]     1	Paul Colomiets <paul@colomiets.name>
@@ -340,7 +343,6 @@ Checklist of all license agreements:
 - [ ]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
 - [ ]     1	WGH <wgh@torlan.ru>
 - [ ]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
-- [ ]     1	Will Strang <william.p.strang@gmail.com>
 - [ ]     1	William Swanson <swansontec@gmail.com>
 - [ ]     1	Wouter Overmeire <lodagro@gmail.com>
 - [ ]     1	Yann Diorcet <yann.diorcet@xenocs.com>
@@ -376,10 +378,6 @@ Invalid e-mail:
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
 - [ ]     1	Ken Steele <ken@tilera.com>
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
-
-Collegues:
-- [ ]     3	Jim Klimov <jim@jimklimov.com>
-- [ ]     2	Michal Vyskocil <michal.vyskocil@gmail.com>
 
 Email not accepted:
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
