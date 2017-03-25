@@ -33,6 +33,7 @@ Checklist of all license agreements:
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
 - [x]     3	Ivo Danihelka <ivo@danihelka.net>
 - [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com> (PR still open, template not completely filled)
+- [x]     3	Samuel Martin <s.martin49@gmail.com>
 - [x]     3	Jim Klimov <jim@jimklimov.com>
 - [x]     2	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
@@ -197,7 +198,6 @@ Checklist of all license agreements:
 - [ ]     3	Matt Powley <matt.powley@renishaw.com>
 - [ ]     3	Rodrigo Mosconi <mosconi.rmg@gmail.com>
 - [ ]     3	Rohan Bedarkar <rohanb@cs.uchicago.edu>
-- [ ]     3	Samuel Martin <s.martin49@gmail.com>
 - [ ]     3	Thomas Braun <thomas.braun@byte-physics.de>
 - [ ]     3	Tom Whittock <tom.whittock@gmail.com>
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
