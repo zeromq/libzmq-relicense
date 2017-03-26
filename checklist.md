@@ -18,6 +18,7 @@ Checklist of all license agreements:
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
 - [x]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
+- [x]     8	Uli Köhler <ulikoehler@online.de>
 - [x]     8	Sébastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     8	Kevin Sapper <mail@kevinsapper.de> **(MPLv2)**
 - [x]     8	Stoian Ivanov <sdr@tera-com.com>
@@ -158,7 +159,6 @@ Checklist of all license agreements:
 - [ ]     8	Laughing <hnwyllmm@126.com>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 - [ ]     8	Thomas Köppe <tkoeppe@google.com>
-- [ ]     8	Uli Köhler <ulikoehler@online.de>
 - [ ]     7	Chris Busbey <chris.busbey@gmail.com>
 - [ ]     7	Dan Mick <dmick@redhat.com>
 - [ ]     7	Juha Reunanen <juha.reunanen@tomaattinen.com>
