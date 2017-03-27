@@ -4,6 +4,7 @@ Checklist of all license agreements:
 - [x]   891	Martin Sustrik <sustrik@250bpm.com> (grant by iMatix)
 - [x]   376	Luca Boccassi <luca.boccassi@gmail.com> **(MPLv2)**
 - [x]   284	Constantin Rack <constantin.rack@gmail.com>
+- [x]   273	Ian Barber <ian.barber@gmail.com>
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
@@ -18,6 +19,7 @@ Checklist of all license agreements:
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
 - [x]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
+- [x]     9	Anonymous Maarten <anonymous.maarten@gmail.com>
 - [x]     8	Uli Köhler <ulikoehler@online.de>
 - [x]     8	Sébastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     8	Kevin Sapper <mail@kevinsapper.de> **(MPLv2)**
@@ -128,7 +130,6 @@ Checklist of all license agreements:
 - [x]     1	Nikolay Amiantov <ab@fmap.me>
 - [x]     1	Brian Buchanan <bwb@holo.org>
 - [x]     1	Bjorn Topel <bjorn.topel@gmail.com>
-- [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
@@ -154,7 +155,6 @@ Checklist of all license agreements:
 - [ ]    10	AJ Lewis <aj.lewis@quantum.com>
 - [ ]    10	Mike Gatny <mgatny@gmail.com>
 - [ ]    10	Phillip Mienk <mienkphi@gmail.com>
-- [ ]     9	Anonymous Maarten <anonymous.maarten@gmail.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
