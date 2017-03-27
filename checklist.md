@@ -29,6 +29,7 @@ Checklist of all license agreements:
 - [x]     5	Michael Fox <415fox@gmail.com>
 - [x]     4	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [x]     4	Franco Fichtner <franco@lastsummer.de>
+- [x]     4	Nick Guiffrida <goodfella005@gmail.com>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
@@ -126,6 +127,7 @@ Checklist of all license agreements:
 - [x]     1	Will Strang <william.p.strang@gmail.com>
 - [x]     1	Nikolay Amiantov <ab@fmap.me>
 - [x]     1	Brian Buchanan <bwb@holo.org>
+- [x]     1	Bjorn Topel <bjorn.topel@gmail.com>
 - [ ]   273	Ian Barber <ian.barber@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
@@ -179,7 +181,6 @@ Checklist of all license agreements:
 - [ ]     4	Dongmin Yu <miniway@gmail.com>
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
 - [ ]     4	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com>
-- [ ]     4	Nick Guiffrida <goodfella005@gmail.com>
 - [ ]     4	Rik van der Heijden <rik.vanderheijden@dualinventive.com>
 - [ ]     4	Sergei Nikulov <sergey.nikulov@gmail.com>
 - [ ]     4	hnwyllmm@126.com <hnwyllmm@126.com>
@@ -253,7 +254,6 @@ Checklist of all license agreements:
 - [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
-- [ ]     1	Bjorn Topel <bjorn.topel@gmail.com>
 - [ ]     1	Boris Lytochkin <lytboris@yandex-team.ru>
 - [ ]     1	Bruno Bigras <bigras.bruno@gmail.com>
 - [ ]     1	Burak Arslan <burak-github@arskom.com.tr>
