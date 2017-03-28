@@ -133,6 +133,7 @@ Checklist of all license agreements:
 - [x]     1	Brian Buchanan <bwb@holo.org>
 - [x]     1	Bjorn Topel <bjorn.topel@gmail.com>
 - [x]     1	Aaron Linville <aaron@linville.org>
+- [x]     1	Chris Staite <chris@yourdreamnet.co.uk> **(MPLv2)**
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
@@ -260,7 +261,6 @@ Checklist of all license agreements:
 - [ ]     1	Carl Clemens <carlclemens1@yahoo.com>
 - [ ]     1	Chernyshev Vyacheslav <astellar@ro.ru>
 - [ ]     1	Chris Rempel <csrl@gmx.com>
-- [ ]     1	Chris Staite <chris@yourdreamnet.co.uk>
 - [ ]     1	Chris-P-Bacon <m00d@freenet.de>
 - [ ]     1	Christian Gudrian <christian.gudrian@fluidon.com>
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
