@@ -38,6 +38,7 @@ Checklist of all license agreements:
 - [x]     3	Ivo Danihelka <ivo@danihelka.net>
 - [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com> (PR still open, template not completely filled)
 - [x]     3	Samuel Martin <s.martin49@gmail.com>
+- [x]     3	Thomas Braun <thomas.braun@byte-physics.de>
 - [x]     3	Jim Klimov <jim@jimklimov.com>
 - [x]     2	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
@@ -64,6 +65,7 @@ Checklist of all license agreements:
 - [x]     2	a4z <harald.achitz@gmail.com>
 - [x]     2	Maarten Ditzel <maarten.ditzel@tno.nl>
 - [x]     2	Matthias Kluwe <mkluwe@gmail.com>
+- [x]     2	Thomas Braun <thomas.braun@virtuell-zuhause.de>
 - [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
@@ -130,6 +132,7 @@ Checklist of all license agreements:
 - [x]     1	Nikolay Amiantov <ab@fmap.me>
 - [x]     1	Brian Buchanan <bwb@holo.org>
 - [x]     1	Bjorn Topel <bjorn.topel@gmail.com>
+- [x]     1	Aaron Linville <aaron@linville.org>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
@@ -199,7 +202,6 @@ Checklist of all license agreements:
 - [ ]     3	Matt Powley <matt.powley@renishaw.com>
 - [ ]     3	Rodrigo Mosconi <mosconi.rmg@gmail.com>
 - [ ]     3	Rohan Bedarkar <rohanb@cs.uchicago.edu>
-- [ ]     3	Thomas Braun <thomas.braun@byte-physics.de>
 - [ ]     3	Tom Whittock <tom.whittock@gmail.com>
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
 - [ ]     3	John Murphy <murphybytes@gmail.com>
@@ -233,7 +235,6 @@ Checklist of all license agreements:
 - [ ]     2	Sebastien Rombauts <sebastien.rombauts@gmail.com>
 - [ ]     2	Stuart Webster <sw_webster@hotmail.com>
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
-- [ ]     2	Thomas Braun <thomas.braun@virtuell-zuhause.de>
 - [ ]     2	Tristian Celestin <tristian.celestin@outlook.com>
 - [ ]     2	Vaughan Newton <newton.vaughan0@gmail.com>
 - [ ]     2	Victor Perron <victor@iso3103.net>
@@ -245,7 +246,6 @@ Checklist of all license agreements:
 - [ ]     2	sunkin351 <17joshuanewcomb@gmail.com>
 - [ ]     2	twwlogin <github@vendor.thewrittenword.com>
 - [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
-- [ ]     1	Aaron Linville <aaron@linville.org>
 - [ ]     1	Ahmad M. Zawawi <ahmad.zawawi@gmail.com>
 - [ ]     1	Ahmet Kakici <ahmet.kakici@pro-line.com.tr>
 - [ ]     1	Akhil Thampy <akhilthampy@yahoo.com>
