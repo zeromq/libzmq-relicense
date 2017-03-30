@@ -11,6 +11,7 @@ Checklist of all license agreements:
 - [x]    45	Joe Eli McIlvain <joe.eli.mac@gmail.com>
 - [x]    41	KIU Shueng Chuan <nixchuan@gmail.com> **(MPLv2)**
 - [x]    24	Sergey KHripchenko <shripchenko@intermedia.net>
+- [x]    21	Arnaud Kapp <kapp.arno@gmail.com> **(MPLv2)**
 - [x]    19	Ewen McNeill <ewen@naos.co.nz> **(MPLv2)**
 - [x]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
 - [x]    17	Chuck Remes <git@chuckremes.com>
@@ -143,7 +144,6 @@ Checklist of all license agreements:
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [ ]    27	unknown <bundra@.(none)>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
-- [ ]    21	Arnaud Kapp <kapp.arno@gmail.com>
 - [ ]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
