@@ -136,6 +136,7 @@ Checklist of all license agreements:
 - [x]     1	Bjorn Topel <bjorn.topel@gmail.com>
 - [x]     1	Aaron Linville <aaron@linville.org>
 - [x]     1	Chris Staite <chris@yourdreamnet.co.uk> **(MPLv2)**
+- [x]     1	Paul Colomiets <paul@colomiets.name>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
@@ -318,7 +319,6 @@ Checklist of all license agreements:
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
 - [ ]     1	Patrick McLean <chutzpah@gentoo.org>
 - [ ]     1	Paul Betts <paul@paulbetts.org>
-- [ ]     1	Paul Colomiets <paul@colomiets.name>
 - [ ]     1	Pawel Kurdybacha <pawel.kurdybacha@gmail.com>
 - [ ]     1	Perry Kundert <perry@kundert.ca>
 - [ ]     1	Pete LaDow <pete_ladow@selinc.com>
