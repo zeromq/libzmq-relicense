@@ -26,6 +26,7 @@ Checklist of all license agreements:
 - [x]     8	Sébastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     8	Kevin Sapper <mail@kevinsapper.de> **(MPLv2)**
 - [x]     8	Stoian Ivanov <sdr@tera-com.com>
+- [x]     7	Juha Reunanen <juha.reunanen@tomaattinen.com>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
 - [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
@@ -137,6 +138,7 @@ Checklist of all license agreements:
 - [x]     1	Aaron Linville <aaron@linville.org>
 - [x]     1	Chris Staite <chris@yourdreamnet.co.uk> **(MPLv2)**
 - [x]     1	Paul Colomiets <paul@colomiets.name>
+- [x]     1	Wouter Overmeire <lodagro@gmail.com>
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
@@ -168,7 +170,6 @@ Checklist of all license agreements:
 - [ ]     8	Thomas Köppe <tkoeppe@google.com>
 - [ ]     7	Chris Busbey <chris.busbey@gmail.com>
 - [ ]     7	Dan Mick <dmick@redhat.com>
-- [ ]     7	Juha Reunanen <juha.reunanen@tomaattinen.com>
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
 - [ ]     6	Andrey Sibiryov <me@kobology.ru>
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
@@ -344,7 +345,6 @@ Checklist of all license agreements:
 - [ ]     1	WGH <wgh@torlan.ru>
 - [ ]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
 - [ ]     1	William Swanson <swansontec@gmail.com>
-- [ ]     1	Wouter Overmeire <lodagro@gmail.com>
 - [ ]     1	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
