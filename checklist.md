@@ -39,7 +39,7 @@ Checklist of all license agreements:
 - [x]     3	Vincent Tellier <vincent@tellier.me>
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
 - [x]     3	Ivo Danihelka <ivo@danihelka.net>
-- [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com> (PR still open, template not completely filled)
+- [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com>
 - [x]     3	Samuel Martin <s.martin49@gmail.com>
 - [x]     3	Thomas Braun <thomas.braun@byte-physics.de>
 - [x]     3	Jim Klimov <jim@jimklimov.com>
@@ -139,6 +139,9 @@ Checklist of all license agreements:
 - [x]     1	Chris Staite <chris@yourdreamnet.co.uk> **(MPLv2)**
 - [x]     1	Paul Colomiets <paul@colomiets.name>
 - [x]     1	Wouter Overmeire <lodagro@gmail.com>
+- [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
+- [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
+- [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
