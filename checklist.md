@@ -28,6 +28,7 @@ Checklist of all license agreements:
 - [x]     8	Stoian Ivanov <sdr@tera-com.com>
 - [x]     7	Juha Reunanen <juha.reunanen@tomaattinen.com>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
+- [x]     6	Andrey Sibiryov <me@kobology.ru>
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
 - [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
 - [x]     5	Fedor Sheremetyev <sheremetyev@gmail.com> **(MPLv2)**
@@ -139,6 +140,8 @@ Checklist of all license agreements:
 - [x]     1	Chris Staite <chris@yourdreamnet.co.uk> **(MPLv2)**
 - [x]     1	Paul Colomiets <paul@colomiets.name>
 - [x]     1	Wouter Overmeire <lodagro@gmail.com>
+- [x]     1	Evan Burkitt <evanb@edulinksys.com>
+- [x]     1	Maurizio Melato <maurizio.melato@nice-software.com> **(MPLv2)**
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -174,7 +177,6 @@ Checklist of all license agreements:
 - [ ]     7	Chris Busbey <chris.busbey@gmail.com>
 - [ ]     7	Dan Mick <dmick@redhat.com>
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
-- [ ]     6	Andrey Sibiryov <me@kobology.ru>
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
 - [ ]     6	Luca Boccassi <lboccass@brocade.com>
 - [ ]     6	Trevor Bernard <trevor.bernard@gmail.com>
@@ -280,7 +282,6 @@ Checklist of all license agreements:
 - [ ]     1	Drew Crawford <drew@sealedabstract.com>
 - [ ]     1	Duane Littleton <dlittleton@vocollect.com>
 - [ ]     1	Emmanuel Taurel <taurel@esrf.fr>
-- [ ]     1	Evan Burkitt <evanb@edulinksys.com>
 - [ ]     1	Floris Bruynooghe <flub@devork.be>
 - [ ]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
 - [ ]     1	Gian Lorenzo Meocci <glmeocci@gmail.com>
@@ -311,7 +312,6 @@ Checklist of all license agreements:
 - [ ]     1	Markus Pfeiffer <markus.pfeiffer@morphism.de>
 - [ ]     1	Matthew Hawn <steamraven@yahoo.com>
 - [ ]     1	Maurice Barnum <msb@yahoo-inc.com>
-- [ ]     1	Maurizio Melato <maurizio.melato@nice-software.com>
 - [ ]     1	Max Kozlovsky <max@portworx.com>
 - [ ]     1	Max Wolf <YIDIEPXGXGPN@spammotel.com>
 - [ ]     1	Maxim Yakhontov <ymaax@mail.ru>
