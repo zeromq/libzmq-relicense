@@ -44,6 +44,7 @@ Checklist of all license agreements:
 - [x]     3	Samuel Martin <s.martin49@gmail.com>
 - [x]     3	Thomas Braun <thomas.braun@byte-physics.de>
 - [x]     3	Jim Klimov <jim@jimklimov.com>
+- [x]     3	Tom Whittock <tom.whittock@gmail.com>
 - [x]     2	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [x]     2	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     2	Paul Colomiets <pc@gafol.net>
@@ -210,7 +211,6 @@ Checklist of all license agreements:
 - [ ]     3	Matt Powley <matt.powley@renishaw.com>
 - [ ]     3	Rodrigo Mosconi <mosconi.rmg@gmail.com>
 - [ ]     3	Rohan Bedarkar <rohanb@cs.uchicago.edu>
-- [ ]     3	Tom Whittock <tom.whittock@gmail.com>
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
 - [ ]     3	John Murphy <murphybytes@gmail.com>
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
