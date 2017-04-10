@@ -11,6 +11,7 @@ Checklist of all license agreements:
 - [x]    45	Joe Eli McIlvain <joe.eli.mac@gmail.com>
 - [x]    41	KIU Shueng Chuan <nixchuan@gmail.com> **(MPLv2)**
 - [x]    24	Sergey KHripchenko <shripchenko@intermedia.net>
+- [x]    23	Thomas Rodgers <trodgers@drw.com>
 - [x]    21	Arnaud Kapp <kapp.arno@gmail.com> **(MPLv2)**
 - [x]    19	Ewen McNeill <ewen@naos.co.nz> **(MPLv2)**
 - [x]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
@@ -20,6 +21,7 @@ Checklist of all license agreements:
 - [x]    11	Olaf Mandel <o.mandel@menlosystems.com> **(MPLv2)**
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
+- [x]     9	Thomas Rodgers <rodgert@twrodgers.com>
 - [x]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [x]     9	Anonymous Maarten <anonymous.maarten@gmail.com>
 - [x]     8	Uli Köhler <ulikoehler@online.de>
@@ -355,10 +357,6 @@ Checklist of all license agreements:
 
 Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
-
-Same user
-- [ ]    23	Thomas Rodgers <trodgers@drw.com> (invalid email)
-- [ ]     9	Thomas Rodgers <rodgert@twrodgers.com>
 
 Same user
 - [ ]    12	Michel Zou <xantares10@hotmail.com> (invalid email)
