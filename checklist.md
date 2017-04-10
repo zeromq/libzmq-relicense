@@ -143,6 +143,7 @@ Checklist of all license agreements:
 - [x]     1	Wouter Overmeire <lodagro@gmail.com>
 - [x]     1	Evan Burkitt <evanb@edulinksys.com>
 - [x]     1	Maurizio Melato <maurizio.melato@nice-software.com> **(MPLv2)**
+- [x]     1	Gian Lorenzo Meocci <glmeocci@gmail.com>
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -284,7 +285,6 @@ Checklist of all license agreements:
 - [ ]     1	Emmanuel Taurel <taurel@esrf.fr>
 - [ ]     1	Floris Bruynooghe <flub@devork.be>
 - [ ]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
-- [ ]     1	Gian Lorenzo Meocci <glmeocci@gmail.com>
 - [ ]     1	Giulio Eulisse <giulio.eulisse@cern.ch>
 - [ ]     1	Guilherme Steinmann <guidefloripa@gmail.com>
 - [ ]     1	Gyula Laszlo <gyula.laszlo.gm@gmail.com>
