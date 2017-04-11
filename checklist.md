@@ -146,6 +146,7 @@ Checklist of all license agreements:
 - [x]     1	Evan Burkitt <evanb@edulinksys.com>
 - [x]     1	Maurizio Melato <maurizio.melato@nice-software.com> **(MPLv2)**
 - [x]     1	Gian Lorenzo Meocci <glmeocci@gmail.com>
+- [x]     1	William Swanson <swansontec@gmail.com>
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -349,7 +350,6 @@ Checklist of all license agreements:
 - [ ]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
 - [ ]     1	WGH <wgh@torlan.ru>
 - [ ]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
-- [ ]     1	William Swanson <swansontec@gmail.com>
 - [ ]     1	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
