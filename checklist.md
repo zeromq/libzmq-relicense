@@ -147,6 +147,7 @@ Checklist of all license agreements:
 - [x]     1	Maurizio Melato <maurizio.melato@nice-software.com> **(MPLv2)**
 - [x]     1	Gian Lorenzo Meocci <glmeocci@gmail.com>
 - [x]     1	William Swanson <swansontec@gmail.com>
+- [x]     1	Pawel Kurdybacha <pawel.kurdybacha@gmail.com>
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -326,7 +327,6 @@ Checklist of all license agreements:
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
 - [ ]     1	Patrick McLean <chutzpah@gentoo.org>
 - [ ]     1	Paul Betts <paul@paulbetts.org>
-- [ ]     1	Pawel Kurdybacha <pawel.kurdybacha@gmail.com>
 - [ ]     1	Perry Kundert <perry@kundert.ca>
 - [ ]     1	Pete LaDow <pete_ladow@selinc.com>
 - [ ]     1	Peter Bourgon <peter.bourgon@gmail.com>
