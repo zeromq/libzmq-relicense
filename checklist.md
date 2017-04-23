@@ -38,6 +38,7 @@ Checklist of all license agreements:
 - [x]     4	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [x]     4	Franco Fichtner <franco@lastsummer.de>
 - [x]     4	Nick Guiffrida <goodfella005@gmail.com>
+- [x]     4	Rik van der Heijden <rik.vanderheijden@dualinventive.com>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     3	Vincent Tellier <vincent@tellier.me>
 - [x]     3	Jim Garlick <garlick.jim@gmail.com> (provided only a minor bugfix)
@@ -73,6 +74,7 @@ Checklist of all license agreements:
 - [x]     2	Maarten Ditzel <maarten.ditzel@tno.nl>
 - [x]     2	Matthias Kluwe <mkluwe@gmail.com>
 - [x]     2	Thomas Braun <thomas.braun@virtuell-zuhause.de>
+- [x]     2	Asmod4n <Asmod4n@users.noreply.github.com> **(MPLv2)**
 - [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
@@ -148,6 +150,7 @@ Checklist of all license agreements:
 - [x]     1	Gian Lorenzo Meocci <glmeocci@gmail.com>
 - [x]     1	William Swanson <swansontec@gmail.com>
 - [x]     1	Pawel Kurdybacha <pawel.kurdybacha@gmail.com>
+- [x]     1	Rik van der Heijden <mail@rikvanderheijden.com>
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -198,7 +201,6 @@ Checklist of all license agreements:
 - [ ]     4	Dongmin Yu <miniway@gmail.com>
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
 - [ ]     4	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com>
-- [ ]     4	Rik van der Heijden <rik.vanderheijden@dualinventive.com>
 - [ ]     4	Sergei Nikulov <sergey.nikulov@gmail.com>
 - [ ]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [ ]     3	Ben Gray <ben@benjamg.com>
@@ -332,7 +334,6 @@ Checklist of all license agreements:
 - [ ]     1	Peter Bourgon <peter.bourgon@gmail.com>
 - [ ]     1	Peter Korsgaard <peter@korsgaard.com>
 - [ ]     1	Richard Janis Goldschmidt <janis.beckert@gmail.com>
-- [ ]     1	Rik van der Heijden <mail@rikvanderheijden.com>
 - [ ]     1	Saif Hasan <has@fb.com>
 - [ ]     1	Sam Lishak <sam@lishak.com>
 - [ ]     1	Satyajit Padalkar <simplecode.snippet@gmail.com>
@@ -387,7 +388,6 @@ Email not accepted:
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
-- [ ]     2	Asmod4n <Asmod4n@users.noreply.github.com>
 - [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
 - [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
