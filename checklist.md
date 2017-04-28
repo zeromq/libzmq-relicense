@@ -5,6 +5,7 @@ Checklist of all license agreements:
 - [x]   376	Luca Boccassi <luca.boccassi@gmail.com> **(MPLv2)**
 - [x]   284	Constantin Rack <constantin.rack@gmail.com>
 - [x]   273	Ian Barber <ian.barber@gmail.com>
+- [x]   173	Richard Newton <richard_newton@waters.com>
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
@@ -155,7 +156,6 @@ Checklist of all license agreements:
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
-- [ ]   173	Richard Newton <richard_newton@waters.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [ ]    51	Min RK <benjaminrk@gmail.com>
