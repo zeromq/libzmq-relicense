@@ -76,6 +76,7 @@ Checklist of all license agreements:
 - [x]     2	Matthias Kluwe <mkluwe@gmail.com>
 - [x]     2	Thomas Braun <thomas.braun@virtuell-zuhause.de>
 - [x]     2	Asmod4n <Asmod4n@users.noreply.github.com> **(MPLv2)**
+- [x]     2	Michael Lutz <michi@icosahedron.de>
 - [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
@@ -242,7 +243,6 @@ Checklist of all license agreements:
 - [ ]     2	Lourens Naudé <lourens@methodmissing.com>
 - [ ]     2	Martijn Jasperse <m.jasperse@gmail.com>
 - [ ]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
-- [ ]     2	Michael Lutz <michi@icosahedron.de>
 - [ ]     2	Nikolay Edigaryev <edigaryev@gmail.com>
 - [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
 - [ ]     2	Sebastian Otaegui <feniix@gmail.com>
