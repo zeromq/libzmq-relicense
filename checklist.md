@@ -77,6 +77,7 @@ Checklist of all license agreements:
 - [x]     2	Thomas Braun <thomas.braun@virtuell-zuhause.de>
 - [x]     2	Asmod4n <Asmod4n@users.noreply.github.com> **(MPLv2)**
 - [x]     2	Michael Lutz <michi@icosahedron.de>
+- [x]     2	Andreas Rottmann <a.rottmann@gmx.at>
 - [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     1	Caleb Epstein <Bklyn@users.noreply.github.com>
 - [x]     1	Brian Knox <bknox@digitalocean.com> **(MPLv2)**
@@ -153,6 +154,7 @@ Checklist of all license agreements:
 - [x]     1	William Swanson <swansontec@gmail.com>
 - [x]     1	Pawel Kurdybacha <pawel.kurdybacha@gmail.com>
 - [x]     1	Rik van der Heijden <mail@rikvanderheijden.com>
+- [x]     1	Leonard Michelet <leonard.michelet@openwide.fr>
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -222,7 +224,6 @@ Checklist of all license agreements:
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
 - [ ]     3	John Murphy <murphybytes@gmail.com>
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
-- [ ]     2	Andreas Rottmann <a.rottmann@gmx.at>
 - [ ]     2	Bruno D. Rodrigues <bruno.rodrigues@litux.org>
 - [ ]     2	Charles McGarvey <chazmcgarvey@brokenzipper.com>
 - [ ]     2	Charles Stanley <charles.stanley@highwinds.com>
@@ -312,7 +313,6 @@ Checklist of all license agreements:
 - [ ]     1	KennyTM~ <kennytm@gmail.com>
 - [ ]     1	Kevin Sapper <kevin.b.sapper@student.hs-rm.de>
 - [ ]     1	Kouhei Sutou <kou@clear-code.com>
-- [ ]     1	Leonard Michelet <leonard.michelet@openwide.fr>
 - [ ]     1	Marc Rossi <mrossi19@gmail.com>
 - [ ]     1	Marin Atanasov Nikolov <dnaeon@gmail.com>
 - [ ]     1	Markus Pfeiffer <markus.pfeiffer@morphism.de>
