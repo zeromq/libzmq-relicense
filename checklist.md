@@ -155,6 +155,7 @@ Checklist of all license agreements:
 - [x]     1	Pawel Kurdybacha <pawel.kurdybacha@gmail.com>
 - [x]     1	Rik van der Heijden <mail@rikvanderheijden.com>
 - [x]     1	Leonard Michelet <leonard.michelet@openwide.fr>
+- [x]     1	Julien Ruffin <jur@ivu.de> **(MPLv2)**
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -308,7 +309,6 @@ Checklist of all license agreements:
 - [ ]     1	Jeremy Rossi <jeremy@jeremyrossi.com>
 - [ ]     1	Jeroen Ooms <jeroenooms@gmail.com>
 - [ ]     1	Jose Luis Blanco-Claraco <joseluisblancoc@gmail.com>
-- [ ]     1	Julien Ruffin <jur@ivu.de>
 - [ ]     1	Kenneth Wilke <kenneth.wilke@rackspace.com>
 - [ ]     1	KennyTM~ <kennytm@gmail.com>
 - [ ]     1	Kevin Sapper <kevin.b.sapper@student.hs-rm.de>
