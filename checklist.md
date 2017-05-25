@@ -17,6 +17,7 @@ Checklist of all license agreements:
 - [x]    19	Ewen McNeill <ewen@naos.co.nz> **(MPLv2)**
 - [x]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
 - [x]    17	Chuck Remes <git@chuckremes.com>
+- [x]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    12	Osiris <opedroso@gmail.com>
 - [x]    11	Olaf Mandel <o.mandel@menlosystems.com> **(MPLv2)**
@@ -166,7 +167,6 @@ Checklist of all license agreements:
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [ ]    27	unknown <bundra@.(none)>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
-- [ ]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
 - [ ]    14	Matt Connolly <matt.connolly@me.com>
