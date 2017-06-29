@@ -18,6 +18,7 @@ Checklist of all license agreements:
 - [x]    18	Mário Kašuba <mario.kasuba@it-academy.sk>
 - [x]    17	Chuck Remes <git@chuckremes.com>
 - [x]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
+- [x]    14	Matt Connolly <matt.connolly@me.com>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    12	Osiris <opedroso@gmail.com>
 - [x]    11	Olaf Mandel <o.mandel@menlosystems.com> **(MPLv2)**
@@ -169,7 +170,6 @@ Checklist of all license agreements:
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
-- [ ]    14	Matt Connolly <matt.connolly@me.com>
 - [ ]    13	Frank Hartmann <soundart@gmx.net>
 - [ ]    13	Timothy Mossbarger <tim@ent.net>
 - [ ]    12	Brian Silverman <brian@peloton-tech.com>
