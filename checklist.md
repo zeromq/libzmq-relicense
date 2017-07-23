@@ -9,6 +9,7 @@ Checklist of all license agreements:
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
+- [x]    51	Min RK <benjaminrk@gmail.com>
 - [x]    45	Joe Eli McIlvain <joe.eli.mac@gmail.com>
 - [x]    41	KIU Shueng Chuan <nixchuan@gmail.com> **(MPLv2)**
 - [x]    24	Sergey KHripchenko <shripchenko@intermedia.net>
@@ -164,7 +165,6 @@ Checklist of all license agreements:
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
-- [ ]    51	Min RK <benjaminrk@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [ ]    27	unknown <bundra@.(none)>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
