@@ -159,6 +159,7 @@ Checklist of all license agreements:
 - [x]     1	Rik van der Heijden <mail@rikvanderheijden.com>
 - [x]     1	Leonard Michelet <leonard.michelet@openwide.fr>
 - [x]     1	Julien Ruffin <jur@ivu.de> **(MPLv2)**
+- [x]     1	sigiesec <simon.giesecke@btc-ag.com>
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
@@ -354,7 +355,6 @@ Checklist of all license agreements:
 - [ ]     1	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
-- [ ]     1	sigiesec <simon.giesecke@btc-ag.com>
 
 Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
