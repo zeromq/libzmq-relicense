@@ -167,7 +167,6 @@ Checklist of all license agreements:
 - [ ]   159	Martin Lucina <martin@lucina.net>
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
-- [ ]    27	unknown <bundra@.(none)>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
