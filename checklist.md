@@ -32,6 +32,7 @@ Checklist of all license agreements:
 - [x]     8	Sébastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     8	Kevin Sapper <mail@kevinsapper.de> **(MPLv2)**
 - [x]     8	Stoian Ivanov <sdr@tera-com.com>
+- [x]     8	Thomas Köppe <tkoeppe@google.com> **(MPLv2)**
 - [x]     7	Juha Reunanen <juha.reunanen@tomaattinen.com>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     6	Andrey Sibiryov <me@kobology.ru>
@@ -186,7 +187,6 @@ Checklist of all license agreements:
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]     8	Laughing <hnwyllmm@126.com>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
-- [ ]     8	Thomas Köppe <tkoeppe@google.com>
 - [ ]     7	Chris Busbey <chris.busbey@gmail.com>
 - [ ]     7	Dan Mick <dmick@redhat.com>
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
