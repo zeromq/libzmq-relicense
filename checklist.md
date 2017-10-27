@@ -164,6 +164,12 @@ Checklist of all license agreements:
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
+
+Same user
+- [x]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
+- [x]     8	Matt Arsenault <arsenm2@rpi.edu>
+- [x]     2	Matt Arsenault <arsenm2@gmail.com>
+
 - [ ]   272	Martin Hurton <hurtonm@gmail.com>
 - [ ]   159	Martin Lucina <martin@lucina.net>
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
@@ -361,11 +367,6 @@ Check code (former ericsson employee):
 Same user
 - [ ]    12	Michel Zou <xantares10@hotmail.com> (invalid email)
 - [ ]     1	Michel Zou <xantares09@hotmail.com>
-
-Same user
-- [ ]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
-- [ ]     8	Matt Arsenault <arsenm2@rpi.edu>
-- [ ]     2	Matt Arsenault <arsenm2@gmail.com>
 
 Invalid e-mail:
 - [ ]    16	Jens Auer <jens.auer@cgi.com>
