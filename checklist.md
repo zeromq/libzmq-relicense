@@ -1,5 +1,6 @@
-Checklist of all license agreements:
+# Checklist of all license agreements:
 
+## Grant collected
 - [x]  1139	Pieter Hintjens <ph@imatix.com> **(MPLv2)**
 - [x]   891	Martin Sustrik <sustrik@250bpm.com> (grant by iMatix)
 - [x]   376	Luca Boccassi <luca.boccassi@gmail.com> **(MPLv2)**
@@ -168,11 +169,12 @@ Checklist of all license agreements:
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
 
-Same user
+## Same user
 - [x]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
 - [x]     8	Matt Arsenault <arsenm2@rpi.edu>
 - [x]     2	Matt Arsenault <arsenm2@gmail.com>
 
+## No answer
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
@@ -361,14 +363,14 @@ Same user
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
 
-Check code (former ericsson employee):
+## Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
 
-Same user
+## Same user
 - [ ]    12	Michel Zou <xantares10@hotmail.com> (invalid email)
 - [ ]     1	Michel Zou <xantares09@hotmail.com>
 
-Invalid e-mail:
+## Invalid e-mail:
 - [ ]    16	Jens Auer <jens.auer@cgi.com>
 - [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
 - [ ]    12	Arthur O'Dwyer <arthur@push.am>
@@ -381,7 +383,7 @@ Invalid e-mail:
 - [ ]     1	Ken Steele <ken@tilera.com>
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
 
-Email not accepted:
+## Email not accepted:
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
 - [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
