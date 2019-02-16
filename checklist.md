@@ -38,6 +38,7 @@ Checklist of all license agreements:
 - [x]     7	Juha Reunanen <juha.reunanen@tomaattinen.com>
 - [x]     6	Timothee Besset <ttimo@ttimo.net>
 - [x]     6	Andrey Sibiryov <me@kobology.ru>
+- [x]     6	Luca Boccassi <lboccass@brocade.com> (grant by Brocade)
 - [x]     5	Johan Mabille <johan.mabille@gmail.com>
 - [x]     5	David Jelenc <david.jelenc@fri.uni-lj.si>
 - [x]     5	Fedor Sheremetyev <sheremetyev@gmail.com> **(MPLv2)**
@@ -197,7 +198,6 @@ Same user
 - [ ]     7	Dan Mick <dmick@redhat.com>
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
-- [ ]     6	Luca Boccassi <lboccass@brocade.com>
 - [ ]     6	Trevor Bernard <trevor.bernard@gmail.com>
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
