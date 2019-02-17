@@ -174,6 +174,37 @@
 - [x]     8	Matt Arsenault <arsenm2@rpi.edu>
 - [x]     2	Matt Arsenault <arsenm2@gmail.com>
 
+## Check code (former ericsson employee):
+- [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
+
+## Same user
+- [ ]    12	Michel Zou <xantares10@hotmail.com> (invalid email)
+- [ ]     1	Michel Zou <xantares09@hotmail.com>
+
+## Invalid e-mail:
+- [ ]    16	Jens Auer <jens.auer@cgi.com>
+- [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
+- [ ]    12	Arthur O'Dwyer <arthur@push.am>
+- [ ]     3	lysyloren <lysy_loren@gmail.com>
+- [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
+- [ ]     2	dave b <david.brown@datasift.com>
+- [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
+- [ ]     1	Adrian von Bidder <avbidder@fortytwo.ch>
+- [ ]     1	Bob Beaty <rbeaty@peak6.com>
+- [ ]     1	Ken Steele <ken@tilera.com>
+- [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
+
+## Email not accepted:
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
+- [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
+- [ ]     6	OBATA Akio <obache@users.noreply.github.com>
+- [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
+- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
+- [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
+- [ ]     1	Philip Kovacs <phil@philkovacs.com>
+- [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
+- [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
+
 ## No answer
 - [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
@@ -362,34 +393,3 @@
 - [ ]     1	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
-
-## Check code (former ericsson employee):
-- [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
-
-## Same user
-- [ ]    12	Michel Zou <xantares10@hotmail.com> (invalid email)
-- [ ]     1	Michel Zou <xantares09@hotmail.com>
-
-## Invalid e-mail:
-- [ ]    16	Jens Auer <jens.auer@cgi.com>
-- [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
-- [ ]    12	Arthur O'Dwyer <arthur@push.am>
-- [ ]     3	lysyloren <lysy_loren@gmail.com>
-- [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
-- [ ]     2	dave b <david.brown@datasift.com>
-- [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
-- [ ]     1	Adrian von Bidder <avbidder@fortytwo.ch>
-- [ ]     1	Bob Beaty <rbeaty@peak6.com>
-- [ ]     1	Ken Steele <ken@tilera.com>
-- [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
-
-## Email not accepted:
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
-- [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
-- [ ]     6	OBATA Akio <obache@users.noreply.github.com>
-- [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
-- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
-- [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
-- [ ]     1	Philip Kovacs <phil@philkovacs.com>
-- [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
-- [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
