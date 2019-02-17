@@ -12,6 +12,7 @@
 - [x]   123	Doron Somech <somdoron@gmail.com>
 - [x]    96	Eric Voskuil <eric@voskuil.org>
 - [x]    93	Pavol Malosek <malosek@fastmq.com> (grant by iMatix)
+- [x]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [x]    51	Min RK <benjaminrk@gmail.com>
 - [x]    45	Joe Eli McIlvain <joe.eli.mac@gmail.com>
 - [x]    41	KIU Shueng Chuan <nixchuan@gmail.com> **(MPLv2)**
@@ -211,7 +212,6 @@
 - [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
 
 ## No answer
-- [ ]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
