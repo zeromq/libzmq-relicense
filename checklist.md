@@ -180,11 +180,19 @@
 ## Same user
 - [ ]    12	Michel Zou <xantares10@hotmail.com> (invalid email)
 - [ ]     1	Michel Zou <xantares09@hotmail.com>
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
+- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
+- [ ]       Hitster GTD <hitstergtd@gmail.com>
+- [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
+- [ ]    	Michael Lloyd <commander.bubble@gmail.com>
+- [ ]    16	Jens Auer <jens.auer@cgi.com>
+- [ ]    	Jens Auer <jens.auer@betaversion.net>
+- [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
+- [ ]    	Brandon Carpenter <hashstat@yahoo.com>
+- [ ]    12	Arthur O'Dwyer <arthur@push.am>
+- [ ]    	Arthur O'Dwyer <arthur.j.odwyer@gmail.com>
 
 ## Invalid e-mail:
-- [ ]    16	Jens Auer <jens.auer@cgi.com>
-- [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
-- [ ]    12	Arthur O'Dwyer <arthur@push.am>
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
 - [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     2	dave b <david.brown@datasift.com>
@@ -195,11 +203,8 @@
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
 
 ## Email not accepted:
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
-- [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
-- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
 - [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
