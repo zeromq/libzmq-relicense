@@ -25,6 +25,7 @@
 - [x]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [x]    14	Matt Connolly <matt.connolly@me.com>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
+- [x]    12	Arthur O'Dwyer <arthur@push.am>
 - [x]    12	Osiris <opedroso@gmail.com>
 - [x]    11	Olaf Mandel <o.mandel@menlosystems.com> **(MPLv2)**
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
@@ -174,6 +175,7 @@
 - [x]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
 - [x]     8	Matt Arsenault <arsenm2@rpi.edu>
 - [x]     2	Matt Arsenault <arsenm2@gmail.com>
+- [x]    	Arthur O'Dwyer <arthur.j.odwyer@gmail.com>
 
 ## Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -190,8 +192,6 @@
 - [ ]    	Jens Auer <jens.auer@betaversion.net>
 - [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
 - [ ]    	Brandon Carpenter <hashstat@yahoo.com>
-- [ ]    12	Arthur O'Dwyer <arthur@push.am>
-- [ ]    	Arthur O'Dwyer <arthur.j.odwyer@gmail.com>
 
 ## Invalid e-mail:
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
