@@ -28,7 +28,7 @@ def print_results():
 	print "# Anonymous users"
 	sorted_anon_users = sorted(anon_users, key=lambda k: k['name'])
 	for anon_user in sorted_anon_users:
-		print "- [ ] " + anon_user['name'] + " <" + anon_user['email'] + ">"
+		print "- [ ] " + anon_user['name'].encode('utf-8') + " <" + anon_user['email'].encode('utf-8') + ">"
 
 def main():
 	if 'ZMQ_GH_TOKEN' not in os.environ:
