@@ -24,6 +24,7 @@
 - [x]    17	Chuck Remes <git@chuckremes.com>
 - [x]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [x]    14	Matt Connolly <matt.connolly@me.com>
+- [x]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov> (grant by PNNL)
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    13	Timothy Mossbarger <tim@ent.net>
 - [x]    12	Arthur O'Dwyer <arthur@push.am>
@@ -178,6 +179,7 @@
 - [x]     8	Matt Arsenault <arsenm2@rpi.edu>
 - [x]     2	Matt Arsenault <arsenm2@gmail.com>
 - [x]    	Arthur O'Dwyer <arthur.j.odwyer@gmail.com>
+- [x]    	Brandon Carpenter <hashstat@yahoo.com>
 
 ## Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -192,8 +194,6 @@
 - [ ]    	Michael Lloyd <commander.bubble@gmail.com>
 - [ ]    16	Jens Auer <jens.auer@cgi.com>
 - [ ]    	Jens Auer <jens.auer@betaversion.net>
-- [ ]    13	Brandon Carpenter <brandon.carpenter@pnnl.gov>
-- [ ]    	Brandon Carpenter <hashstat@yahoo.com>
 
 ## Invalid e-mail:
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
