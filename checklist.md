@@ -33,6 +33,7 @@
 - [x]    11	Olaf Mandel <o.mandel@menlosystems.com> **(MPLv2)**
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
+- [x]    10	Phillip Mienk <mienkphi@gmail.com>
 - [x]     9	Thomas Rodgers <rodgert@twrodgers.com>
 - [x]     9	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [x]     9	Anonymous Maarten <anonymous.maarten@gmail.com>
@@ -226,7 +227,6 @@
 - [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
 - [ ]    10	AJ Lewis <aj.lewis@quantum.com>
 - [ ]    10	Mike Gatny <mgatny@gmail.com>
-- [ ]    10	Phillip Mienk <mienkphi@gmail.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
