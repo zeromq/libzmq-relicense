@@ -25,6 +25,7 @@
 - [x]    17	Ilya Kulakov <kulakov.ilya@gmail.com>
 - [x]    14	Matt Connolly <matt.connolly@me.com>
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
+- [x]    13	Timothy Mossbarger <tim@ent.net>
 - [x]    12	Arthur O'Dwyer <arthur@push.am>
 - [x]    12	Osiris <opedroso@gmail.com>
 - [x]    12	Dylan Cali <calid1984@gmail.com>
@@ -218,7 +219,6 @@
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
 - [ ]    13	Frank Hartmann <soundart@gmx.net>
-- [ ]    13	Timothy Mossbarger <tim@ent.net>
 - [ ]    12	Brian Silverman <brian@peloton-tech.com>
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
