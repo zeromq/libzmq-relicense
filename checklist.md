@@ -27,6 +27,7 @@
 - [x]    13	J.T. Conklin <jtc@acorntoolworks.com>
 - [x]    12	Arthur O'Dwyer <arthur@push.am>
 - [x]    12	Osiris <opedroso@gmail.com>
+- [x]    12	Dylan Cali <calid1984@gmail.com>
 - [x]    11	Olaf Mandel <o.mandel@menlosystems.com> **(MPLv2)**
 - [x]    10	Christian Kamm <kamm@incasoftware.de>
 - [x]    10	Bitiquinho <consoni_2519@hotmail.com>
@@ -220,7 +221,6 @@
 - [ ]    13	Timothy Mossbarger <tim@ent.net>
 - [ ]    12	Brian Silverman <brian@peloton-tech.com>
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
-- [ ]    12	Dylan Cali <calid1984@gmail.com>
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
 - [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
