@@ -174,8 +174,6 @@
 - [x]     ?	Bruno Bodin <brunobodin@gmail.com> **(MPLv2)**
 - [x]     ? Jovan Bunjevacki <bjovan@gmail.com>
 - [x]     ?	Jake Cobb <jake.cobb@gmail.com> **(MPLv2)**
-
-## Same user
 - [x]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
 - [x]     8	Matt Arsenault <arsenm2@rpi.edu>
 - [x]     2	Matt Arsenault <arsenm2@gmail.com>
@@ -198,22 +196,18 @@
 - [ ]    	Jens Auer <jens.auer@betaversion.net>
 
 ## Invalid e-mail:
+- [ ]     6	OBATA Akio <obache@users.noreply.github.com>
+- [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
 - [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     2	dave b <david.brown@datasift.com>
+- [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
 - [ ]     1	Adrian von Bidder <avbidder@fortytwo.ch>
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
 - [ ]     1	Ken Steele <ken@tilera.com>
 - [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
-
-## Email not accepted:
-- [ ]     6	OBATA Akio <obache@users.noreply.github.com>
-- [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
-- [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
-- [ ]     1	Philip Kovacs <phil@philkovacs.com>
 - [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
-- [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
 
 ## No answer
 - [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
@@ -398,3 +392,5 @@
 - [ ]     1	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	boringuy <boringuy@gmail.com>
+- [ ]     1	Philip Kovacs <phil@philkovacs.com>
+- [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
