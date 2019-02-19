@@ -6,6 +6,9 @@ import string
 import sys
 import urllib2
 
+# Define repository to check
+GH_REPO = "zeromq/libzmq"
+
 # Define empty lists
 gh_users = {}
 anon_users = []
@@ -24,20 +27,24 @@ def process_anon_user(user):
 
 
 def check_gh_grants():
-    relicense_contents_url = "https://api.github.com/repos/zeromq/libzmq/contents/RELICENSE"
-    relicense_contents_str = urllib2.urlopen(relicense_contents_url).read()
-    relicense_grants = json.loads(relicense_contents_str)
+    relicense_contents_url = "https://api.github.com/repos/" + GH_REPO + "/contents/RELICENSE"
 
-    for relicense_grant in relicense_grants:
-        if relicense_grant['type'] != "file":
-            continue
+    try:
+        relicense_contents_str = urllib2.urlopen(relicense_contents_url).read()
+        relicense_grants = json.loads(relicense_contents_str)
 
-        gh_user = string.lower(relicense_grant['name'])
-        if gh_user.endswith(".md"):
-            gh_user = gh_user[:-3]
+        for relicense_grant in relicense_grants:
+            if relicense_grant['type'] != "file":
+                continue
 
-        if gh_user in gh_users:
-            gh_users[gh_user]['signed'] = True
+            gh_user = string.lower(relicense_grant['name'])
+            if gh_user.endswith(".md"):
+                gh_user = gh_user[:-3]
+
+            if gh_user in gh_users:
+                gh_users[gh_user]['signed'] = True
+    except urllib2.HTTPError, e:
+        print "RELICENSE directory does not exist for " + GH_REPO + " !!"
 
 
 def print_results():
@@ -67,7 +74,7 @@ def main():
 
     while True:
         print "Processing page " + str(page)
-        repo_url = "https://api.github.com/repos/zeromq/libzmq/contributors?anon=true&access_token=" + gh_token + \
+        repo_url = "https://api.github.com/repos/" + GH_REPO + "/contributors?anon=true&access_token=" + gh_token + \
                    "&page=" + str(page)
         content_json_str = urllib2.urlopen(repo_url).read()
         user_arr = json.loads(content_json_str)
