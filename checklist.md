@@ -180,6 +180,7 @@
 - [x]     2	Alessandro Ghedini <alessandro@ghedini.me>
 - [x]    	Arthur O'Dwyer <arthur.j.odwyer@gmail.com>
 - [x]    	Brandon Carpenter <hashstat@yahoo.com>
+- [x]    10	Mike Gatny <mgatny@gmail.com>
 
 ## Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -221,7 +222,6 @@
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
 - [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
 - [ ]    10	AJ Lewis <aj.lewis@quantum.com>
-- [ ]    10	Mike Gatny <mgatny@gmail.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
