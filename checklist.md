@@ -179,6 +179,7 @@
 - [x]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
 - [x]     8	Matt Arsenault <arsenm2@rpi.edu>
 - [x]     2	Matt Arsenault <arsenm2@gmail.com>
+- [x]     2	Alessandro Ghedini <alessandro@ghedini.me>
 - [x]    	Arthur O'Dwyer <arthur.j.odwyer@gmail.com>
 - [x]    	Brandon Carpenter <hashstat@yahoo.com>
 
@@ -268,7 +269,6 @@
 - [ ]     3	Rohan Bedarkar <rohanb@cs.uchicago.edu>
 - [ ]     3	laplaceyang <laplace2013@outlook.com>
 - [ ]     3	John Murphy <murphybytes@gmail.com>
-- [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
 - [ ]     2	Bruno D. Rodrigues <bruno.rodrigues@litux.org>
 - [ ]     2	Charles McGarvey <chazmcgarvey@brokenzipper.com>
 - [ ]     2	Charles Stanley <charles.stanley@highwinds.com>
