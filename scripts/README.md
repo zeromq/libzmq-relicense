@@ -12,6 +12,9 @@ git shortlog -sne
 Create a file with all contributors for the zeromq/libzmq project.
 The file will be prefixed with markdown checkboxes.
 
+`ZMQ_GH_TOKEN` needs to be set with a GitHub access token.
+Create a Personal Access Token [here](https://github.com/settings/tokens).
+
 ```bash
 export ZMQ_GH_TOKEN=<gh-access-token>
 ./create-gh-checklist.py
