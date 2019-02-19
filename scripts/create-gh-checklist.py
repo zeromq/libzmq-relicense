@@ -2,31 +2,51 @@
 
 import json
 import os
+import string
 import sys
 import urllib2
 
 # Define empty lists
-gh_users = []
+gh_users = {}
 anon_users = []
 
 
 def process_gh_user(user):
-    gh_users.append({
+    gh_users[string.lower(user["login"])] = {
         'username': user["login"],
-        'commits': user["contributions"]
-    })
+        'commits': user["contributions"],
+        'signed': False
+    }
 
 
 def process_anon_user(user):
     anon_users.append(user)
 
 
+def check_gh_grants():
+    relicense_contents_url = "https://api.github.com/repos/zeromq/libzmq/contents/RELICENSE"
+    relicense_contents_str = urllib2.urlopen(relicense_contents_url).read()
+    relicense_grants = json.loads(relicense_contents_str)
+
+    for relicense_grant in relicense_grants:
+        if relicense_grant['type'] != "file":
+            continue
+
+        gh_user = string.lower(relicense_grant['name'])
+        if gh_user.endswith(".md"):
+            gh_user = gh_user[:-3]
+
+        if gh_user in gh_users:
+            gh_users[gh_user]['signed'] = True
+
+
 def print_results():
     print "# GitHub users"
-    sorted_gh_users = sorted(gh_users, key=lambda k: k['commits'], reverse=True)
+    sorted_gh_users = sorted(gh_users.values(), key=lambda k: (k['signed'], k['commits']), reverse=True)
+
     for gh_user in sorted_gh_users:
-        print "- [ ] " + str(gh_user['commits']) + " [" + gh_user['username'] + "](https://github.com/" + gh_user[
-            'username'] + ")"
+        print "- [" + ("x" if gh_user['signed'] else " ") + "] " + str(gh_user['commits']) + \
+              " [" + gh_user['username'] + "](https://github.com/" + gh_user['username'] + ")"
 
     print ""
     print "# Anonymous users"
@@ -63,6 +83,7 @@ def main():
 
         page += 1
 
+    check_gh_grants()
     print_results()
 
 
