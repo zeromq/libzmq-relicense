@@ -168,6 +168,7 @@
 - [x]    25	Michael <CommanderBubble@users.noreply.github.com>
 - [x]     2	answeroo <42398303+answeroo@users.noreply.github.com>
 - [x]     3	Anton Dimitrov <dimitrov.anton@gmail.com>
+- [x]     2	brubakerjeff <brubaker.jeff@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -319,7 +320,6 @@
 - [ ]     2	Wenbin Hou <catchyrime@fastmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
 - [ ]     2	boris@boressoft.ru <������� ��������@DANCE-SERVER-2.(none)>
-- [ ]     2	brubakerjeff <brubaker.jeff@gmail.com>
 - [ ]     2	crocket <748856+crocket@users.noreply.github.com>
 - [ ]     2	dave b <david.brown@datasift.com>
 - [ ]     2	jamesdillonharvey <jamesdillonharvey@users.noreply.github.com>
