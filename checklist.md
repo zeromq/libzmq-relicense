@@ -156,6 +156,7 @@
 - [x]     1	Bruno Bodin <bruno.bodin@cea.fr>
 - [x]    10	bjovke <bjovan@gmail.com>
 - [x]     7	BJovke <bjovan@gmail.com>
+- [x]     5	bjovke <a@b>
 - [x]     6	Jake Cobb <jake.cobb@gmail.com>
 - [x]     1	Jake Cobb <william.cobb@varian.com>
 - [x]    11	Matt Arsenault <whatmannerofburgeristhis@gmail.com>
@@ -218,7 +219,6 @@
 - [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com>
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be>
 - [ ]     5	Shubham Lagwankar <shubhu105@gmail.com>
-- [ ]     5	bjovke <a@b>
 - [ ]     5	pavel.pimenov <pavel.pimenov@gmail.com>
 - [ ]     4	Boris Lytochkin <lytboris@yandex-team.ru>
 - [ ]     4	Chris Busbey <cbusbey@connamara.com>
@@ -529,6 +529,3 @@
 - [ ]     1	xinchuan <nixchuan@gmail.com>
 - [ ]     1	yasirs <yasir.suhail@gmail.com>
 - [ ]     1	zstang <zshtangbuaa@gmail.com>
-
-## In Progress
-
