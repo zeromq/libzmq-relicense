@@ -166,6 +166,7 @@
 - [x]    11	Mike Gatny <mgatny@gmail.com>
 - [x]    11	AJ Lewis <aj.lewis@quantum.com>
 - [x]    25	Michael <CommanderBubble@users.noreply.github.com>
+- [x]     2	answeroo <42398303+answeroo@users.noreply.github.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -317,7 +318,6 @@
 - [ ]     2	Vincent Tellier <Vincent.Tellier@Stingray.no>
 - [ ]     2	Wenbin Hou <catchyrime@fastmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
-- [ ]     2	answeroo <42398303+answeroo@users.noreply.github.com>
 - [ ]     2	boris@boressoft.ru <������� ��������@DANCE-SERVER-2.(none)>
 - [ ]     2	brubakerjeff <brubaker.jeff@gmail.com>
 - [ ]     2	crocket <748856+crocket@users.noreply.github.com>
