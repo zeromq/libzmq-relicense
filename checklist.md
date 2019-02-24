@@ -71,6 +71,7 @@
 - [x]     7	Thomas Braun <thomas.braun@byte-physics.de>
 - [x]     2	Thomas Braun <thomas.braun@virtuell-zuhause.de>
 - [x]    19	Jim Klimov <jim@jimklimov.com>
+- [x]    12	Jim Klimov <jimklimov@gmail.com>
 - [x]     3	Tom Whittock <tom.whittock@gmail.com>
 - [x]     3	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [x]     2	Paul Colomiets <paul@colomiets.name>
@@ -196,7 +197,6 @@
 - [ ]    12	Brian Silverman <brian@peloton-tech.com>
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
-- [ ]    12	Jim Klimov <jimklimov@gmail.com>
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
 - [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
