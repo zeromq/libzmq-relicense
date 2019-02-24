@@ -184,6 +184,8 @@
 - [x]    10	AJ Lewis <aj.lewis@quantum.com>
 - [x]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [x]     1	Shannen Saez <shannenlaptop@gmail.com>
+- [x]    22	Michael <CommanderBubble@users.noreply.github.com>
+- [x]    	Michael Lloyd <commander.bubble@gmail.com>
 
 ## Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -194,8 +196,6 @@
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]       Hitster GTD <hitstergtd@gmail.com>
-- [ ]    22	Michael <CommanderBubble@users.noreply.github.com>
-- [ ]    	Michael Lloyd <commander.bubble@gmail.com>
 - [ ]    16	Jens Auer <jens.auer@cgi.com>
 - [ ]    	Jens Auer <jens.auer@betaversion.net>
 
