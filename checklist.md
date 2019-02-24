@@ -182,6 +182,7 @@
 - [x]    	Brandon Carpenter <hashstat@yahoo.com>
 - [x]    10	Mike Gatny <mgatny@gmail.com>
 - [x]    10	AJ Lewis <aj.lewis@quantum.com>
+- [x]    50	Steven McCoy <steven.mccoy@miru.hk>
 
 ## Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -212,7 +213,6 @@
 - [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
 
 ## No answer
-- [ ]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
