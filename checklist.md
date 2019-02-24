@@ -183,6 +183,7 @@
 - [x]    10	Mike Gatny <mgatny@gmail.com>
 - [x]    10	AJ Lewis <aj.lewis@quantum.com>
 - [x]    50	Steven McCoy <steven.mccoy@miru.hk>
+- [x]     1	Shannen Saez <shannenlaptop@gmail.com>
 
 ## Check code (former ericsson employee):
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -378,7 +379,6 @@
 - [ ]     1	Sebastian Lauwers <sebastian.lauwers@gmail.com>
 - [ ]     1	Sergey M. <dstftw@gmail.com>
 - [ ]     1	Shane Hubred <shane@hubred.us>
-- [ ]     1	Shannen Saez <shannenlaptop@gmail.com>
 - [ ]     1	Shawn J. Goff <shawn.goff@accelecon.com>
 - [ ]     1	Soren Hansen <Soren.Hansen@ril.com>
 - [ ]     1	Steven Chamberlain <steven@pyro.eu.org>
