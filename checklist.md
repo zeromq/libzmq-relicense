@@ -18,6 +18,7 @@
 - [x]    58	Min RK <benjaminrk@gmail.com>
 - [x]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
 - [x]    50	Steven McCoy <steven.mccoy@miru.hk>
+- [x]     2	Steven McCoy <fnjordy@gmail.com>
 - [x]    47	Joe Eli McIlvain <joe.eli.mac@gmail.com>
 - [x]    47	KIU Shueng Chuan <nixchuan@gmail.com>
 - [x]    43	Luca Boccassi <bluca@debian.org>
@@ -306,7 +307,6 @@
 - [ ]     2	Sebastien Pierre <sebastien.pierre@gmail.com>
 - [ ]     2	Sebastien Rombauts <sebastien.rombauts@gmail.com>
 - [ ]     2	Steffen Wittmeier <steffen.wittmeier@rohde-schwarz.com>
-- [ ]     2	Steven McCoy <fnjordy@gmail.com>
 - [ ]     2	Stuart Webster <sw_webster@hotmail.com>
 - [ ]     2	Tetsuya Hayashi <tetet@scalar.aiin.jp>
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
