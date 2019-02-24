@@ -74,6 +74,7 @@
 - [x]     3	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [x]     2	Paul Colomiets <paul@colomiets.name>
 - [x]     2	Paul Colomiets <pc@gafol.net>
+- [x]     1	Adrian Muraru <adi.muraru@gmail.com>
 - [x]     2	Adrian Muraru <amuraru@adobe.com>
 - [x]     3	Elliot Saba <staticfloat@gmail.com>
 - [x]     3	Andre Caron <andre.l.caron@gmail.com>
@@ -331,7 +332,6 @@
 - [ ]     2	youRFate <paa.christoph@googlemail.com>
 - [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
 - [ ]     1	Aalhad Saraf <aalhad@gmail.com>
-- [ ]     1	Adrian Muraru <adi.muraru@gmail.com>
 - [ ]     1	Adrian von Bidder <avbidder@fortytwo.ch>
 - [ ]     1	Ahmad M. Zawawi <ahmad.zawawi@gmail.com>
 - [ ]     1	Ahmet Kakici <ahmet.kakici@pro-line.com.tr>
