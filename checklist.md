@@ -167,6 +167,7 @@
 - [x]    11	AJ Lewis <aj.lewis@quantum.com>
 - [x]    25	Michael <CommanderBubble@users.noreply.github.com>
 - [x]     2	answeroo <42398303+answeroo@users.noreply.github.com>
+- [x]     3	Anton Dimitrov <dimitrov.anton@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -233,7 +234,6 @@
 - [ ]     4	f18m <francesco.montorsi@gmail.com>
 - [ ]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [ ]     4	laplaceyang <laplace2013@outlook.com>
-- [ ]     3	Anton Dimitrov <dimitrov.anton@gmail.com>
 - [ ]     3	Axel Nennker <axel@nennker.de>
 - [ ]     3	Ben Gray <ben@benjamg.com>
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
