@@ -52,6 +52,7 @@
 - [x]     7	Roy Lenferink <lenferinkroy@gmail.com>
 - [x]     7	Timothee Besset <ttimo@ttimo.net>
 - [x]     6	Andrey Sibiryov <me@kobology.ru>
+- [x]     1	Andrey Sibiryov <kobolog@uber.com>
 - [x]     6	Luca Boccassi <lboccass@brocade.com> (grant by Brocade)
 - [x]     7	Johan Mabille <johan.mabille@gmail.com>
 - [x]     6	David Jelenc <david.jelenc@fri.uni-lj.si>
@@ -350,7 +351,6 @@
 - [ ]     1	Alexander Dubovik <dubovik_a_d@mail.ru>
 - [ ]     1	Anass Bouassaba <anass.bouassaba@t-online.de>
 - [ ]     1	Andras Lasso <lasso@queensu.ca>
-- [ ]     1	Andrey Sibiryov <kobolog@uber.com>
 - [ ]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [ ]     1	Anton Bärwald <anton.barwald@hotmail.com>
 - [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
