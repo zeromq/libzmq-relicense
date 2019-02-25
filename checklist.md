@@ -189,6 +189,7 @@
 - [x]     1	Gyorgy Szekely <gyorgy.szekely@ge.com>
 - [x]     1	Szekely Gyorgy <hoditohod@gmail.com>
 - [x]     2	Antonio Vanegas <hpsaturn@gmail.com>
+- [x]     2	Jacques Germishuys <jacquesg@striata.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -294,7 +295,6 @@
 - [ ]     2	Hugh Powell <hugh@hughpowell.co.uk>
 - [ ]     2	Hunter Laux <hunterlaux@gmail.com>
 - [ ]     2	Iban Cereijo <ibancg@users.noreply.github.com>
-- [ ]     2	Jacques Germishuys <jacquesg@striata.com>
 - [ ]     2	Joel Lauener <Joel.Lauener@cern.ch>
 - [ ]     2	John Murphy <murphybytes@gmail.com>
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
