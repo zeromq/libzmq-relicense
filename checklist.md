@@ -59,6 +59,7 @@
 - [x]     6	Michael Fox <415fox@gmail.com>
 - [x]     6	Sylvain Corlay <sylvain.corlay@gmail.com>
 - [x]     4	Franco Fichtner <franco@lastsummer.de>
+- [x]     1	Franco Fichtner <franco@opnsense.org>
 - [x]     4	Nick Guiffrida <goodfella005@gmail.com>
 - [x]     4	Rik van der Heijden <rik.vanderheijden@dualinventive.com>
 - [x]     2	Rik van der Heijden <mail@rikvanderheijden.com>
@@ -386,7 +387,6 @@
 - [ ]     1	Emmanuel Taurel <taurel@esrf.fr>
 - [ ]     1	Erick Tryzelaar <erick.tryzelaar@gmail.com>
 - [ ]     1	Francesco Montorsi <f18m@users.noreply.github.com>
-- [ ]     1	Franco Fichtner <franco@opnsense.org>
 - [ ]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
 - [ ]     1	Gergely Nagy <algernon@balabit.hu>
 - [ ]     1	Ghislain <ghpu@infonie.fr>
