@@ -180,6 +180,7 @@
 - [x]     4	f18m <francesco.montorsi@gmail.com>
 - [x]     2	Fabrice Fontaine <fontaine.fabrice@gmail.com>
 - [x]     2	Floris Bruynooghe <flub@devork.be>
+- [x]     1	Matthias Gabriel <matthias.gabriel@etit.tu-chemnitz.de>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -432,7 +433,6 @@
 - [ ]     1	Markus Rothe <markus@unixforces.net>
 - [ ]     1	Mathias Hablützel <habl@zhaw.ch>
 - [ ]     1	Matthew Hawn <steamraven@yahoo.com>
-- [ ]     1	Matthias Gabriel <matthias.gabriel@etit.tu-chemnitz.de>
 - [ ]     1	Maurice Barnum <msb@yahoo-inc.com>
 - [ ]     1	Max Kozlovsky <max@portworx.com>
 - [ ]     1	Max Wolf <YIDIEPXGXGPN@spammotel.com>
