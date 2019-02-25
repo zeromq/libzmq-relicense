@@ -225,6 +225,7 @@
 - [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     6	Bill Torpey <wallstprog@gmail.com>
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
+- [ ]     3	Guido Goldstein <zmq@a-nugget.de>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
 - [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com>
 - [ ]     6	Trevor Bernard <trevor.bernard@gmail.com>
@@ -258,7 +259,6 @@
 - [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 - [ ]     3	Francis Hart <francis@kuvacode.com>
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu>
-- [ ]     3	Guido Goldstein <zmq@a-nugget.de>
 - [ ]     3	Hiten P <hp010170@gmail.com>
 - [ ]     3	John Muehlhausen <jgm@jgm.org>
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
