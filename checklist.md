@@ -207,6 +207,7 @@
 - [x]     2	Byron Mallett <byronated@gmail.com>
 - [x]     2	Juraj Oršulić <juraj.orsulic@fer.hr>
 - [x]     2	Kymeta Corp <opensource@kymetacorp.com>
+- [x]     2	roalz <roal.zanazzi@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -346,7 +347,6 @@
 - [ ]     2	mauri-melato <maurizio.melato@nice-software.com>
 - [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
 - [ ]     2	niXman <i.nixman@gmail.com>
-- [ ]     2	roalz <roal.zanazzi@gmail.com>
 - [ ]     2	sunkin351 <17joshuanewcomb@gmail.com>
 - [ ]     2	twwlogin <github@vendor.thewrittenword.com>
 - [ ]     2	youRFate <paa.christoph@googlemail.com>
