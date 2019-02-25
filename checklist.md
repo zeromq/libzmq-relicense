@@ -214,6 +214,7 @@
 - [x]     3	Christoph Schulz <schulzcbs@gmail.com>
 - [x]    14	Lionel Flandrin <lflandrin@ereca.fr>
 - [x]     5	Shubham Lagwankar <shubhu105@gmail.com>
+- [x]     2	Nathan Toone <nathan@toonetown.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -325,7 +326,6 @@
 - [ ]     2	Martijn Jasperse <m.jasperse@gmail.com>
 - [ ]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
 - [ ]     2	Mikael Helbo Kjaer <mhk@designtech.dk>
-- [ ]     2	Nathan Toone <nathan@toonetown.com>
 - [ ]     2	Nikolay Edigaryev <edigaryev@gmail.com>
 - [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
 - [ ]     2	Sebastian Otaegui <feniix@gmail.com>
