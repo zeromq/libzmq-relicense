@@ -174,6 +174,8 @@
 - [x]     2	crocket <748856+crocket@users.noreply.github.com>
 - [x]     1	drodri <diego.rlosada@gmail.com>
 - [x]     3	Eelis van der Weegen <eelis@eelis.net>
+- [x]     4	Francesco Montorsi <francesco.montorsi@gmail.com>
+- [x]     4	f18m <francesco.montorsi@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -232,11 +234,9 @@
 - [ ]     4	Chris Busbey <cbusbey@connamara.com>
 - [ ]     4	Chris Laws <clawsicus@gmail.com>
 - [ ]     4	Dongmin Yu <miniway@gmail.com>
-- [ ]     4	Francesco Montorsi <francesco.montorsi@gmail.com>
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
 - [ ]     4	Jeremie Courreges-Anglas <jca@wxcvbn.org>
 - [ ]     4	Sergei Nikulov <sergey.nikulov@gmail.com>
-- [ ]     4	f18m <francesco.montorsi@gmail.com>
 - [ ]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [ ]     4	laplaceyang <laplace2013@outlook.com>
 - [ ]     3	Axel Nennker <axel@nennker.de>
