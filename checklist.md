@@ -159,7 +159,7 @@
 - [x]     2	William Swanson <swansontec@gmail.com>
 - [x]     2	Pawel Kurdybacha <pawel.kurdybacha@gmail.com>
 - [x]     1	Leonard Michelet <leonard.michelet@openwide.fr>
-- [x]     2	Julien Ruffin <jur@ivu.de>
+- [x]     2	Julien Ruffin <jur@ivu.de> (grant by IVU Traffic Technologies AG)
 - [x]     1	Bruno Bodin <bruno.bodin@cea.fr>
 - [x]    10	bjovke <bjovan@gmail.com>
 - [x]     7	BJovke <bjovan@gmail.com>
