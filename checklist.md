@@ -132,6 +132,7 @@
 - [x]     1	Gavin <gavin@mcniff.ie>
 - [x]     1	Gavin McNiff <gavin@mcniff.ie>
 - [x]     1	Ghislain Putois <ghpu@infonie.fr>
+- [x]     1	Ghislain <ghpu@infonie.fr>
 - [x]     1	Armin Burgmeier <aburgmeier@bloomberg.net>
 - [x]     1	Diego Rodriguez-Losada <diego.rlosada@gmail.com>
 - [x]     2	Adam Seering <aseering@gmail.com>
@@ -390,7 +391,6 @@
 - [ ]     1	Francesco Montorsi <f18m@users.noreply.github.com>
 - [ ]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
 - [ ]     1	Gergely Nagy <algernon@balabit.hu>
-- [ ]     1	Ghislain <ghpu@infonie.fr>
 - [ ]     1	Giulio Eulisse <giulio.eulisse@cern.ch>
 - [ ]     1	Guilherme Steinmann <guidefloripa@gmail.com>
 - [ ]     1	Gunther Laure <glaure@dewetron.com>
