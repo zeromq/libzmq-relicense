@@ -22,6 +22,8 @@
 - [x]     2	Steven McCoy <fnjordy@gmail.com>
 - [x]    47	Joe Eli McIlvain <joe.eli.mac@gmail.com>
 - [x]    47	KIU Shueng Chuan <nixchuan@gmail.com>
+- [x]     1	pijyoi <nixchuan@gmail.com>
+- [x]     1	xinchuan <nixchuan@gmail.com>
 - [x]    43	Luca Boccassi <bluca@debian.org>
 - [x]    25	Sergey KHripchenko <shripchenko@intermedia.net>
 - [x]    23	Thomas Rodgers <trodgers@drw.com>
@@ -521,11 +523,9 @@
 - [ ]     1	korbes <andre.korbes@gmail.com>
 - [ ]     1	mlodew <markus.schori@outlook.com>
 - [ ]     1	o172(xenovo) <git@o172.net>
-- [ ]     1	pijyoi <nixchuan@gmail.com>
 - [ ]     1	reza-ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [ ]     1	rkfg <rkfg@rkfg.me>
 - [ ]     1	sunddy <sunddy.duan@gmail.com>
 - [ ]     1	twhittock <tom.whittock@gmail.com>
-- [ ]     1	xinchuan <nixchuan@gmail.com>
 - [ ]     1	yasirs <yasir.suhail@gmail.com>
 - [ ]     1	zstang <zshtangbuaa@gmail.com>
