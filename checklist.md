@@ -172,6 +172,7 @@
 - [x]     3	Anton Dimitrov <dimitrov.anton@gmail.com>
 - [x]     2	brubakerjeff <brubaker.jeff@gmail.com>
 - [x]     2	crocket <748856+crocket@users.noreply.github.com>
+- [x]     1	drodri <diego.rlosada@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -503,7 +504,6 @@
 - [ ]     1	bprager <bernd@prager.ws>
 - [ ]     1	ccpaging <ccpaging@gmail.com>
 - [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
-- [ ]     1	drodri <diego.rlosada@gmail.com>
 - [ ]     1	ebyrob <ebyrob@gmail.com>
 - [ ]     1	ehilscher <40001020+ehilscher@users.noreply.github.com>
 - [ ]     1	fnaime <33913787+fnaime@users.noreply.github.com>
