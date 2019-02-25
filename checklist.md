@@ -220,6 +220,7 @@
 - [x]     6	Bill Torpey <wallstprog@gmail.com>
 - [x]     2	Wenbin Hou <catchyrime@fastmail.com>
 - [x]     1	Wenbin Hou <houwenbin@pku.edu.cn>
+- [x]     6	Trevor Bernard <trevor.bernard@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -264,7 +265,6 @@ _None for now_
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
 - [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com>
-- [ ]     6	Trevor Bernard <trevor.bernard@gmail.com>
 - [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
