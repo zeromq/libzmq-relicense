@@ -184,6 +184,7 @@
 - [x]     2	Floris Bruynooghe <flub@devork.be>
 - [x]     1	Matthias Gabriel <matthias.gabriel@etit.tu-chemnitz.de>
 - [x]     2	Gregory Lemercier <greglemercier@free.fr>
+- [x]     3	Guido Vranken <guidovranken@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -258,7 +259,6 @@
 - [ ]     3	Francis Hart <francis@kuvacode.com>
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu>
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
-- [ ]     3	Guido Vranken <guidovranken@gmail.com>
 - [ ]     3	Hiten P <hp010170@gmail.com>
 - [ ]     3	John Muehlhausen <jgm@jgm.org>
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
