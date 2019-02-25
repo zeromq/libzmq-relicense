@@ -8,7 +8,7 @@
 - [x]   379	Constantin Rack <constantin.rack@gmail.com>
 - [x]   274	Ian Barber <ian.barber@gmail.com>
 - [x]   272	Martin Hurton <hurtonm@gmail.com> (grant by iMatix)
-- [x]   173	Richard Newton <richard_newton@waters.com>
+- [x]   173	Richard Newton <richard_newton@waters.com> (grant by Micromass UK Limited)
 - [x]   170	Doron Somech <somdoron@gmail.com>
 - [x]   159	Martin Lucina <martin@lucina.net> (grant by iMatix)
 - [x]   125	Eric Voskuil <eric@voskuil.org>
