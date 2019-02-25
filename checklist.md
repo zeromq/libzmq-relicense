@@ -37,6 +37,7 @@
 - [x]    13	Arthur O'Dwyer <arthur@push.am>
 - [x]    13	Dylan Cali <calid1984@gmail.com>
 - [x]    12	Osiris <opedroso@gmail.com>
+- [x]     1	Osiris Pedroso <opedroso@gmail.com>
 - [x]    12	Olaf Mandel <o.mandel@menlosystems.com>
 - [x]    11	Christian Kamm <kamm@incasoftware.de>
 - [x]    11	Bitiquinho <consoni_2519@hotmail.com>
@@ -449,14 +450,12 @@
 - [ ]     1	Michel Pelletier <pelletier.michel@gmail.com>
 - [ ]     1	Mika Fischer <fischer@videmo.de>
 - [ ]     1	Mika Fischer <mika.fischer@zoopnet.de>
-
 - [ ]     1	Neale Ferguson <neale@sinenomine.net>
 - [ ]     1	NetImperia <com@netimperia.com>
 - [ ]     1	Nikhil Mishra <nikhil@cinarra.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
 - [ ]     1	Nir Soffer <nirsof@gmail.com>
 - [ ]     1	Omer Katz <omer.drow@gmail.com>
-- [ ]     1	Osiris Pedroso <opedroso@gmail.com>
 - [ ]     1	PP <pp@pp.com>
 - [ ]     1	Patrick McLean <chutzpah@gentoo.org>
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
