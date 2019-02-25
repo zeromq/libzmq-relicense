@@ -209,6 +209,7 @@
 - [x]     2	Juraj Oršulić <juraj.orsulic@fer.hr>
 - [x]     2	Kymeta Corp <opensource@kymetacorp.com>
 - [x]     2	roalz <roal.zanazzi@gmail.com>
+- [x]     3	Christoph Schulz <schulzcbs@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -277,7 +278,6 @@
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
 - [ ]     3	Bernd Langpap <Bernd.Langpap@airbus.com>
 - [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
-- [ ]     3	Christoph Schulz <schulzcbs@gmail.com>
 - [ ]     3	Fabien Ninoles <fabien@tzone.org>
 - [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 - [ ]     3	Francis Hart <francis@kuvacode.com>
