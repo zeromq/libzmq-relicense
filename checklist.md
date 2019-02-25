@@ -52,6 +52,7 @@
 - [x]    10	Uli Köhler <ulikoehler@online.de>
 - [x]     9	Sébastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     9	Kevin Sapper <mail@kevinsapper.de>
+- [x]     1	Kevin Sapper <kevin.b.sapper@student.hs-rm.de>
 - [x]     8	Stoian Ivanov <sdr@tera-com.com>
 - [x]     9	Thomas Köppe <tkoeppe@google.com> (grant by Google)
 - [x]     8	Juha Reunanen <juha.reunanen@tomaattinen.com>
@@ -432,7 +433,6 @@
 - [ ]     1	Ken Steele <ken@tilera.com>
 - [ ]     1	Kenneth Wilke <kenneth.wilke@rackspace.com>
 - [ ]     1	KennyTM~ <kennytm@gmail.com>
-- [ ]     1	Kevin Sapper <kevin.b.sapper@student.hs-rm.de>
 - [ ]     1	Kouhei Sutou <kou@clear-code.com>
 - [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
 - [ ]     1	Maks Naumov <maksqwe1@ukr.net>
