@@ -46,6 +46,7 @@
 - [x]    11	Phillip Mienk <mienkphi@gmail.com>
 - [x]    10	Thomas Rodgers <rodgert@twrodgers.com>
 - [x]    11	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
+- [x]     1	reza-ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [x]    10	Anonymous Maarten <anonymous.maarten@gmail.com>
 - [x]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [x]    10	Uli Köhler <ulikoehler@online.de>
@@ -523,7 +524,6 @@
 - [ ]     1	korbes <andre.korbes@gmail.com>
 - [ ]     1	mlodew <markus.schori@outlook.com>
 - [ ]     1	o172(xenovo) <git@o172.net>
-- [ ]     1	reza-ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [ ]     1	rkfg <rkfg@rkfg.me>
 - [ ]     1	sunddy <sunddy.duan@gmail.com>
 - [ ]     1	twhittock <tom.whittock@gmail.com>
