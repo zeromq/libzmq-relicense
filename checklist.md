@@ -218,6 +218,8 @@
 - [x]     5	Shubham Lagwankar <shubhu105@gmail.com>
 - [x]     2	Nathan Toone <nathan@toonetown.com>
 - [x]     6	Bill Torpey <wallstprog@gmail.com>
+- [x]     2	Wenbin Hou <catchyrime@fastmail.com>
+- [x]     1	Wenbin Hou <houwenbin@pku.edu.cn>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -342,7 +344,6 @@
 - [ ]     2	Tristian Celestin <tristian.celestin@outlook.com>
 - [ ]     2	Vaughan Newton <newton.vaughan0@gmail.com>
 - [ ]     2	Victor Perron <victor@iso3103.net>
-- [ ]     2	Wenbin Hou <catchyrime@fastmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
 - [ ]     2	boris@boressoft.ru <������� ��������@DANCE-SERVER-2.(none)>
 - [ ]     2	dave b <david.brown@datasift.com>
@@ -503,7 +504,6 @@
 - [ ]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
 - [ ]     1	WGH <wgh@torlan.ru>
 - [ ]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
-- [ ]     1	Wenbin Hou <houwenbin@pku.edu.cn>
 - [ ]     1	Zhilong.JI <zlji@Ctrip.com>
 - [ ]     1	asafkahlon <35964924+asafkahlon@users.noreply.github.com>
 - [ ]     1	bbdb68 <bbdb68@users.noreply.github.com>
