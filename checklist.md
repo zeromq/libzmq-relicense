@@ -176,6 +176,7 @@
 - [x]     3	Eelis van der Weegen <eelis@eelis.net>
 - [x]     4	Francesco Montorsi <francesco.montorsi@gmail.com>
 - [x]     4	f18m <francesco.montorsi@gmail.com>
+- [x]     2	Fabrice Fontaine <fontaine.fabrice@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -279,7 +280,6 @@
 - [ ]     2	Dmitriy-GH <dimatart@mail.ru>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	Eric Cornelius <EricMCornelius@gmail.com>
-- [ ]     2	Fabrice Fontaine <fontaine.fabrice@gmail.com>
 - [ ]     2	Floris Bruynooghe <flub@devork.be>
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
 - [ ]     2	Gregory Lemercier <greglemercier@free.fr>
