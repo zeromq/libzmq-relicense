@@ -103,6 +103,7 @@
 - [x]     1	Harald <harald.achitz@getinge.com>
 - [x]     4	a4z <harald.achitz@gmail.com>
 - [x]     2	Maarten Ditzel <maarten.ditzel@tno.nl>
+- [x]     1	mditzel <maarten.ditzel@gmail.com>
 - [x]     2	Matthias Kluwe <mkluwe@gmail.com>
 - [x]     4	Asmod4n <Asmod4n@users.noreply.github.com>
 - [x]     3	Michael Lutz <michi@icosahedron.de>
@@ -517,7 +518,6 @@
 - [ ]     1	jdavidberger <j.david.berger@gmail.com>
 - [ ]     1	kermit <kermit.bu@qq.com>
 - [ ]     1	korbes <andre.korbes@gmail.com>
-- [ ]     1	mditzel <maarten.ditzel@gmail.com>
 - [ ]     1	mkluwe <mkluwe@gmail.com>
 - [ ]     1	mlodew <markus.schori@outlook.com>
 - [ ]     1	o172(xenovo) <git@o172.net>
