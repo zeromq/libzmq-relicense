@@ -54,6 +54,7 @@
 - [x]     9	Kevin Sapper <mail@kevinsapper.de>
 - [x]     1	Kevin Sapper <kevin.b.sapper@student.hs-rm.de>
 - [x]     8	Stoian Ivanov <sdr@tera-com.com>
+- [x]     1	Stoian Ivanov <sdr@mail.bg>
 - [x]     9	Thomas Köppe <tkoeppe@google.com> (grant by Google)
 - [x]     8	Juha Reunanen <juha.reunanen@tomaattinen.com>
 - [x]     7	Roy Lenferink <lenferinkroy@gmail.com>
@@ -492,7 +493,6 @@
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
 - [ ]     1	Steven Chamberlain <steven@pyro.eu.org>
 - [ ]     1	Steven Peters <scpeters@openrobotics.org>
-- [ ]     1	Stoian Ivanov <sdr@mail.bg>
 - [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Taras Shpot <taras.shpot@eleks.com>
 - [ ]     1	Tim Ebringer <tde@slowdogs.com.au>
