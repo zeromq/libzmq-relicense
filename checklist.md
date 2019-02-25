@@ -213,6 +213,7 @@
 - [x]     2	roalz <roal.zanazzi@gmail.com>
 - [x]     3	Christoph Schulz <schulzcbs@gmail.com>
 - [x]    14	Lionel Flandrin <lflandrin@ereca.fr>
+- [x]     5	Shubham Lagwankar <shubhu105@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -265,7 +266,6 @@
 - [ ]     5	Mark Barbisan <mark@barbisan.ca>
 - [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com>
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be>
-- [ ]     5	Shubham Lagwankar <shubhu105@gmail.com>
 - [ ]     5	pavel.pimenov <pavel.pimenov@gmail.com>
 - [ ]     4	Boris Lytochkin <lytboris@yandex-team.ru>
 - [ ]     4	Chris Busbey <cbusbey@connamara.com>
