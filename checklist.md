@@ -200,6 +200,7 @@
 - [x]     2	Jérémie Courrèges-Anglas <jca@wxcvbn.org>
 - [x]     2	Conrad Parker <conrad@metadecks.org>
 - [x]     2	Byron Mallett <byronated@gmail.com>
+- [x]     2	Juraj Oršulić <juraj.orsulic@fer.hr>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -306,7 +307,6 @@
 - [ ]     2	John Murphy <murphybytes@gmail.com>
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Joshua Gao <jmg116@gmail.com>
-- [ ]     2	Juraj Oršulić <juraj.orsulic@fer.hr>
 - [ ]     2	Kos <vbz276@gmail.com>
 - [ ]     2	Kymeta Corp <opensource@kymetacorp.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
