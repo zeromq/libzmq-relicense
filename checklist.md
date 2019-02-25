@@ -179,6 +179,7 @@
 - [x]     1	Bruno Bodin <bruno.bodin@cea.fr>
 - [x]    10	bjovke <bjovan@gmail.com>
 - [x]     7	BJovke <bjovan@gmail.com>
+- [x]     1	Bunjevacki, Jovan <bjovan@gmail.com> (original e-mail replaced)
 - [x]     5	bjovke <a@b>
 - [x]     6	Jake Cobb <jake.cobb@gmail.com>
 - [x]     1	Jake Cobb <william.cobb@varian.com>
@@ -376,7 +377,6 @@ _None for now_
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
 - [ ]     1	Brian Russell <brussell@brocade.com>
 - [ ]     1	Bruno Bigras <bigras.bruno@gmail.com>
-- [ ]     1	Bunjevacki, Jovan <jb185456@ncr.com>
 - [ ]     1	Burak Arslan <burak-github@arskom.com.tr>
 - [ ]     1	Carl Clemens <carlclemens1@yahoo.com>
 - [ ]     1	Chernyshev Vyacheslav <astellar@ro.ru>
