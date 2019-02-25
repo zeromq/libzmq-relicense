@@ -75,6 +75,7 @@
 - [x]     3	Ivo Danihelka <ivo@danihelka.net>
 - [x]     1	Ivo Danihelka <danihelka@google.com>
 - [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com>
+- [x]     1	Piotr Trojanek <ptroja@users.noreply.github.com>
 - [x]     1	Shannen Saez <shannenlaptop@gmail.com>
 - [x]     4	Samuel Martin <s.martin49@gmail.com>
 - [x]     7	Thomas Braun <thomas.braun@byte-physics.de>
@@ -468,7 +469,6 @@
 - [ ]     1	Peter J. Holzer <hjp@hjp.at>
 - [ ]     1	Peter Korsgaard <peter@korsgaard.com>
 - [ ]     1	Philip Kovacs <phil@philkovacs.com>
-- [ ]     1	Piotr Trojanek <ptroja@users.noreply.github.com>
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se>
 - [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
 - [ ]     1	Richard Janis Goldschmidt <janis.beckert@gmail.com>
