@@ -199,6 +199,7 @@
 - [x]     4	Jeremie Courreges-Anglas <jca@wxcvbn.org>
 - [x]     2	Jérémie Courrèges-Anglas <jca@wxcvbn.org>
 - [x]     2	Conrad Parker <conrad@metadecks.org>
+- [x]     2	Byron Mallett <byronated@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -289,7 +290,6 @@
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com>
 - [ ]     2	Bruno D. Rodrigues <bruno.rodrigues@litux.org>
-- [ ]     2	Byron Mallett <byronated@gmail.com>
 - [ ]     2	Charles McGarvey <chazmcgarvey@brokenzipper.com>
 - [ ]     2	Charles Stanley <charles.stanley@highwinds.com>
 - [ ]     2	Christoph Zach <czach@rst-automation.com>
