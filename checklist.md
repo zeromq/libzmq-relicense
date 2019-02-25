@@ -65,6 +65,7 @@
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     4	Vincent Tellier <vincent@tellier.me>
 - [x]     3	Ivo Danihelka <ivo@danihelka.net>
+- [x]     1	Ivo Danihelka <danihelka@google.com>
 - [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com>
 - [x]     1	Shannen Saez <shannenlaptop@gmail.com>
 - [x]     4	Samuel Martin <s.martin49@gmail.com>
@@ -401,7 +402,6 @@
 - [ ]     1	Huang Xin <chrox.huang@gmail.com>
 - [ ]     1	Huu Nguyen <whoshuu@gmail.com>
 - [ ]     1	Ilja Golshtein <ilejncs@narod.ru>
-- [ ]     1	Ivo Danihelka <danihelka@google.com>
 - [ ]     1	Jacob Rideout <jacob.rideout@returnpath.net>
 - [ ]     1	Jason Unovitch <jason.unovitch@gmail.com>
 - [ ]     1	Jasper Lievisse Adriaanse <jasper@humppa.nl>
