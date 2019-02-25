@@ -202,6 +202,7 @@
 - [x]     2	Conrad Parker <conrad@metadecks.org>
 - [x]     2	Byron Mallett <byronated@gmail.com>
 - [x]     2	Juraj Oršulić <juraj.orsulic@fer.hr>
+- [x]     2	Kymeta Corp <opensource@kymetacorp.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -309,7 +310,6 @@
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Joshua Gao <jmg116@gmail.com>
 - [ ]     2	Kos <vbz276@gmail.com>
-- [ ]     2	Kymeta Corp <opensource@kymetacorp.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
 - [ ]     2	Lourens Naudé <lourens@methodmissing.com>
 - [ ]     2	Marc Sune <marc@voltanet.io>
