@@ -17,6 +17,7 @@
 - [x]    65	Simon Giesecke <simon.giesecke@gmail.com>
 - [x]    58	Min RK <benjaminrk@gmail.com>
 - [x]    57	Mikko Koppanen <mikko.koppanen@gmail.com>
+- [x]     1	Mikko Koppanen <mikko.koppanen@alltimetech.co.uk>
 - [x]    50	Steven McCoy <steven.mccoy@miru.hk>
 - [x]     2	Steven McCoy <fnjordy@gmail.com>
 - [x]    47	Joe Eli McIlvain <joe.eli.mac@gmail.com>
@@ -448,7 +449,7 @@
 - [ ]     1	Michel Pelletier <pelletier.michel@gmail.com>
 - [ ]     1	Mika Fischer <fischer@videmo.de>
 - [ ]     1	Mika Fischer <mika.fischer@zoopnet.de>
-- [ ]     1	Mikko Koppanen <mikko.koppanen@alltimetech.co.uk>
+
 - [ ]     1	Neale Ferguson <neale@sinenomine.net>
 - [ ]     1	NetImperia <com@netimperia.com>
 - [ ]     1	Nikhil Mishra <nikhil@cinarra.com>
