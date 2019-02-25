@@ -223,33 +223,36 @@
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
+- [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
+- [ ]     2	Daniel Norberg <dano@spotify.com>
+- [ ]     9	Staffan Gimåker <staffan@spotify.com>
+- [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
+- [ ]    15	Max Skaller <Max.Skaller@gmail.com>
+- [ ]    13	Frank Hartmann <soundart@gmx.net>
+- [ ]    25	Lourens Naudé <lourens@methodmissing.com>
+- [ ]    12	Brian Silverman <brian@peloton-tech.com>
+- [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
+- [ ]    12	Telford Berkey <tberkey@4qbase.com>
+- [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
+- [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
+- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
+- [ ]     0	Hitster GTD <hitstergtd@gmail.com> 
+- [ ]    16	Jens Auer <jens.auer@cgi.com>
+- [ ]     0	Jens Auer <jens.auer@betaversion.net>
+- [ ]    12	Michel Zou <xantares10@hotmail.com>
+- [ ]     1	Michel Zou <xantares09@hotmail.com>
 
 ## Grants to be submitted
 
 ### Same users
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
-- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
-- [ ]     0	Hitster GTD <hitstergtd@gmail.com> 
-- [ ]    12	Michel Zou <xantares10@hotmail.com>
-- [ ]     1	Michel Zou <xantares09@hotmail.com>
-- [ ]    16	Jens Auer <jens.auer@cgi.com>
-- [ ]     0	Jens Auer <jens.auer@betaversion.net>
+_None for now_
 
 ### Other
 - [ ]    27	unknown <bundra@.(none)>
-- [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    17	Jim Garlick <garlick.jim@gmail.com>
-- [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
-- [ ]    15	Max Skaller <Max.Skaller@gmail.com>
-- [ ]    13	Frank Hartmann <soundart@gmx.net>
-- [ ]    12	Brian Silverman <brian@peloton-tech.com>
-- [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
-- [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
-- [ ]    12	Telford Berkey <tberkey@4qbase.com>
-- [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
-- [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]     8	Laughing <hnwyllmm@126.com>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 - [ ]     7	Chris Busbey <chris.busbey@gmail.com>
@@ -284,7 +287,6 @@
 - [ ]     3	Ben Gray <ben@benjamg.com>
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
 - [ ]     3	Bernd Langpap <Bernd.Langpap@airbus.com>
-- [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     3	Fabien Ninoles <fabien@tzone.org>
 - [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 - [ ]     3	Francis Hart <francis@kuvacode.com>
@@ -310,7 +312,6 @@
 - [ ]     2	Charles Stanley <charles.stanley@highwinds.com>
 - [ ]     2	Christoph Zach <czach@rst-automation.com>
 - [ ]     2	Claudio Freire <klaussfreire@gmail.com>
-- [ ]     2	Daniel Norberg <dano@spotify.com>
 - [ ]     2	Dmitriy-GH <dimatart@mail.ru>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	Eric Cornelius <EricMCornelius@gmail.com>
