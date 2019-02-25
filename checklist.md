@@ -190,6 +190,8 @@
 - [x]     1	Szekely Gyorgy <hoditohod@gmail.com>
 - [x]     2	Antonio Vanegas <hpsaturn@gmail.com>
 - [x]     2	Jacques Germishuys <jacquesg@striata.com>
+- [x]     4	Jeremie Courreges-Anglas <jca@wxcvbn.org>
+- [x]     2	Jérémie Courrèges-Anglas <jca@wxcvbn.org>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -250,7 +252,6 @@
 - [ ]     4	Chris Laws <clawsicus@gmail.com>
 - [ ]     4	Dongmin Yu <miniway@gmail.com>
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
-- [ ]     4	Jeremie Courreges-Anglas <jca@wxcvbn.org>
 - [ ]     4	Sergei Nikulov <sergey.nikulov@gmail.com>
 - [ ]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [ ]     4	laplaceyang <laplace2013@outlook.com>
@@ -300,7 +301,6 @@
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Joshua Gao <jmg116@gmail.com>
 - [ ]     2	Juraj Oršulić <juraj.orsulic@fer.hr>
-- [ ]     2	Jérémie Courrèges-Anglas <jca@wxcvbn.org>
 - [ ]     2	Kos <vbz276@gmail.com>
 - [ ]     2	Kymeta Corp <opensource@kymetacorp.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
