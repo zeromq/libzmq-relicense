@@ -43,6 +43,7 @@
 - [x]    10	Thomas Rodgers <rodgert@twrodgers.com>
 - [x]    11	Reza Ebrahimi <reza.ebrahimi.dev@gmail.com>
 - [x]    10	Anonymous Maarten <anonymous.maarten@gmail.com>
+- [x]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [x]    10	Uli Köhler <ulikoehler@online.de>
 - [x]     9	Sébastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     9	Kevin Sapper <mail@kevinsapper.de>
@@ -352,7 +353,6 @@
 - [ ]     1	Alexander Dubovik <dubovik_a_d@mail.ru>
 - [ ]     1	Anass Bouassaba <anass.bouassaba@t-online.de>
 - [ ]     1	Andras Lasso <lasso@queensu.ca>
-- [ ]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [ ]     1	Anton Bärwald <anton.barwald@hotmail.com>
 - [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
 - [ ]     1	Antony Searle <antony.searle@gmail.com>
