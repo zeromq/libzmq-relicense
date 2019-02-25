@@ -188,6 +188,7 @@
 - [x]     1	Henri Gourvest <hgourvest@pogdigy.com>
 - [x]     1	Gyorgy Szekely <gyorgy.szekely@ge.com>
 - [x]     1	Szekely Gyorgy <hoditohod@gmail.com>
+- [x]     2	Antonio Vanegas <hpsaturn@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -277,7 +278,6 @@
 - [ ]     2	Alexey Melnichuk <mimir@newmail.ru>
 - [ ]     2	Alessandro Ghedini <al3xbio@gmail.com>
 - [ ]     2	Alessandro Ghedini <alessandro@ghedini.me>
-- [ ]     2	Antonio Vanegas <hpsaturn@gmail.com>
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com>
 - [ ]     2	Bruno D. Rodrigues <bruno.rodrigues@litux.org>
 - [ ]     2	Byron Mallett <byronated@gmail.com>
