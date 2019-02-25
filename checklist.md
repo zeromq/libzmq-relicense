@@ -61,6 +61,7 @@
 - [x]     4	Franco Fichtner <franco@lastsummer.de>
 - [x]     1	Franco Fichtner <franco@opnsense.org>
 - [x]     4	Nick Guiffrida <goodfella005@gmail.com>
+- [x]     1	nick <goodfella005@gmail.com>
 - [x]     4	Rik van der Heijden <rik.vanderheijden@dualinventive.com>
 - [x]     2	Rik van der Heijden <mail@rikvanderheijden.com>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
@@ -519,7 +520,6 @@
 - [ ]     1	mditzel <maarten.ditzel@gmail.com>
 - [ ]     1	mkluwe <mkluwe@gmail.com>
 - [ ]     1	mlodew <markus.schori@outlook.com>
-- [ ]     1	nick <goodfella005@gmail.com>
 - [ ]     1	o172(xenovo) <git@o172.net>
 - [ ]     1	pijyoi <nixchuan@gmail.com>
 - [ ]     1	reza-ebrahimi <reza.ebrahimi.dev@gmail.com>
