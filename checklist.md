@@ -211,6 +211,7 @@
 - [x]     2	Kymeta Corp <opensource@kymetacorp.com>
 - [x]     2	roalz <roal.zanazzi@gmail.com>
 - [x]     3	Christoph Schulz <schulzcbs@gmail.com>
+- [x]    14	Lionel Flandrin <lflandrin@ereca.fr>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -232,7 +233,6 @@
 - [ ]    17	Jim Garlick <garlick.jim@gmail.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
-- [ ]    14	Lionel Flandrin <lflandrin@ereca.fr>
 - [ ]    13	Frank Hartmann <soundart@gmx.net>
 - [ ]    12	Brian Silverman <brian@peloton-tech.com>
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
