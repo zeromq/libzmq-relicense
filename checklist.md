@@ -217,6 +217,7 @@
 - [x]    14	Lionel Flandrin <lflandrin@ereca.fr>
 - [x]     5	Shubham Lagwankar <shubhu105@gmail.com>
 - [x]     2	Nathan Toone <nathan@toonetown.com>
+- [x]     6	Bill Torpey <wallstprog@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -254,7 +255,6 @@
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
 - [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com>
-- [ ]     6	Bill Torpey <wallstprog@gmail.com>
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
 - [ ]     6	OBATA Akio <obache@users.noreply.github.com>
