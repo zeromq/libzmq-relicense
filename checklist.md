@@ -173,6 +173,7 @@
 - [x]     2	brubakerjeff <brubaker.jeff@gmail.com>
 - [x]     2	crocket <748856+crocket@users.noreply.github.com>
 - [x]     1	drodri <diego.rlosada@gmail.com>
+- [x]     3	Eelis van der Weegen <eelis@eelis.net>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -244,7 +245,6 @@
 - [ ]     3	Bernd Langpap <Bernd.Langpap@airbus.com>
 - [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     3	Christoph Schulz <schulzcbs@gmail.com>
-- [ ]     3	Eelis van der Weegen <eelis@eelis.net>
 - [ ]     3	Fabien Ninoles <fabien@tzone.org>
 - [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 - [ ]     3	Francis Hart <francis@kuvacode.com>
