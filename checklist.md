@@ -192,6 +192,7 @@
 - [x]     2	Jacques Germishuys <jacquesg@striata.com>
 - [x]     4	Jeremie Courreges-Anglas <jca@wxcvbn.org>
 - [x]     2	Jérémie Courrèges-Anglas <jca@wxcvbn.org>
+- [x]     2	Conrad Parker <conrad@metadecks.org>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -287,7 +288,6 @@
 - [ ]     2	Charles Stanley <charles.stanley@highwinds.com>
 - [ ]     2	Christoph Zach <czach@rst-automation.com>
 - [ ]     2	Claudio Freire <klaussfreire@gmail.com>
-- [ ]     2	Conrad Parker <conrad@metadecks.org>
 - [ ]     2	Daniel Norberg <dano@spotify.com>
 - [ ]     2	Dmitriy-GH <dimatart@mail.ru>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
