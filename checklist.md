@@ -76,6 +76,7 @@
 - [x]     2	Rik van der Heijden <mail@rikvanderheijden.com>
 - [x]     3	Tamara Kustarova <kustarova@fastmq.com> (grant by iMatix)
 - [x]     4	Vincent Tellier <vincent@tellier.me>
+- [x]     2	Vincent Tellier <Vincent.Tellier@Stingray.no>
 - [x]     3	Ivo Danihelka <ivo@danihelka.net>
 - [x]     1	Ivo Danihelka <danihelka@google.com>
 - [x]     3	Piotr Trojanek <piotr.trojanek@gmail.com>
@@ -341,7 +342,6 @@
 - [ ]     2	Tristian Celestin <tristian.celestin@outlook.com>
 - [ ]     2	Vaughan Newton <newton.vaughan0@gmail.com>
 - [ ]     2	Victor Perron <victor@iso3103.net>
-- [ ]     2	Vincent Tellier <Vincent.Tellier@Stingray.no>
 - [ ]     2	Wenbin Hou <catchyrime@fastmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
 - [ ]     2	boris@boressoft.ru <������� ��������@DANCE-SERVER-2.(none)>
