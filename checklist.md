@@ -186,6 +186,8 @@
 - [x]     2	Gregory Lemercier <greglemercier@free.fr>
 - [x]     3	Guido Vranken <guidovranken@gmail.com>
 - [x]     1	Henri Gourvest <hgourvest@pogdigy.com>
+- [x]     1	Gyorgy Szekely <gyorgy.szekely@ge.com>
+- [x]     1	Szekely Gyorgy <hoditohod@gmail.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -396,7 +398,6 @@
 - [ ]     1	Giulio Eulisse <giulio.eulisse@cern.ch>
 - [ ]     1	Guilherme Steinmann <guidefloripa@gmail.com>
 - [ ]     1	Gunther Laure <glaure@dewetron.com>
-- [ ]     1	Gyorgy Szekely <gyorgy.szekely@ge.com>
 - [ ]     1	Gyula Laszlo <gyula.laszlo.gm@gmail.com>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
 - [ ]     1	Henrik Feldt <henrik@haf.se>
@@ -488,7 +489,6 @@
 - [ ]     1	Steven Peters <scpeters@openrobotics.org>
 - [ ]     1	Stoian Ivanov <sdr@mail.bg>
 - [ ]     1	Suudy <pladow@gmail.com>
-- [ ]     1	Szekely Gyorgy <hoditohod@gmail.com>
 - [ ]     1	Taras Shpot <taras.shpot@eleks.com>
 - [ ]     1	Tim Ebringer <tde@slowdogs.com.au>
 - [ ]     1	Toralf Wittner <toralf.wittner@gmail.com>
