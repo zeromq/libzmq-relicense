@@ -87,6 +87,7 @@
 - [x]    19	Jim Klimov <jim@jimklimov.com>
 - [x]    12	Jim Klimov <jimklimov@gmail.com>
 - [x]     3	Tom Whittock <tom.whittock@gmail.com>
+- [x]     1	twhittock <tom.whittock@gmail.com>
 - [x]     3	Michal Vyskocil <michal.vyskocil@gmail.com>
 - [x]     2	Paul Colomiets <paul@colomiets.name>
 - [x]     2	Paul Colomiets <pc@gafol.net>
@@ -526,6 +527,5 @@
 - [ ]     1	o172(xenovo) <git@o172.net>
 - [ ]     1	rkfg <rkfg@rkfg.me>
 - [ ]     1	sunddy <sunddy.duan@gmail.com>
-- [ ]     1	twhittock <tom.whittock@gmail.com>
 - [ ]     1	yasirs <yasir.suhail@gmail.com>
 - [ ]     1	zstang <zshtangbuaa@gmail.com>
