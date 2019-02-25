@@ -182,6 +182,7 @@
 - [x]     2	Fabrice Fontaine <fontaine.fabrice@gmail.com>
 - [x]     2	Floris Bruynooghe <flub@devork.be>
 - [x]     1	Matthias Gabriel <matthias.gabriel@etit.tu-chemnitz.de>
+- [x]     2	Gregory Lemercier <greglemercier@free.fr>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -286,7 +287,6 @@
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	Eric Cornelius <EricMCornelius@gmail.com>
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
-- [ ]     2	Gregory Lemercier <greglemercier@free.fr>
 - [ ]     2	Hugh Powell <hugh@hughpowell.co.uk>
 - [ ]     2	Hunter Laux <hunterlaux@gmail.com>
 - [ ]     2	Iban Cereijo <ibancg@users.noreply.github.com>
