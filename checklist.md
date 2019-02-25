@@ -51,6 +51,7 @@
 - [x]     1	Anonymous Maarten <maarten@localhost.localdomain>
 - [x]    10	Uli Köhler <ulikoehler@online.de>
 - [x]     9	Sébastien Rombauts <sebastien.rombauts@gmail.com>
+- [x]     2	Sebastien Rombauts <sebastien.rombauts@gmail.com>
 - [x]     9	Kevin Sapper <mail@kevinsapper.de>
 - [x]     1	Kevin Sapper <kevin.b.sapper@student.hs-rm.de>
 - [x]     8	Stoian Ivanov <sdr@tera-com.com>
@@ -329,7 +330,6 @@
 - [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
 - [ ]     2	Sebastian Otaegui <feniix@gmail.com>
 - [ ]     2	Sebastien Pierre <sebastien.pierre@gmail.com>
-- [ ]     2	Sebastien Rombauts <sebastien.rombauts@gmail.com>
 - [ ]     2	Steffen Wittmeier <steffen.wittmeier@rohde-schwarz.com>
 - [ ]     2	Stuart Webster <sw_webster@hotmail.com>
 - [ ]     2	Tetsuya Hayashi <tetet@scalar.aiin.jp>
