@@ -185,6 +185,7 @@
 - [x]     1	Matthias Gabriel <matthias.gabriel@etit.tu-chemnitz.de>
 - [x]     2	Gregory Lemercier <greglemercier@free.fr>
 - [x]     3	Guido Vranken <guidovranken@gmail.com>
+- [x]     1	Henri Gourvest <hgourvest@pogdigy.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
@@ -398,7 +399,6 @@
 - [ ]     1	Gyorgy Szekely <gyorgy.szekely@ge.com>
 - [ ]     1	Gyula Laszlo <gyula.laszlo.gm@gmail.com>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
-- [ ]     1	Henri Gourvest <hgourvest@pogdigy.com>
 - [ ]     1	Henrik Feldt <henrik@haf.se>
 - [ ]     1	Henrik S. Gaßmann <h.gassmann@online.de>
 - [ ]     1	Huang Xin <chrox.huang@gmail.com>
