@@ -4,6 +4,7 @@
 - [x]  1139	Pieter Hintjens <ph@imatix.com> **(MPLv2)**
 - [x]   968	Luca Boccassi <luca.boccassi@gmail.com>
 - [x]   891	Martin Sustrik <sustrik@250bpm.com> (grant by iMatix)
+- [x]    27	unknown <bundra@.(none)> (commits by Martin Sustrik)
 - [x]   418	Simon Giesecke <simon.giesecke@btc-ag.com>
 - [x]   379	Constantin Rack <constantin.rack@gmail.com>
 - [x]   274	Ian Barber <ian.barber@gmail.com>
@@ -251,7 +252,6 @@
 _None for now_
 
 ### Other
-- [ ]    27	unknown <bundra@.(none)>
 - [ ]    17	Jim Garlick <garlick.jim@gmail.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
