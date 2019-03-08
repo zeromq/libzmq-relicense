@@ -223,6 +223,7 @@
 - [x]     2	Wenbin Hou <catchyrime@fastmail.com>
 - [x]     1	Wenbin Hou <houwenbin@pku.edu.cn>
 - [x]     6	Trevor Bernard <trevor.bernard@gmail.com>
+- [x]     1	Claudio Biagi <retmt@gmx.com>
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
