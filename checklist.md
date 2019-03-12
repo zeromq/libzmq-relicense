@@ -224,10 +224,10 @@
 - [x]     1	Wenbin Hou <houwenbin@pku.edu.cn>
 - [x]     6	Trevor Bernard <trevor.bernard@gmail.com>
 - [x]     1	Claudio Biagi <retmt@gmx.com>
+- [x]     3	Brett Cameron <Brett.Cameron@hp.com> (grant by Hewlett Packard Enterprise)
 
 ## In progress
 - [ ]     6	Erik Hugne <erik.hugne@ericsson.com>
-- [ ]     3	Brett Cameron <Brett.Cameron@hp.com>
 - [ ]     2	Daniel Norberg <dano@spotify.com>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
