@@ -104,6 +104,7 @@
 - [x]     3	Gonzalo Diethelm <gonzalo.diethelm@diethelm.org>
 - [x]     1	Gonzalo Diethelm <gdiethelm@dcv.cl>
 - [x]     2	Justin.Hung <justin.hung@foxmail.com>
+- [x]     1	huanglin <huanglin@pset.suntec.net> (used for submitting grant for Justing Hung)
 - [x]     3	Jim Hague <jim.hague@acm.org>
 - [x]     3	Florian Ebeling <florian.ebeling@gmail.com>
 - [x]     3	Volodymyr Korniichuk <VolodymyrKorn@gmail.com>
@@ -159,6 +160,7 @@
 - [x]     2	Martin Natano <natano@natano.net>
 - [x]     2	Takeshi Abe <tabe@fixedpoint.jp>
 - [x]     1	Bernd Prager <bernd@prager.ws>
+- [x]     1	bprager <bernd@prager.ws>
 - [x]     2	Erik Hugne <erik.hugne@gmail.com>
 - [x]     2	Lionel Orry <lionel.orry@gmail.com>
 - [x]     2	Will Strang <william.p.strang@gmail.com>
@@ -246,6 +248,33 @@
 - [ ]     0	Jens Auer <jens.auer@betaversion.net>
 - [ ]    12	Michel Zou <xantares10@hotmail.com>
 - [ ]     1	Michel Zou <xantares09@hotmail.com>
+
+### No grant submitted (not needed for minor contribution)
+
+- [ ]     1	WGH <wgh@torlan.ru>
+- [ ]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
+- [ ]     1	Zhilong.JI <zlji@Ctrip.com>
+- [ ]     1	asafkahlon <35964924+asafkahlon@users.noreply.github.com>
+- [ ]     1	boringuy <boringuy@gmail.com>
+- [ ]     1	ccpaging <ccpaging@gmail.com>
+- [ ]     1	ebyrob <ebyrob@gmail.com>
+- [ ]     1	ehilscher <40001020+ehilscher@users.noreply.github.com>
+- [ ]     1	fnaime <33913787+fnaime@users.noreply.github.com>
+- [ ]     1	gabm <gabm@hrz.tu-chemnitz.de>
+- [ ]     1	ganesh.vr <ganesh.vr@samsung.com>
+- [ ]     1	gouarin <loic.gouarin@gmail.com>
+- [ ]     1	hjp <hjp-github@hjp.at>
+- [ ]     1	ilue <ilue26@gmail.com>
+- [ ]     1	jdavidberger <j.david.berger@gmail.com>
+- [ ]     1	kermit <kermit.bu@qq.com>
+- [ ]     1	korbes <andre.korbes@gmail.com>
+- [ ]     1	mlodew <markus.schori@outlook.com>
+- [ ]     1	o172(xenovo) <git@o172.net>
+- [ ]     1	rkfg <rkfg@rkfg.me>
+- [ ]     1	sunddy <sunddy.duan@gmail.com>
+- [ ]     1	yasirs <yasir.suhail@gmail.com>
+- [ ]     1	zstang <zshtangbuaa@gmail.com>
+
 
 ## Grants to be submitted
 
@@ -357,6 +386,8 @@ _None for now_
 - [ ]     2	sunkin351 <17joshuanewcomb@gmail.com>
 - [ ]     2	twwlogin <github@vendor.thewrittenword.com>
 - [ ]     2	youRFate <paa.christoph@googlemail.com>
+- [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
+- [ ]     1	bbdb68 <bbdb68@users.noreply.github.com>
 - [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
 - [ ]     1	Aalhad Saraf <aalhad@gmail.com>
 - [ ]     1	Adrian von Bidder <avbidder@fortytwo.ch>
@@ -504,30 +535,3 @@ _None for now_
 - [ ]     1	Usama Mehboob <10beeumehboob@seecs.edu.pk>
 - [ ]     1	V G <veegee@veegee.org>
 - [ ]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
-- [ ]     1	WGH <wgh@torlan.ru>
-- [ ]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
-- [ ]     1	Zhilong.JI <zlji@Ctrip.com>
-- [ ]     1	asafkahlon <35964924+asafkahlon@users.noreply.github.com>
-- [ ]     1	bbdb68 <bbdb68@users.noreply.github.com>
-- [ ]     1	boringuy <boringuy@gmail.com>
-- [ ]     1	bprager <bernd@prager.ws>
-- [ ]     1	ccpaging <ccpaging@gmail.com>
-- [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
-- [ ]     1	ebyrob <ebyrob@gmail.com>
-- [ ]     1	ehilscher <40001020+ehilscher@users.noreply.github.com>
-- [ ]     1	fnaime <33913787+fnaime@users.noreply.github.com>
-- [ ]     1	gabm <gabm@hrz.tu-chemnitz.de>
-- [ ]     1	ganesh.vr <ganesh.vr@samsung.com>
-- [ ]     1	gouarin <loic.gouarin@gmail.com>
-- [ ]     1	hjp <hjp-github@hjp.at>
-- [ ]     1	huanglin <huanglin@pset.suntec.net>
-- [ ]     1	ilue <ilue26@gmail.com>
-- [ ]     1	jdavidberger <j.david.berger@gmail.com>
-- [ ]     1	kermit <kermit.bu@qq.com>
-- [ ]     1	korbes <andre.korbes@gmail.com>
-- [ ]     1	mlodew <markus.schori@outlook.com>
-- [ ]     1	o172(xenovo) <git@o172.net>
-- [ ]     1	rkfg <rkfg@rkfg.me>
-- [ ]     1	sunddy <sunddy.duan@gmail.com>
-- [ ]     1	yasirs <yasir.suhail@gmail.com>
-- [ ]     1	zstang <zshtangbuaa@gmail.com>
