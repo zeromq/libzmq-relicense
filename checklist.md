@@ -228,6 +228,23 @@
 - [x]     1	Claudio Biagi <retmt@gmx.com>
 - [x]     3	Brett Cameron <Brett.Cameron@hp.com> (grant by Hewlett Packard Enterprise)
 - [x]     6	Erik Hugne <erik.hugne@ericsson.com> (grant by Ericsson)
+- [x]     ?	Thomas M. DuBuisson <tommd@musedev.io>
+- [x]    25	Lourens Naudé <lourens@methodmissing.com>
+- [x]     ?	Lourens Naudé <lourens@bearmetal.eu>
+- [x]     ?	skicc <skicc@fastmail.com>
+- [x]     ?	Philippe Bernardino Leite <philippe.leite@gmail.com>
+- [x]     ?	Christophe Guillon <christophe.guillon.perso@gmail.com>
+- [x]     ?	jackpimbert <jack.pimbert@gmail.com>
+- [x]     ?	Alain Kalker <a.c.kalker@gmail.com>
+- [x]     ?	imkcy9 <imkcy9@icloud.com>
+- [x]     ?	Romain Moret <moretromain@gmail.com>
+- [x]     ?	normano <novenseri@gmail.com>
+- [x]     ?	jean-airoldie <25088801+jean-airoldie@users.noreply.github.com>
+- [x]     ?	Rosen Penev <rosenp@gmail.com>
+- [x]     ?	Iwan Paolucci <iwan.paolucci@artorg.unibe.ch>
+- [x]     ?	Omegastick <omegastick@hotmail.co.uk>
+- [x]     ?	Serhio <g@kitaika.com>
+- [x]     ?	Andreas Hasenack <andreas@canonical.com>
 
 ## In progress
 - [ ]     2	Daniel Norberg <dano@spotify.com>
@@ -235,7 +252,6 @@
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
 - [ ]    13	Frank Hartmann <soundart@gmx.net>
-- [ ]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]    12	Brian Silverman <brian@peloton-tech.com>
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
@@ -249,7 +265,7 @@
 - [ ]    12	Michel Zou <xantares10@hotmail.com>
 - [ ]     1	Michel Zou <xantares09@hotmail.com>
 
-### No grant submitted (not needed for minor contribution)
+### No grant needed for minor contribution
 
 - [x]     1	WGH <wgh@torlan.ru>
 - [x]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
@@ -292,6 +308,7 @@
 - [x]     1	Usama Mehboob <10beeumehboob@seecs.edu.pk>
 - [x]     1	V G <veegee@veegee.org>
 - [x]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
+- [x]     ?	myd7349 <myd7349@gmail.com>
 
 ## Grants to be submitted
 
