@@ -251,30 +251,47 @@
 
 ### No grant submitted (not needed for minor contribution)
 
-- [ ]     1	WGH <wgh@torlan.ru>
-- [ ]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
-- [ ]     1	Zhilong.JI <zlji@Ctrip.com>
-- [ ]     1	asafkahlon <35964924+asafkahlon@users.noreply.github.com>
-- [ ]     1	boringuy <boringuy@gmail.com>
-- [ ]     1	ccpaging <ccpaging@gmail.com>
-- [ ]     1	ebyrob <ebyrob@gmail.com>
-- [ ]     1	ehilscher <40001020+ehilscher@users.noreply.github.com>
-- [ ]     1	fnaime <33913787+fnaime@users.noreply.github.com>
-- [ ]     1	gabm <gabm@hrz.tu-chemnitz.de>
-- [ ]     1	ganesh.vr <ganesh.vr@samsung.com>
-- [ ]     1	gouarin <loic.gouarin@gmail.com>
-- [ ]     1	hjp <hjp-github@hjp.at>
-- [ ]     1	ilue <ilue26@gmail.com>
-- [ ]     1	jdavidberger <j.david.berger@gmail.com>
-- [ ]     1	kermit <kermit.bu@qq.com>
-- [ ]     1	korbes <andre.korbes@gmail.com>
-- [ ]     1	mlodew <markus.schori@outlook.com>
-- [ ]     1	o172(xenovo) <git@o172.net>
-- [ ]     1	rkfg <rkfg@rkfg.me>
-- [ ]     1	sunddy <sunddy.duan@gmail.com>
-- [ ]     1	yasirs <yasir.suhail@gmail.com>
-- [ ]     1	zstang <zshtangbuaa@gmail.com>
-
+- [x]     1	WGH <wgh@torlan.ru>
+- [x]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
+- [x]     1	Zhilong.JI <zlji@Ctrip.com>
+- [x]     1	asafkahlon <35964924+asafkahlon@users.noreply.github.com>
+- [x]     1	boringuy <boringuy@gmail.com>
+- [x]     1	ccpaging <ccpaging@gmail.com>
+- [x]     1	ebyrob <ebyrob@gmail.com>
+- [x]     1	ehilscher <40001020+ehilscher@users.noreply.github.com>
+- [x]     1	fnaime <33913787+fnaime@users.noreply.github.com>
+- [x]     1	gabm <gabm@hrz.tu-chemnitz.de>
+- [x]     1	ganesh.vr <ganesh.vr@samsung.com>
+- [x]     1	gouarin <loic.gouarin@gmail.com>
+- [x]     1	hjp <hjp-github@hjp.at>
+- [x]     1	ilue <ilue26@gmail.com>
+- [x]     1	jdavidberger <j.david.berger@gmail.com>
+- [x]     1	kermit <kermit.bu@qq.com>
+- [x]     1	korbes <andre.korbes@gmail.com>
+- [x]     1	mlodew <markus.schori@outlook.com>
+- [x]     1	o172(xenovo) <git@o172.net>
+- [x]     1	rkfg <rkfg@rkfg.me>
+- [x]     1	sunddy <sunddy.duan@gmail.com>
+- [x]     1	yasirs <yasir.suhail@gmail.com>
+- [x]     1	zstang <zshtangbuaa@gmail.com>
+- [x]     1	Sathish Yenna <Sathish_Yenna@dell.com>
+- [x]     1	Satyajit Padalkar <simplecode.snippet@gmail.com>
+- [x]     1	Sebastian Lauwers <sebastian.lauwers@gmail.com>
+- [x]     1	Sergei Trofimovich <slyfox@gentoo.org>
+- [x]     3	Kachanovskiy <sergey.kachanovskiy@gmx.de>
+- [x]     1	Sergey Kachanovskiy <sergey.kachanovskiy@gmx.de>
+- [x]     1	Sergey M. <dstftw@gmail.com>
+- [x]     1	Shane Hubred <shane@hubred.us>
+- [x]     1	Shawn J. Goff <shawn.goff@accelecon.com>
+- [x]     1	Soren Hansen <Soren.Hansen@ril.com>
+- [x]     1	Steven Chamberlain <steven@pyro.eu.org>
+- [x]     1	Steven Peters <scpeters@openrobotics.org>
+- [x]     1	Taras Shpot <taras.shpot@eleks.com>
+- [x]     1	Tim Ebringer <tde@slowdogs.com.au>
+- [x]     1	Toralf Wittner <toralf.wittner@gmail.com>
+- [x]     1	Usama Mehboob <10beeumehboob@seecs.edu.pk>
+- [x]     1	V G <veegee@veegee.org>
+- [x]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
 
 ## Grants to be submitted
 
@@ -326,7 +343,6 @@ _None for now_
 - [ ]     3	John Muehlhausen <jgm@jgm.org>
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
 - [ ]     3	Josh Blum <josh@joshknows.com>
-- [ ]     3	Kachanovskiy <sergey.kachanovskiy@gmx.de>
 - [ ]     3	Martin Pales <m.pales@gmail.com>
 - [ ]     3	Matt Powley <matt.powley@renishaw.com>
 - [ ]     3	Rodrigo Mosconi <mosconi.rmg@gmail.com>
@@ -516,22 +532,5 @@ _None for now_
 - [ ]     1	Saif Hasan <has@fb.com>
 - [ ]     1	Salvo Virga <salvo.virga@tum.de>
 - [ ]     1	Sam Lishak <sam@lishak.com>
-- [ ]     1	Sathish Yenna <Sathish_Yenna@dell.com>
-- [ ]     1	Satyajit Padalkar <simplecode.snippet@gmail.com>
-- [ ]     1	Sebastian Lauwers <sebastian.lauwers@gmail.com>
-- [ ]     1	Sergei Trofimovich <slyfox@gentoo.org>
-- [ ]     1	Sergey Kachanovskiy <sergey.kachanovskiy@gmx.de>
-- [ ]     1	Sergey M. <dstftw@gmail.com>
-- [ ]     1	Shane Hubred <shane@hubred.us>
-- [ ]     1	Shawn J. Goff <shawn.goff@accelecon.com>
-- [ ]     1	Soren Hansen <Soren.Hansen@ril.com>
-- [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
-- [ ]     1	Steven Chamberlain <steven@pyro.eu.org>
-- [ ]     1	Steven Peters <scpeters@openrobotics.org>
 - [ ]     1	Suudy <pladow@gmail.com>
-- [ ]     1	Taras Shpot <taras.shpot@eleks.com>
-- [ ]     1	Tim Ebringer <tde@slowdogs.com.au>
-- [ ]     1	Toralf Wittner <toralf.wittner@gmail.com>
-- [ ]     1	Usama Mehboob <10beeumehboob@seecs.edu.pk>
-- [ ]     1	V G <veegee@veegee.org>
-- [ ]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
+- [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
