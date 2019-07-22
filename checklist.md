@@ -309,11 +309,26 @@
 - [x]     1	V G <veegee@veegee.org>
 - [x]     1	Vitaly Mayatskikh <v.mayatskih@gmail.com>
 - [x]     ?	myd7349 <myd7349@gmail.com>
+- [x]     1	Perry Kundert <perry@kundert.ca>
+- [x]     1	Pete LaDow <pete_ladow@selinc.com>
+- [x]     1	Peter Bourgon <peter.bourgon@gmail.com>
+- [x]     1	Peter J. Holzer <hjp@hjp.at>
+- [x]     1	Peter Korsgaard <peter@korsgaard.com>
+- [x]     1	Philip Kovacs <phil@philkovacs.com>
+- [x]     1	Richard Janis Goldschmidt <janis.beckert@gmail.com>
+- [x]     1	Robin Stacey <robin.stacey@fove-inc.com>
+- [x]     1	Rolf Timmermans <rolftimmermans@voormedia.com>
+- [x]     1	Romain Geissler <romain.geissler@amadeus.com>
+- [x]     1	Ryan Hileman <lunixbochs@gmail.com>
+- [x]     1	Saif Hasan <has@fb.com>
+- [x]     1	Salvo Virga <salvo.virga@tum.de>
+- [x]     1	Sam Lishak <sam@lishak.com>
 
 ## Grants to be submitted
 
 ### Same users
-_None for now_
+- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
+- [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se>
 
 ### Other
 - [ ]    17	Jim Garlick <garlick.jim@gmail.com>
@@ -324,7 +339,6 @@ _None for now_
 - [ ]     7	Chris Busbey <chris.busbey@gmail.com>
 - [ ]     7	Dan Mick <dmick@redhat.com>
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
-- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
 - [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     6	Guido Goldstein <github@a-nugget.de>
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
@@ -533,21 +547,6 @@ _None for now_
 - [ ]     1	Patrick McLean <chutzpah@gentoo.org>
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
 - [ ]     1	Paul Betts <paul@paulbetts.org>
-- [ ]     1	Perry Kundert <perry@kundert.ca>
-- [ ]     1	Pete LaDow <pete_ladow@selinc.com>
-- [ ]     1	Peter Bourgon <peter.bourgon@gmail.com>
-- [ ]     1	Peter J. Holzer <hjp@hjp.at>
-- [ ]     1	Peter Korsgaard <peter@korsgaard.com>
-- [ ]     1	Philip Kovacs <phil@philkovacs.com>
-- [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se>
 - [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
-- [ ]     1	Richard Janis Goldschmidt <janis.beckert@gmail.com>
-- [ ]     1	Robin Stacey <robin.stacey@fove-inc.com>
-- [ ]     1	Rolf Timmermans <rolftimmermans@voormedia.com>
-- [ ]     1	Romain Geissler <romain.geissler@amadeus.com>
-- [ ]     1	Ryan Hileman <lunixbochs@gmail.com>
-- [ ]     1	Saif Hasan <has@fb.com>
-- [ ]     1	Salvo Virga <salvo.virga@tum.de>
-- [ ]     1	Sam Lishak <sam@lishak.com>
 - [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
