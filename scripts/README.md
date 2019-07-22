@@ -8,6 +8,12 @@ cd <path to git project>
 git shortlog -sne
 ```
 
+### Diff between commits
+
+```bash
+git log <commit ID>.. --format="%aN <%aE>"  --reverse | sort | uniq
+```
+
 ### Create a file with contributors
 Create a file with all contributors for the zeromq/libzmq project.
 The file will be prefixed with markdown checkboxes.
