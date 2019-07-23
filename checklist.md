@@ -422,10 +422,15 @@
 - [x]     1	Arda Aytekin <aytekin@protonmail.com>
 - [x]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
 - [x]     1	Bjorn Reese <breese@sourceforge.net>
+- [x]     2	nexcvon <nexcvon@users.noreply.github.com>
+- [x]     2	sunkin351 <17joshuanewcomb@gmail.com>
+- [x]     2	twwlogin <github@vendor.thewrittenword.com>
+- [x]     2	youRFate <paa.christoph@googlemail.com>
 
 ## Grants to be submitted
 
 ### Grant necessary
+- [ ]     2	niXman <i.nixman@gmail.com>
 - [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
 - [ ]     1	Dennis Klein <d.klein@gsi.de>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
@@ -547,8 +552,3 @@
 - [ ]     2	dave b <david.brown@datasift.com>
 - [ ]     2	jamesdillonharvey <jamesdillonharvey@users.noreply.github.com>
 - [ ]     2	mauri-melato <maurizio.melato@nice-software.com>
-- [ ]     2	nexcvon <nexcvon@users.noreply.github.com>
-- [ ]     2	niXman <i.nixman@gmail.com>
-- [ ]     2	sunkin351 <17joshuanewcomb@gmail.com>
-- [ ]     2	twwlogin <github@vendor.thewrittenword.com>
-- [ ]     2	youRFate <paa.christoph@googlemail.com>
