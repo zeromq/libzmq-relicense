@@ -390,14 +390,36 @@
 - [x]     1	Jeremy Tan <jeremy@jx.tan.fake>
 - [x]     1	Jeroen Ooms <jeroenooms@gmail.com>
 - [x]     1	Jerome Duval <jerome.duval@gmail.com>
+- [x]     1	Dahko <steed2005@gmail.com>
+- [x]     1	Dale Wijnand <344610+dwijnand@users.noreply.github.com>
+- [x]     1	Dan Mick <dan.mick@inktank.com>
+- [x]     1	Daniel Lupu <dflupu@bitbucket.org>
+- [x]     1	Dave Olszewski <daveo@nodesource.com>
+- [x]     1	David Millard <dmillard10@gmail.com>
+- [x]     1	Davor Lozic <warriorkitty@warriorkitty.com>
+- [x]     1	Denis Mingulov <denis@mingulov.com>
 
 ## Grants to be submitted
 
-### Same users
+### Grant necessary
+- [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
+- [ ]     1	Dennis Klein <d.klein@gsi.de>
+- [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
+- [ ]     1	Manuel Segura <manuel.segura4@gmail.com>
+- [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
+- [ ]     1	Nikita Kozlov <nikita@elyzion.net>
+- [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
+- [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
+- [ ]     1	Suudy <pladow@gmail.com>
+- [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
+
+#### Same users
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se>
 - [ ]     2	John Murphy <murphybytes@gmail.com>
 - [ ]     1	John Murphy <muprhybytes@gmail.com>
+- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
+- [ ]     1	Cziken <wojciech_kula@o2.pl>
 
 ### Other
 - [ ]    17	Jim Garlick <garlick.jim@gmail.com>
@@ -490,7 +512,6 @@
 - [ ]     2	Tristian Celestin <tristian.celestin@outlook.com>
 - [ ]     2	Vaughan Newton <newton.vaughan0@gmail.com>
 - [ ]     2	Victor Perron <victor@iso3103.net>
-- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
 - [ ]     2	boris@boressoft.ru <������� ��������@DANCE-SERVER-2.(none)>
 - [ ]     2	dave b <david.brown@datasift.com>
 - [ ]     2	jamesdillonharvey <jamesdillonharvey@users.noreply.github.com>
@@ -531,24 +552,3 @@
 - [ ]     1	Christian Gudrian <christian.gudrian@fluidon.com>
 - [ ]     1	Christopher Hall <hsw@ms2.hinet.net>
 - [ ]     1	Claudio Scordino <c.scordino@list-group.com>
-- [ ]     1	Cziken <wojciech_kula@o2.pl>
-- [ ]     1	Dahko <steed2005@gmail.com>
-- [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
-- [ ]     1	Dale Wijnand <344610+dwijnand@users.noreply.github.com>
-- [ ]     1	Dan Mick <dan.mick@inktank.com>
-- [ ]     1	Daniel Lupu <dflupu@bitbucket.org>
-- [ ]     1	Dave Olszewski <daveo@nodesource.com>
-- [ ]     1	David Millard <dmillard10@gmail.com>
-- [ ]     1	Davor Lozic <warriorkitty@warriorkitty.com>
-- [ ]     1	Denis Mingulov <denis@mingulov.com>
-
-### Checked
-- [ ]     1	Dennis Klein <d.klein@gsi.de>
-- [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
-- [ ]     1	Manuel Segura <manuel.segura4@gmail.com>
-- [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
-- [ ]     1	Nikita Kozlov <nikita@elyzion.net>
-- [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
-- [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
-- [ ]     1	Suudy <pladow@gmail.com>
-- [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
