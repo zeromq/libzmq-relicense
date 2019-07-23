@@ -200,6 +200,8 @@
 - [x]     3	Eelis van der Weegen <eelis@eelis.net>
 - [x]     4	Francesco Montorsi <francesco.montorsi@gmail.com>
 - [x]     4	f18m <francesco.montorsi@gmail.com>
+- [x]     3	f18m <f18m@users.noreply.github.com>
+- [x]     1	Francesco Montorsi <f18m@users.noreply.github.com>
 - [x]     2	Fabrice Fontaine <fontaine.fabrice@gmail.com>
 - [x]     2	Floris Bruynooghe <flub@devork.be>
 - [x]     1	Matthias Gabriel <matthias.gabriel@etit.tu-chemnitz.de>
@@ -358,6 +360,36 @@
 - [x]     1	PP <pp@pp.com>
 - [x]     1	Patrick McLean <chutzpah@gentoo.org>
 - [x]     1	Paul Betts <paul@paulbetts.org>
+- [x]     1	Diego Duclos <diego.duclos@palmstonegames.com>
+- [x]     1	Douglas Cuthbertson <doug.cuthbertson@gmail.com>
+- [x]     1	Drew Crawford <drew@sealedabstract.com>
+- [x]     1	Duane Littleton <dlittleton@vocollect.com>
+- [x]     1	Eamonn Coughlan <eamonn@coughlan.de>
+- [x]     1	Edward Vielmetti <edward.vielmetti@gmail.com>
+- [x]     1	Elliott Sales de Andrade <quantum.analyst@gmail.com>
+- [x]     1	Emanuel Koczwara <emanuel.koczwara@gmail.com>
+- [x]     1	Emmanuel Taurel <taurel@esrf.fr>
+- [x]     1	Erick Tryzelaar <erick.tryzelaar@gmail.com>
+- [x]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
+- [x]     1	Gergely Nagy <algernon@balabit.hu>
+- [x]     1	Giulio Eulisse <giulio.eulisse@cern.ch>
+- [x]     1	Guilherme Steinmann <guidefloripa@gmail.com>
+- [x]     1	Gunther Laure <glaure@dewetron.com>
+- [x]     1	Gyula Laszlo <gyula.laszlo.gm@gmail.com>
+- [x]     1	Henrik Feldt <henrik@haf.se>
+- [x]     1	Henrik S. Gaßmann <h.gassmann@online.de>
+- [x]     1	Huang Xin <chrox.huang@gmail.com>
+- [x]     1	Huu Nguyen <whoshuu@gmail.com>
+- [x]     1	Ilja Golshtein <ilejncs@narod.ru>
+- [x]     1	Jacob Rideout <jacob.rideout@returnpath.net>
+- [x]     1	Jason Unovitch <jason.unovitch@gmail.com>
+- [x]     1	Jasper Lievisse Adriaanse <jasper@humppa.nl>
+- [x]     1	Javier Lopez <jlopex@cozybit.com>
+- [x]     1	Jens Henrik Hertz <jens@autobutler.dk>
+- [x]     1	Jeremy Rossi <jeremy@jeremyrossi.com>
+- [x]     1	Jeremy Tan <jeremy@jx.tan.fake>
+- [x]     1	Jeroen Ooms <jeroenooms@gmail.com>
+- [x]     1	Jerome Duval <jerome.duval@gmail.com>
 
 ## Grants to be submitted
 
@@ -415,7 +447,6 @@
 - [ ]     3	Matt Powley <matt.powley@renishaw.com>
 - [ ]     3	Rodrigo Mosconi <mosconi.rmg@gmail.com>
 - [ ]     3	Rohan Bedarkar <rohanb@cs.uchicago.edu>
-- [ ]     3	f18m <f18m@users.noreply.github.com>
 - [ ]     3	lysyloren <lysy_loren@gmail.com>
 - [ ]     2	Alex Pyrgiotis <apyrgio@grnet.gr>
 - [ ]     2	Alexey Melnichuk <mimir@newmail.ru>
@@ -510,41 +541,10 @@
 - [ ]     1	David Millard <dmillard10@gmail.com>
 - [ ]     1	Davor Lozic <warriorkitty@warriorkitty.com>
 - [ ]     1	Denis Mingulov <denis@mingulov.com>
-- [ ]     1	Dennis Klein <d.klein@gsi.de>
-- [ ]     1	Diego Duclos <diego.duclos@palmstonegames.com>
-- [ ]     1	Douglas Cuthbertson <doug.cuthbertson@gmail.com>
-- [ ]     1	Drew Crawford <drew@sealedabstract.com>
-- [ ]     1	Duane Littleton <dlittleton@vocollect.com>
-- [ ]     1	Eamonn Coughlan <eamonn@coughlan.de>
-- [ ]     1	Edward Vielmetti <edward.vielmetti@gmail.com>
-- [ ]     1	Elliott Sales de Andrade <quantum.analyst@gmail.com>
-- [ ]     1	Emanuel Koczwara <emanuel.koczwara@gmail.com>
-- [ ]     1	Emmanuel Taurel <taurel@esrf.fr>
-- [ ]     1	Erick Tryzelaar <erick.tryzelaar@gmail.com>
-- [ ]     1	Francesco Montorsi <f18m@users.noreply.github.com>
-- [ ]     1	Geof Nieboer <gnieboer@gcndevelopment.com>
-- [ ]     1	Gergely Nagy <algernon@balabit.hu>
-- [ ]     1	Giulio Eulisse <giulio.eulisse@cern.ch>
-- [ ]     1	Guilherme Steinmann <guidefloripa@gmail.com>
-- [ ]     1	Gunther Laure <glaure@dewetron.com>
-- [ ]     1	Gyula Laszlo <gyula.laszlo.gm@gmail.com>
-- [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
-- [ ]     1	Henrik Feldt <henrik@haf.se>
-- [ ]     1	Henrik S. Gaßmann <h.gassmann@online.de>
-- [ ]     1	Huang Xin <chrox.huang@gmail.com>
-- [ ]     1	Huu Nguyen <whoshuu@gmail.com>
-- [ ]     1	Ilja Golshtein <ilejncs@narod.ru>
-- [ ]     1	Jacob Rideout <jacob.rideout@returnpath.net>
-- [ ]     1	Jason Unovitch <jason.unovitch@gmail.com>
-- [ ]     1	Jasper Lievisse Adriaanse <jasper@humppa.nl>
-- [ ]     1	Javier Lopez <jlopex@cozybit.com>
-- [ ]     1	Jens Henrik Hertz <jens@autobutler.dk>
-- [ ]     1	Jeremy Rossi <jeremy@jeremyrossi.com>
-- [ ]     1	Jeremy Tan <jeremy@jx.tan.fake>
-- [ ]     1	Jeroen Ooms <jeroenooms@gmail.com>
-- [ ]     1	Jerome Duval <jerome.duval@gmail.com>
 
 ### Checked
+- [ ]     1	Dennis Klein <d.klein@gsi.de>
+- [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
 - [ ]     1	Manuel Segura <manuel.segura4@gmail.com>
 - [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
