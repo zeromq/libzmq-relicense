@@ -323,12 +323,49 @@
 - [x]     1	Saif Hasan <has@fb.com>
 - [x]     1	Salvo Virga <salvo.virga@tum.de>
 - [x]     1	Sam Lishak <sam@lishak.com>
+- [x]     1	Jorik Caljouw <jorik@caljouw.com>
+- [x]     1	Jose Luis Blanco-Claraco <joseluisblancoc@gmail.com>
+- [x]     1	Jose Pedro Oliveira <jpo@di.uminho.pt>
+- [x]     1	Juan A. Garcia Pardo <juan.garcia-pardo@filewave.com>
+- [x]     1	Justus Ranvier <justus@stashcrypto.com>
+- [x]     1	Ken Steele <ken@tilera.com>
+- [x]     1	Kenneth Wilke <kenneth.wilke@rackspace.com>
+- [x]     1	KennyTM~ <kennytm@gmail.com>
+- [x]     1	Kouhei Sutou <kou@clear-code.com>
+- [x]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
+- [x]     1	Maks Naumov <maksqwe1@ukr.net>
+- [x]     1	Marc Rossi <mrossi19@gmail.com>
+- [x]     1	Marin Atanasov Nikolov <dnaeon@gmail.com>
+- [x]     1	Markus Pfeiffer <markus.pfeiffer@morphism.de>
+- [x]     1	Markus Rothe <markus@unixforces.net>
+- [x]     1	Mathias Hablützel <habl@zhaw.ch>
+- [x]     1	Matthew Hawn <steamraven@yahoo.com>
+- [x]     1	Maurice Barnum <msb@yahoo-inc.com>
+- [x]     1	Max Kozlovsky <max@portworx.com>
+- [x]     1	Max Wolf <YIDIEPXGXGPN@spammotel.com>
+- [x]     1	Maxim Yakhontov <ymaax@mail.ru>
+- [x]     1	Maximilian Schneider <mail@maximilianschneider.net>
+- [x]     1	Michael Compton <michael.compton@littleedge.co.uk>
+- [x]     1	Michaël Paul <michael.paul@fivesgroup.com>
+- [x]     1	Michel Pelletier <pelletier.michel@gmail.com>
+- [x]     1	Mika Fischer <fischer@videmo.de>
+- [x]     1	Mika Fischer <mika.fischer@zoopnet.de>
+- [x]     1	Neale Ferguson <neale@sinenomine.net>
+- [x]     1	NetImperia <com@netimperia.com>
+- [x]     1	Nikhil Mishra <nikhil@cinarra.com>
+- [x]     1	Nir Soffer <nirsof@gmail.com>
+- [x]     1	Omer Katz <omer.drow@gmail.com>
+- [x]     1	PP <pp@pp.com>
+- [x]     1	Patrick McLean <chutzpah@gentoo.org>
+- [x]     1	Paul Betts <paul@paulbetts.org>
 
 ## Grants to be submitted
 
 ### Same users
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se>
+- [ ]     2	John Murphy <murphybytes@gmail.com>
+- [ ]     1	John Murphy <muprhybytes@gmail.com>
 
 ### Other
 - [ ]    17	Jim Garlick <garlick.jim@gmail.com>
@@ -398,7 +435,6 @@
 - [ ]     2	Hunter Laux <hunterlaux@gmail.com>
 - [ ]     2	Iban Cereijo <ibancg@users.noreply.github.com>
 - [ ]     2	Joel Lauener <Joel.Lauener@cern.ch>
-- [ ]     2	John Murphy <murphybytes@gmail.com>
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Joshua Gao <jmg116@gmail.com>
 - [ ]     2	Kos <vbz276@gmail.com>
@@ -507,46 +543,12 @@
 - [ ]     1	Jeremy Tan <jeremy@jx.tan.fake>
 - [ ]     1	Jeroen Ooms <jeroenooms@gmail.com>
 - [ ]     1	Jerome Duval <jerome.duval@gmail.com>
-- [ ]     1	John Murphy <muprhybytes@gmail.com>
-- [ ]     1	Jorik Caljouw <jorik@caljouw.com>
-- [ ]     1	Jose Luis Blanco-Claraco <joseluisblancoc@gmail.com>
-- [ ]     1	Jose Pedro Oliveira <jpo@di.uminho.pt>
-- [ ]     1	Juan A. Garcia Pardo <juan.garcia-pardo@filewave.com>
-- [ ]     1	Justus Ranvier <justus@stashcrypto.com>
-- [ ]     1	Ken Steele <ken@tilera.com>
-- [ ]     1	Kenneth Wilke <kenneth.wilke@rackspace.com>
-- [ ]     1	KennyTM~ <kennytm@gmail.com>
-- [ ]     1	Kouhei Sutou <kou@clear-code.com>
-- [ ]     1	Lukas Geiger <lgeiger@users.noreply.github.com>
-- [ ]     1	Maks Naumov <maksqwe1@ukr.net>
+
+### Checked
 - [ ]     1	Manuel Segura <manuel.segura4@gmail.com>
-- [ ]     1	Marc Rossi <mrossi19@gmail.com>
-- [ ]     1	Marin Atanasov Nikolov <dnaeon@gmail.com>
-- [ ]     1	Markus Pfeiffer <markus.pfeiffer@morphism.de>
-- [ ]     1	Markus Rothe <markus@unixforces.net>
-- [ ]     1	Mathias Hablützel <habl@zhaw.ch>
-- [ ]     1	Matthew Hawn <steamraven@yahoo.com>
-- [ ]     1	Maurice Barnum <msb@yahoo-inc.com>
-- [ ]     1	Max Kozlovsky <max@portworx.com>
-- [ ]     1	Max Wolf <YIDIEPXGXGPN@spammotel.com>
-- [ ]     1	Maxim Yakhontov <ymaax@mail.ru>
-- [ ]     1	Maximilian Schneider <mail@maximilianschneider.net>
-- [ ]     1	Michael Compton <michael.compton@littleedge.co.uk>
 - [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
-- [ ]     1	Michaël Paul <michael.paul@fivesgroup.com>
-- [ ]     1	Michel Pelletier <pelletier.michel@gmail.com>
-- [ ]     1	Mika Fischer <fischer@videmo.de>
-- [ ]     1	Mika Fischer <mika.fischer@zoopnet.de>
-- [ ]     1	Neale Ferguson <neale@sinenomine.net>
-- [ ]     1	NetImperia <com@netimperia.com>
-- [ ]     1	Nikhil Mishra <nikhil@cinarra.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
-- [ ]     1	Nir Soffer <nirsof@gmail.com>
-- [ ]     1	Omer Katz <omer.drow@gmail.com>
-- [ ]     1	PP <pp@pp.com>
-- [ ]     1	Patrick McLean <chutzpah@gentoo.org>
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
-- [ ]     1	Paul Betts <paul@paulbetts.org>
 - [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
 - [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
