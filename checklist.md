@@ -407,6 +407,21 @@
 - [x]     1	Christian Gudrian <christian.gudrian@fluidon.com>
 - [x]     1	Christopher Hall <hsw@ms2.hinet.net>
 - [x]     1	Claudio Scordino <c.scordino@list-group.com>
+- [x]     1	Aalhad Saraf <aalhad@gmail.com>
+- [x]     1	Adrian von Bidder <avbidder@fortytwo.ch>
+- [x]     1	Ahmad M. Zawawi <ahmad.zawawi@gmail.com>
+- [x]     1	Ahmet Kakici <ahmet.kakici@pro-line.com.tr>
+- [x]     1	Akhil Thampy <akhilthampy@yahoo.com>
+- [x]     1	Alain O'Dea <alain.odea@gmail.com>
+- [x]     1	Alessio M <masariello@gmail.com>
+- [x]     1	Alexander Dubovik <dubovik_a_d@mail.ru>
+- [x]     1	Anass Bouassaba <anass.bouassaba@t-online.de> (~2000 lines added to builds/msvc, which is now deprecated)
+- [x]     1	Andras Lasso <lasso@queensu.ca>
+- [x]     1	Anton Bärwald <anton.barwald@hotmail.com>
+- [x]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
+- [x]     1	Arda Aytekin <aytekin@protonmail.com>
+- [x]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
+- [x]     1	Bjorn Reese <breese@sourceforge.net>
 
 ## Grants to be submitted
 
@@ -423,6 +438,11 @@
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
 - [ ]     1	Brian Russell <brussell@brocade.com>
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
+- [ ]     1	Attila Mark <gougolith@gmail.com>
+- [ ]     1	Antony Searle <antony.searle@gmail.com>
+- [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
+- [ ]     1	bbdb68 <bbdb68@users.noreply.github.com>
+- [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
 
 #### Same users
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
@@ -532,23 +552,3 @@
 - [ ]     2	sunkin351 <17joshuanewcomb@gmail.com>
 - [ ]     2	twwlogin <github@vendor.thewrittenword.com>
 - [ ]     2	youRFate <paa.christoph@googlemail.com>
-- [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
-- [ ]     1	bbdb68 <bbdb68@users.noreply.github.com>
-- [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
-- [ ]     1	Aalhad Saraf <aalhad@gmail.com>
-- [ ]     1	Adrian von Bidder <avbidder@fortytwo.ch>
-- [ ]     1	Ahmad M. Zawawi <ahmad.zawawi@gmail.com>
-- [ ]     1	Ahmet Kakici <ahmet.kakici@pro-line.com.tr>
-- [ ]     1	Akhil Thampy <akhilthampy@yahoo.com>
-- [ ]     1	Alain O'Dea <alain.odea@gmail.com>
-- [ ]     1	Alessio M <masariello@gmail.com>
-- [ ]     1	Alexander Dubovik <dubovik_a_d@mail.ru>
-- [ ]     1	Anass Bouassaba <anass.bouassaba@t-online.de>
-- [ ]     1	Andras Lasso <lasso@queensu.ca>
-- [ ]     1	Anton Bärwald <anton.barwald@hotmail.com>
-- [ ]     1	Anton Sergeev <Anton.Sergeev@elecard.ru>
-- [ ]     1	Antony Searle <antony.searle@gmail.com>
-- [ ]     1	Arda Aytekin <aytekin@protonmail.com>
-- [ ]     1	Attila Mark <gougolith@gmail.com>
-- [ ]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
-- [ ]     1	Bjorn Reese <breese@sourceforge.net>
