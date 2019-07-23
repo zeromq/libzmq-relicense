@@ -398,6 +398,15 @@
 - [x]     1	David Millard <dmillard10@gmail.com>
 - [x]     1	Davor Lozic <warriorkitty@warriorkitty.com>
 - [x]     1	Denis Mingulov <denis@mingulov.com>
+- [x]     1	Bruno Bigras <bigras.bruno@gmail.com>
+- [x]     1	Burak Arslan <burak-github@arskom.com.tr>
+- [x]     1	Carl Clemens <carlclemens1@yahoo.com>
+- [x]     1	Chernyshev Vyacheslav <astellar@ro.ru>
+- [x]     1	Chris Rempel <csrl@gmx.com>
+- [x]     1	Chris-P-Bacon <m00d@freenet.de>
+- [x]     1	Christian Gudrian <christian.gudrian@fluidon.com>
+- [x]     1	Christopher Hall <hsw@ms2.hinet.net>
+- [x]     1	Claudio Scordino <c.scordino@list-group.com>
 
 ## Grants to be submitted
 
@@ -412,6 +421,8 @@
 - [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
 - [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
+- [ ]     1	Brian Russell <brussell@brocade.com>
+- [ ]     1	Bob Beaty <rbeaty@peak6.com>
 
 #### Same users
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
@@ -541,14 +552,3 @@
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Bernd Melchers <melchers@ZEDAT.FU-Berlin.DE>
 - [ ]     1	Bjorn Reese <breese@sourceforge.net>
-- [ ]     1	Bob Beaty <rbeaty@peak6.com>
-- [ ]     1	Brian Russell <brussell@brocade.com>
-- [ ]     1	Bruno Bigras <bigras.bruno@gmail.com>
-- [ ]     1	Burak Arslan <burak-github@arskom.com.tr>
-- [ ]     1	Carl Clemens <carlclemens1@yahoo.com>
-- [ ]     1	Chernyshev Vyacheslav <astellar@ro.ru>
-- [ ]     1	Chris Rempel <csrl@gmx.com>
-- [ ]     1	Chris-P-Bacon <m00d@freenet.de>
-- [ ]     1	Christian Gudrian <christian.gudrian@fluidon.com>
-- [ ]     1	Christopher Hall <hsw@ms2.hinet.net>
-- [ ]     1	Claudio Scordino <c.scordino@list-group.com>
