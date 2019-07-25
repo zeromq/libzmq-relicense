@@ -426,6 +426,24 @@
 - [x]     2	sunkin351 <17joshuanewcomb@gmail.com>
 - [x]     2	twwlogin <github@vendor.thewrittenword.com>
 - [x]     2	youRFate <paa.christoph@googlemail.com>
+- [x]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
+- [x]     2	Mikael Helbo Kjaer <mhk@designtech.dk>
+- [x]     2	Nikolay Edigaryev <edigaryev@gmail.com>
+- [x]     2	Sebastian Otaegui <feniix@gmail.com>
+- [x]     2	Sebastien Pierre <sebastien.pierre@gmail.com>
+- [x]     2	Steffen Wittmeier <steffen.wittmeier@rohde-schwarz.com>
+- [x]     2	Stuart Webster <sw_webster@hotmail.com>
+- [x]     2	Tetsuya Hayashi <tetet@scalar.aiin.jp>
+- [x]     2	Tommy Back <tommy.jh.back@gmail.com>
+- [x]     2	Tony Theodore <tonyt@logyst.com>
+- [x]     2	Topher Brown <chris.brown@farsounder.com>
+- [x]     2	Tristian Celestin <tristian.celestin@outlook.com>
+- [x]     2	Vaughan Newton <newton.vaughan0@gmail.com>
+- [x]     2	Victor Perron <victor@iso3103.net>
+- [x]     2	boris@boressoft.ru <������� ��������@DANCE-SERVER-2.(none)>
+- [x]     2	dave b <david.brown@datasift.com>
+- [x]     2	jamesdillonharvey <jamesdillonharvey@users.noreply.github.com>
+- [x]     2	mauri-melato <maurizio.melato@nice-software.com>
 
 ## Grants to be submitted
 
@@ -448,6 +466,8 @@
 - [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
 - [ ]     1	bbdb68 <bbdb68@users.noreply.github.com>
 - [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
+- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
+- [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
 
 #### Same users
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
@@ -532,23 +552,3 @@
 - [ ]     2	Marc Sune <marc@voltanet.io>
 - [ ]     2	Marc Sune <marcdevel@gmail.com>
 - [ ]     2	Martijn Jasperse <m.jasperse@gmail.com>
-- [ ]     2	Matthew Metnetsky <mmetnetsky@kmbs.konicaminolta.us>
-- [ ]     2	Mikael Helbo Kjaer <mhk@designtech.dk>
-- [ ]     2	Nikolay Edigaryev <edigaryev@gmail.com>
-- [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
-- [ ]     2	Sebastian Otaegui <feniix@gmail.com>
-- [ ]     2	Sebastien Pierre <sebastien.pierre@gmail.com>
-- [ ]     2	Steffen Wittmeier <steffen.wittmeier@rohde-schwarz.com>
-- [ ]     2	Stuart Webster <sw_webster@hotmail.com>
-- [ ]     2	Tetsuya Hayashi <tetet@scalar.aiin.jp>
-- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
-- [ ]     2	Tommy Back <tommy.jh.back@gmail.com>
-- [ ]     2	Tony Theodore <tonyt@logyst.com>
-- [ ]     2	Topher Brown <chris.brown@farsounder.com>
-- [ ]     2	Tristian Celestin <tristian.celestin@outlook.com>
-- [ ]     2	Vaughan Newton <newton.vaughan0@gmail.com>
-- [ ]     2	Victor Perron <victor@iso3103.net>
-- [ ]     2	boris@boressoft.ru <������� ��������@DANCE-SERVER-2.(none)>
-- [ ]     2	dave b <david.brown@datasift.com>
-- [ ]     2	jamesdillonharvey <jamesdillonharvey@users.noreply.github.com>
-- [ ]     2	mauri-melato <maurizio.melato@nice-software.com>
