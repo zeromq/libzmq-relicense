@@ -248,6 +248,8 @@
 - [x]     ?	Omegastick <omegastick@hotmail.co.uk>
 - [x]     ?	Serhio <g@kitaika.com>
 - [x]     ?	Andreas Hasenack <andreas@canonical.com>
+- [x]     ?	Mancaș George <mancas.f.george@gmail.com>
+- [x]     ?	Rishi Theivendran <29522253+inuik@users.noreply.github.com>
 
 ## In progress
 - [ ]     2	Daniel Norberg <dano@spotify.com>
