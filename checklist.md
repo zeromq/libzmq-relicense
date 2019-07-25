@@ -251,25 +251,6 @@
 - [x]     ?	Mancaș George <mancas.f.george@gmail.com>
 - [x]     ?	Rishi Theivendran <29522253+inuik@users.noreply.github.com>
 
-## In progress
-- [ ]     2	Daniel Norberg <dano@spotify.com>
-- [ ]     9	Staffan Gimåker <staffan@spotify.com>
-- [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
-- [ ]    15	Max Skaller <Max.Skaller@gmail.com>
-- [ ]    13	Frank Hartmann <soundart@gmx.net>
-- [ ]    12	Brian Silverman <brian@peloton-tech.com>
-- [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
-- [ ]    12	Telford Berkey <tberkey@4qbase.com>
-- [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
-- [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
-- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
-- [ ]     0	Hitster GTD <hitstergtd@gmail.com> 
-- [ ]    16	Jens Auer <jens.auer@cgi.com>
-- [ ]     0	Jens Auer <jens.auer@betaversion.net>
-- [ ]    12	Michel Zou <xantares10@hotmail.com>
-- [ ]     1	Michel Zou <xantares09@hotmail.com>
-
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
 - [x]     1	Waldemar Brodkorb <wbx@uclibc-ng.org>
@@ -484,6 +465,15 @@
 
 ### Grant necessary
 - [ ]    17	Jim Garlick <garlick.jim@gmail.com>
+- [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
+- [ ]    15	Max Skaller <Max.Skaller@gmail.com>
+- [ ]    13	Frank Hartmann <soundart@gmx.net>
+- [ ]    12	Brian Silverman <brian@peloton-tech.com>
+- [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
+- [ ]    12	Telford Berkey <tberkey@4qbase.com>
+- [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
+- [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
+- [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
@@ -506,6 +496,7 @@
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
 - [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu>
+- [ ]     2	Daniel Norberg <dano@spotify.com>
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com>
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
 - [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
@@ -533,6 +524,13 @@
 - [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
 
 #### Same users
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
+- [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
+- [ ]     0	Hitster GTD <hitstergtd@gmail.com>
+- [ ]    16	Jens Auer <jens.auer@cgi.com>
+- [ ]     0	Jens Auer <jens.auer@betaversion.net>
+- [ ]    12	Michel Zou <xantares10@hotmail.com>
+- [ ]     1	Michel Zou <xantares09@hotmail.com>
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se>
 - [ ]     2	John Murphy <murphybytes@gmail.com>
