@@ -250,6 +250,10 @@
 - [x]     ?	Andreas Hasenack <andreas@canonical.com>
 - [x]     ?	Mancaș George <mancas.f.george@gmail.com>
 - [x]     ?	Rishi Theivendran <29522253+inuik@users.noreply.github.com>
+- [x]     ? aixxe <me@aixxe.net>
+- [x]     ? Brian Carcich <drbitboy@gmail.com> (grant by Latchmoor Services, LLC)
+- [x]     ? Bastian Löher <me@l-dot.de>
+- [x]     ?	Christopher Hall <hsw@ms2.hinet.net>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -387,7 +391,6 @@
 - [x]     1	Chris Rempel <csrl@gmx.com>
 - [x]     1	Chris-P-Bacon <m00d@freenet.de>
 - [x]     1	Christian Gudrian <christian.gudrian@fluidon.com>
-- [x]     1	Christopher Hall <hsw@ms2.hinet.net>
 - [x]     1	Claudio Scordino <c.scordino@list-group.com>
 - [x]     1	Aalhad Saraf <aalhad@gmail.com>
 - [x]     1	Adrian von Bidder <avbidder@fortytwo.ch>
