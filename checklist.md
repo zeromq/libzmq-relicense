@@ -180,6 +180,7 @@
 - [x]     1	Leonard <leonard.michelet@smile.fr>
 - [x]     2	Julien Ruffin <jur@ivu.de> (grant by IVU Traffic Technologies AG)
 - [x]     1	Bruno Bodin <bruno.bodin@cea.fr>
+- [x]     1	bbdb68 <bbdb68@users.noreply.github.com> (Bruno Bodin's user)
 - [x]    10	bjovke <bjovan@gmail.com>
 - [x]     7	BJovke <bjovan@gmail.com>
 - [x]     1	Bunjevacki, Jovan <bjovan@gmail.com> (original e-mail replaced)
@@ -523,7 +524,6 @@
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Antony Searle <antony.searle@gmail.com>
 - [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
-- [ ]     1	bbdb68 <bbdb68@users.noreply.github.com>
 - [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
 
 #### Same users
