@@ -234,6 +234,7 @@
 - [x]    25	Lourens Naudé <lourens@methodmissing.com>
 - [ ]     2	Lourens Naudé <lourens@methodmissing.com>
 - [x]     ?	Lourens Naudé <lourens@bearmetal.eu>
+- [x]     1	Brian Russell <brussell@brocade.com> (grant by Brocade)
 - [x]     ?	skicc <skicc@fastmail.com>
 - [x]     ?	Philippe Bernardino Leite <philippe.leite@gmail.com>
 - [x]     ?	Christophe Guillon <christophe.guillon.perso@gmail.com>
@@ -518,7 +519,6 @@
 - [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
 - [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
-- [ ]     1	Brian Russell <brussell@brocade.com>
 - [ ]     1	Bob Beaty <rbeaty@peak6.com>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Antony Searle <antony.searle@gmail.com>
