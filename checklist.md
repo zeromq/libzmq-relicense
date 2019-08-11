@@ -530,12 +530,12 @@
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
-- [ ]    16	Jens Auer <jens.auer@cgi.com>
+- [ ]    16	Jens Auer <jens.auer@cgi.com> (address bounces)
 - [ ]     0	Jens Auer <jens.auer@betaversion.net>
-- [ ]    12	Michel Zou <xantares10@hotmail.com>
-- [ ]     1	Michel Zou <xantares09@hotmail.com>
-- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se>
-- [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se>
+- [ ]    12	Michel Zou <xantares10@hotmail.com> (address bounces)
+- [ ]     1	Michel Zou <xantares09@hotmail.com> (address bounces)
+- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces)
+- [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
 - [ ]     2	John Murphy <murphybytes@gmail.com>
 - [ ]     1	John Murphy <muprhybytes@gmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
