@@ -256,6 +256,7 @@
 - [x]     ? Brian Carcich <drbitboy@gmail.com> (grant by Latchmoor Services, LLC)
 - [x]     ? Bastian Löher <me@l-dot.de>
 - [x]     ?	Christopher Hall <hsw@ms2.hinet.net>
+- [x]     1	Manuel Segura <manuel.segura4@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -513,7 +514,6 @@
 - [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
 - [ ]     1	Dennis Klein <d.klein@gsi.de>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
-- [ ]     1	Manuel Segura <manuel.segura4@gmail.com>
 - [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
