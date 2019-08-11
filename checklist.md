@@ -257,6 +257,11 @@
 - [x]     ? Bastian Löher <me@l-dot.de>
 - [x]     ?	Christopher Hall <hsw@ms2.hinet.net>
 - [x]     1	Manuel Segura <manuel.segura4@gmail.com>
+- [x]    17	Jim Garlick <garlick.jim@gmail.com>
+- [x]     4	Chris Laws <clawsicus@gmail.com>
+- [x]     1	Dennis Klein <d.klein@gsi.de>
+- [x]     1	Bob Beaty <rbeaty@peak6.com>
+- [x]     3	Axel Nennker <axel@nennker.de>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -470,7 +475,6 @@
 ## Grants to be submitted
 
 ### Grant necessary
-- [ ]    17	Jim Garlick <garlick.jim@gmail.com>
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com>
 - [ ]    13	Frank Hartmann <soundart@gmx.net>
@@ -492,11 +496,9 @@
 - [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu>
 - [ ]     5	Mark Barbisan <mark@barbisan.ca>
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be>
-- [ ]     4	Chris Laws <clawsicus@gmail.com>
 - [ ]     4	Dongmin Yu <miniway@gmail.com>
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
 - [ ]     4	laplaceyang <laplace2013@outlook.com>
-- [ ]     3	Axel Nennker <axel@nennker.de>
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
 - [ ]     3	Fabien Ninoles <fabien@tzone.org>
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
@@ -512,7 +514,6 @@
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	niXman <i.nixman@gmail.com>
 - [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
-- [ ]     1	Dennis Klein <d.klein@gsi.de>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
 - [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
@@ -520,7 +521,6 @@
 - [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
 - [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
-- [ ]     1	Bob Beaty <rbeaty@peak6.com>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Antony Searle <antony.searle@gmail.com>
 - [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
