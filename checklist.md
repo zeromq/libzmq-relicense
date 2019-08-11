@@ -263,6 +263,7 @@
 - [x]     1	Bob Beaty <rbeaty@peak6.com>
 - [x]     3	Axel Nennker <axel@nennker.de>
 - [x]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local> **(MPLv2)**
+- [x]     6	bebopagogo <bebopagogo@users.noreply.github.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -491,7 +492,6 @@
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
 - [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com>
 - [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com>
-- [ ]     6	bebopagogo <bebopagogo@users.noreply.github.com>
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
 - [ ]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com>
 - [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu>
