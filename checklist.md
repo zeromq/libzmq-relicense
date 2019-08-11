@@ -262,6 +262,7 @@
 - [x]     1	Dennis Klein <d.klein@gsi.de>
 - [x]     1	Bob Beaty <rbeaty@peak6.com>
 - [x]     3	Axel Nennker <axel@nennker.de>
+- [x]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -523,7 +524,6 @@
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Antony Searle <antony.searle@gmail.com>
-- [ ]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local>
 - [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
 
 #### Same users
