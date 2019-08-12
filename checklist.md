@@ -265,6 +265,11 @@
 - [x]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local> **(MPLv2)**
 - [x]     6	bebopagogo <bebopagogo@users.noreply.github.com> **(MPLv2)**
 - [x]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
+- [x]     2	Joel Lauener <Joel.Lauener@cern.ch>
+- [x]    11	Dhammika Pathirana <dhammika@gmail.com> **(MPLv2)**
+- [x]     4	Dongmin Yu <miniway@gmail.com>
+- [x]    16	Jens Auer <jens.auer@cgi.com> (address bounces)
+- [x]     0	Jens Auer <jens.auer@betaversion.net>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -485,7 +490,6 @@
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
-- [ ]    11	Dhammika Pathirana <dhammika@gmail.com>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
@@ -498,7 +502,6 @@
 - [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu>
 - [ ]     5	Mark Barbisan <mark@barbisan.ca>
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be>
-- [ ]     4	Dongmin Yu <miniway@gmail.com>
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
 - [ ]     4	laplaceyang <laplace2013@outlook.com>
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
@@ -512,7 +515,6 @@
 - [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
-- [ ]     2	Joel Lauener <Joel.Lauener@cern.ch>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	niXman <i.nixman@gmail.com>
 - [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
@@ -530,8 +532,6 @@
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
-- [ ]    16	Jens Auer <jens.auer@cgi.com> (address bounces)
-- [ ]     0	Jens Auer <jens.auer@betaversion.net>
 - [ ]    12	Michel Zou <xantares10@hotmail.com> (address bounces)
 - [ ]     1	Michel Zou <xantares09@hotmail.com> (address bounces)
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces)
