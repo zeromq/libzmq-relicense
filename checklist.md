@@ -264,6 +264,7 @@
 - [x]     3	Axel Nennker <axel@nennker.de>
 - [x]     1	ALEKSANDR MELNIKOV <coff@MacBook-Pro-ALEKSANDR.local> **(MPLv2)**
 - [x]     6	bebopagogo <bebopagogo@users.noreply.github.com> **(MPLv2)**
+- [x]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -524,7 +525,6 @@
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Antony Searle <antony.searle@gmail.com>
-- [ ]     1	chymanfx <39655116+chymanfx@users.noreply.github.com>
 
 #### Same users
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
