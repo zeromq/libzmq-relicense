@@ -270,6 +270,8 @@
 - [x]     4	Dongmin Yu <miniway@gmail.com>
 - [x]    16	Jens Auer <jens.auer@cgi.com> (address bounces)
 - [x]     0	Jens Auer <jens.auer@betaversion.net>
+- [x]     2	John Murphy <murphybytes@gmail.com>
+- [x]     1	John Murphy <muprhybytes@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -536,8 +538,6 @@
 - [ ]     1	Michel Zou <xantares09@hotmail.com> (address bounces)
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces)
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
-- [ ]     2	John Murphy <murphybytes@gmail.com>
-- [ ]     1	John Murphy <muprhybytes@gmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
 - [ ]     2	Marc Sune <marcdevel@gmail.com>
