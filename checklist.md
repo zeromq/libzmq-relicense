@@ -272,6 +272,8 @@
 - [x]     0	Jens Auer <jens.auer@betaversion.net>
 - [x]     2	John Murphy <murphybytes@gmail.com>
 - [x]     1	John Murphy <muprhybytes@gmail.com>
+- [x]     8	Laughing <hnwyllmm@126.com>
+- [x]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -542,8 +544,6 @@
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
 - [ ]     2	Marc Sune <marcdevel@gmail.com>
 - [ ]     2	Marc Sune <marc@voltanet.io>
-- [ ]     8	Laughing <hnwyllmm@126.com>
-- [ ]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com>
 - [ ]     5	pavel.pimenov <pavel.pimenov@gmail.com>
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
