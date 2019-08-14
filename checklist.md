@@ -274,6 +274,7 @@
 - [x]     1	John Murphy <muprhybytes@gmail.com>
 - [x]     8	Laughing <hnwyllmm@126.com>
 - [x]     4	hnwyllmm@126.com <hnwyllmm@126.com>
+- [x]     1	Suudy <pladow@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -527,7 +528,6 @@
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
 - [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
-- [ ]     1	Suudy <pladow@gmail.com>
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
 - [ ]     1	Attila Mark <gougolith@gmail.com>
 - [ ]     1	Antony Searle <antony.searle@gmail.com>
