@@ -275,6 +275,7 @@
 - [x]     8	Laughing <hnwyllmm@126.com>
 - [x]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [x]     1	Suudy <pladow@gmail.com>
+- [x]     2	Robert G. Jakabosky <bobby@sharedrealm.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -517,7 +518,6 @@
 - [ ]     2	Daniel Norberg <dano@spotify.com>
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com>
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
-- [ ]     2	Robert G. Jakabosky <bobby@sharedrealm.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
