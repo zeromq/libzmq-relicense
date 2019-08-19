@@ -277,6 +277,7 @@
 - [x]     1	Suudy <pladow@gmail.com>
 - [x]     2	Robert G. Jakabosky <bobby@sharedrealm.com> **(MPLv2)**
 - [x]     9	Daniel Krikun <krikun.daniel@gmail.com> **(MPLv2)**
+- [x]     ?     Thomas Chiantia <Thomas@Altronix.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
