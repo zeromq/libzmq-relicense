@@ -276,6 +276,7 @@
 - [x]     4	hnwyllmm@126.com <hnwyllmm@126.com>
 - [x]     1	Suudy <pladow@gmail.com>
 - [x]     2	Robert G. Jakabosky <bobby@sharedrealm.com> **(MPLv2)**
+- [x]     9	Daniel Krikun <krikun.daniel@gmail.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -497,7 +498,6 @@
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
 - [ ]     9	Staffan Gimåker <staffan@spotify.com>
-- [ ]     9	Daniel Krikun <krikun.daniel@gmail.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
