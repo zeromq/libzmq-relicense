@@ -278,6 +278,8 @@
 - [x]     2	Robert G. Jakabosky <bobby@sharedrealm.com> **(MPLv2)**
 - [x]     9	Daniel Krikun <krikun.daniel@gmail.com> **(MPLv2)**
 - [x]     ?     Thomas Chiantia <Thomas@Altronix.com> **(MPLv2)**
+- [x]     9	Staffan Gimåker <staffan@spotify.com> (grant by Spotify) **(MPLv2)**
+- [x]     2	Daniel Norberg <dano@spotify.com> (grant by Spotify) **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -498,7 +500,6 @@
 - [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
 - [ ]    12	Telford Berkey <tberkey@4qbase.com>
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
-- [ ]     9	Staffan Gimåker <staffan@spotify.com>
 - [ ]     9	Jon Dyte <jon@totient.co.uk>
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 - [ ]     7	Patrik Wenger <paddor@gmail.com>
@@ -516,7 +517,6 @@
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com>
 - [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu>
-- [ ]     2	Daniel Norberg <dano@spotify.com>
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com>
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
