@@ -280,6 +280,7 @@
 - [x]     ?     Thomas Chiantia <Thomas@Altronix.com> **(MPLv2)**
 - [x]     9	Staffan Gimåker <staffan@spotify.com> (grant by Spotify) **(MPLv2)**
 - [x]     2	Daniel Norberg <dano@spotify.com> (grant by Spotify) **(MPLv2)**
+- [x]     ?	Andrei Tomashpolskiy <nordmann89@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
