@@ -281,6 +281,8 @@
 - [x]     9	Staffan Gimåker <staffan@spotify.com> (grant by Spotify) **(MPLv2)**
 - [x]     2	Daniel Norberg <dano@spotify.com> (grant by Spotify) **(MPLv2)**
 - [x]     ?	Andrei Tomashpolskiy <nordmann89@gmail.com>
+- [x]     2	Marc Sune <marcdevel@gmail.com>
+- [x]     2	Marc Sune <marc@voltanet.io>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -544,8 +546,6 @@
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
-- [ ]     2	Marc Sune <marcdevel@gmail.com>
-- [ ]     2	Marc Sune <marc@voltanet.io>
 - [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com>
 - [ ]     5	pavel.pimenov <pavel.pimenov@gmail.com>
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
