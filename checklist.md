@@ -283,6 +283,7 @@
 - [x]     ?	Andrei Tomashpolskiy <nordmann89@gmail.com>
 - [x]     2	Marc Sune <marcdevel@gmail.com>
 - [x]     2	Marc Sune <marc@voltanet.io>
+- [x]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -526,7 +527,6 @@
 - [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	niXman <i.nixman@gmail.com>
-- [ ]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
 - [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net>
