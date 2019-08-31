@@ -291,6 +291,7 @@
 - [x]    12	Brian Silverman <brian@peloton-tech.com>
 - [x]     2	Douglas Young <rcxdude@gmail.com>
 - [x]     1	Michael Vilim
+- [x]    15	Max Skaller <Max.Skaller@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -505,7 +506,6 @@
 
 ### Grant necessary
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891
-- [ ]    15	Max Skaller <Max.Skaller@gmail.com> https://github.com/zeromq/libzmq/pull/258
 - [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018
 - [ ]    12	Telford Berkey <tberkey@4qbase.com> https://github.com/zeromq/libzmq/pull/1080
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com> https://github.com/zeromq/libzmq/pull/842
