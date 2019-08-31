@@ -286,6 +286,7 @@
 - [x]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
 - [x]     2	Jonathan Reams <jbreams@gmail.com>
 - [x]     5	Mark Barbisan <mark@barbisan.ca> **(MPLv2)**
+- [x]     7	Patrik Wenger <paddor@gmail.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -508,7 +509,6 @@
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com> https://github.com/zeromq/libzmq/pull/842
 - [ ]     9	Jon Dyte <jon@totient.co.uk> https://github.com/zeromq/libzmq/pull/550
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810
-- [ ]     7	Patrik Wenger <paddor@gmail.com> https://github.com/zeromq/libzmq/pull/2121
 - [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com> https://github.com/zeromq/libzmq/pull/2619
 - [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com> https://github.com/zeromq/libzmq/pull/2504
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345
