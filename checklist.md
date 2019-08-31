@@ -287,6 +287,7 @@
 - [x]     2	Jonathan Reams <jbreams@gmail.com>
 - [x]     5	Mark Barbisan <mark@barbisan.ca> **(MPLv2)**
 - [x]     7	Patrik Wenger <paddor@gmail.com> **(MPLv2)**
+- [x]    12	Dave Meehan <dave_meehan@replicated.co.uk>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -504,7 +505,6 @@
 - [ ]    15	Max Skaller <Max.Skaller@gmail.com> https://github.com/zeromq/libzmq/pull/258
 - [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018
 - [ ]    12	Brian Silverman <brian@peloton-tech.com> https://github.com/zeromq/libzmq/pull/1777
-- [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk> https://github.com/zeromq/libzmq/pull/1082
 - [ ]    12	Telford Berkey <tberkey@4qbase.com> https://github.com/zeromq/libzmq/pull/1080
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com> https://github.com/zeromq/libzmq/pull/842
 - [ ]     9	Jon Dyte <jon@totient.co.uk> https://github.com/zeromq/libzmq/pull/550
