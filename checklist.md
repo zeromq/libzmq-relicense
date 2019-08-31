@@ -284,6 +284,7 @@
 - [x]     2	Marc Sune <marcdevel@gmail.com>
 - [x]     2	Marc Sune <marc@voltanet.io>
 - [x]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
+- [x]     2	Jonathan Reams <jbreams@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -524,7 +525,6 @@
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com>
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
-- [ ]     2	Jonathan Reams <jbreams@gmail.com>
 - [ ]     2	Douglas Young <rcxdude@gmail.com>
 - [ ]     2	niXman <i.nixman@gmail.com>
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
