@@ -498,59 +498,59 @@
 ## Grants to be submitted
 
 ### Grant necessary
-- [ ]    15	Laurent Alebarde <l.alebarde@free.fr>
-- [ ]    15	Max Skaller <Max.Skaller@gmail.com>
-- [ ]    13	Frank Hartmann <soundart@gmx.net>
-- [ ]    12	Brian Silverman <brian@peloton-tech.com>
-- [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk>
-- [ ]    12	Telford Berkey <tberkey@4qbase.com>
-- [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
-- [ ]     9	Jon Dyte <jon@totient.co.uk>
-- [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
-- [ ]     7	Patrik Wenger <paddor@gmail.com>
-- [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com>
-- [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com>
-- [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
-- [ ]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com>
-- [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu>
-- [ ]     5	Mark Barbisan <mark@barbisan.ca>
-- [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be>
-- [ ]     4	Frederic Tregon <frederic.tregon@gmail.com>
-- [ ]     4	laplaceyang <laplace2013@outlook.com>
+- [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891
+- [ ]    15	Max Skaller <Max.Skaller@gmail.com> https://github.com/zeromq/libzmq/pull/258
+- [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018
+- [ ]    12	Brian Silverman <brian@peloton-tech.com> https://github.com/zeromq/libzmq/pull/1777
+- [ ]    12	Dave Meehan <dave_meehan@replicated.co.uk> https://github.com/zeromq/libzmq/pull/1082
+- [ ]    12	Telford Berkey <tberkey@4qbase.com> https://github.com/zeromq/libzmq/pull/1080
+- [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com> https://github.com/zeromq/libzmq/pull/842
+- [ ]     9	Jon Dyte <jon@totient.co.uk> https://github.com/zeromq/libzmq/pull/550
+- [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810
+- [ ]     7	Patrik Wenger <paddor@gmail.com> https://github.com/zeromq/libzmq/pull/2121
+- [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com> https://github.com/zeromq/libzmq/pull/2619
+- [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com> https://github.com/zeromq/libzmq/pull/2504
+- [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345
+- [ ]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> https://github.com/zeromq/libzmq/pull/3181
+- [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu> https://github.com/zeromq/libzmq/pull/1374
+- [ ]     5	Mark Barbisan <mark@barbisan.ca> https://github.com/zeromq/libzmq/pull/921
+- [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be> https://github.com/zeromq/libzmq/pull/2023
+- [ ]     4	Frederic Tregon <frederic.tregon@gmail.com> https://github.com/zeromq/libzmq/pull/1882
+- [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
-- [ ]     3	Fabien Ninoles <fabien@tzone.org>
-- [ ]     3	Jonathan Reams <jbreams@mongodb.com>
-- [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
-- [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu>
-- [ ]     2	Asaf Kahlon <asafka7@gmail.com>
-- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com>
-- [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org>
-- [ ]     2	Douglas Young <rcxdude@gmail.com>
-- [ ]     2	niXman <i.nixman@gmail.com>
-- [ ]     1	Hardeep Singh <hshardeesi@gmail.com>
-- [ ]     1	Michael Vilim <697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8@697a9b924bfa6f06a81e82975ddca4785b90a7b40d91044ce76f68d3bd65a9b8.com>
-- [ ]     1	Nikita Kozlov <nikita@elyzion.net>
-- [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com>
-- [ ]     1	RPGillespie6 <rpgillespie6@gmail.com>
-- [ ]     1	Stefan Kaes <stefan.kaes@xing.com>
-- [ ]     1	Attila Mark <gougolith@gmail.com>
-- [ ]     1	Antony Searle <antony.searle@gmail.com>
+- [ ]     3	Fabien Ninoles <fabien@tzone.org> https://github.com/zeromq/libzmq/pull/217
+- [ ]     3	Jonathan Reams <jbreams@mongodb.com> https://github.com/zeromq/libzmq/pull/1451
+- [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com> https://github.com/zeromq/libzmq/pull/751
+- [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu> https://github.com/zeromq/libzmq/pull/950
+- [ ]     2	Asaf Kahlon <asafka7@gmail.com> https://github.com/zeromq/libzmq/pull/3083
+- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145
+- [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> https://github.com/zeromq/libzmq/pull/1718
+- [ ]     2	Douglas Young <rcxdude@gmail.com> https://github.com/zeromq/libzmq/pull/291
+- [ ]     2	niXman <i.nixman@gmail.com> https://github.com/zeromq/libzmq/pull/242
+- [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452
+- [ ]     1	Michael Vilim <no addr> https://github.com/zeromq/libzmq/pull/3193
+- [ ]     1	Nikita Kozlov <nikita@elyzion.net> https://github.com/zeromq/libzmq/pull/993
+- [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com> https://github.com/zeromq/libzmq/pull/322
+- [ ]     1	RPGillespie6 <rpgillespie6@gmail.com> https://github.com/zeromq/libzmq/pull/2536
+- [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969
+- [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523
+- [ ]     1	Antony Searle <antony.searle@gmail.com> https://github.com/zeromq/libzmq/pull/3047
 
 #### Same users
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
-- [ ]    12	Michel Zou <xantares10@hotmail.com> (address bounces)
+- [ ]    12	Michel Zou <xantares10@hotmail.com> (address bounces) https://github.com/zeromq/libzmq/pull/1366
 - [ ]     1	Michel Zou <xantares09@hotmail.com> (address bounces)
-- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces)
+- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces) https://github.com/zeromq/libzmq/pull/3002
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
-- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl>
+- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
-- [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com>
+- [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com> https://github.com/zeromq/libzmq/pull/1202
 - [ ]     5	pavel.pimenov <pavel.pimenov@gmail.com>
-- [ ]     2	Goswin von Brederlow <goswin-v-b@web.de>
+- [ ]     2	Goswin von Brederlow <goswin-v-b@web.de> https://github.com/zeromq/libzmq/pull/2372
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
-- [ ]     6	Guido Goldstein <github@a-nugget.de>
+- [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
-- [ ]     7	Chris Busbey <chris.busbey@gmail.com>
+- [ ]     7	Chris Busbey <chris.busbey@gmail.com> https://github.com/zeromq/libzmq/pull/978
 - [ ]     4	Chris Busbey <cbusbey@connamara.com>
