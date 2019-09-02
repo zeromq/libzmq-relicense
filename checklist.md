@@ -292,6 +292,7 @@
 - [x]     2	Douglas Young <rcxdude@gmail.com>
 - [x]     1	Michael Vilim
 - [x]    15	Max Skaller <Max.Skaller@gmail.com>
+- [x]     5	Jörg Kreuzberger <joerg@kreuzberger.eu> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -515,7 +516,6 @@
 - [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com> https://github.com/zeromq/libzmq/pull/2504
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345
 - [ ]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> https://github.com/zeromq/libzmq/pull/3181
-- [ ]     5	Jörg Kreuzberger <joerg@kreuzberger.eu> https://github.com/zeromq/libzmq/pull/1374
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be> https://github.com/zeromq/libzmq/pull/2023
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com> https://github.com/zeromq/libzmq/pull/1882
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591
