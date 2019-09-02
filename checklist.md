@@ -293,6 +293,7 @@
 - [x]     1	Michael Vilim
 - [x]    15	Max Skaller <Max.Skaller@gmail.com>
 - [x]     5	Jörg Kreuzberger <joerg@kreuzberger.eu> **(MPLv2)**
+- [x]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -522,7 +523,6 @@
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
 - [ ]     3	Fabien Ninoles <fabien@tzone.org> https://github.com/zeromq/libzmq/pull/217
 - [ ]     3	Jonathan Reams <jbreams@mongodb.com> https://github.com/zeromq/libzmq/pull/1451
-- [ ]     3	Felipe Farinon <felipe.farinon@powersyslab.com> https://github.com/zeromq/libzmq/pull/751
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu> https://github.com/zeromq/libzmq/pull/950
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com> https://github.com/zeromq/libzmq/pull/3083
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145
