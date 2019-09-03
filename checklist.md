@@ -294,6 +294,8 @@
 - [x]    15	Max Skaller <Max.Skaller@gmail.com>
 - [x]     5	Jörg Kreuzberger <joerg@kreuzberger.eu> **(MPLv2)**
 - [x]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
+- [x]     7	Chris Busbey <chris.busbey@gmail.com> **(MPLv2)**
+- [x]     4	Chris Busbey <cbusbey@connamara.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -552,5 +554,3 @@
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
 - [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de>
-- [ ]     7	Chris Busbey <chris.busbey@gmail.com> https://github.com/zeromq/libzmq/pull/978
-- [ ]     4	Chris Busbey <cbusbey@connamara.com>
