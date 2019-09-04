@@ -296,6 +296,7 @@
 - [x]     3	Felipe Farinon <felipe.farinon@powersyslab.com>
 - [x]     7	Chris Busbey <chris.busbey@gmail.com> **(MPLv2)**
 - [x]     4	Chris Busbey <cbusbey@connamara.com>
+- [x]     7	Yann Diorcet <yann.diorcet@xenocs.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -515,7 +516,6 @@
 - [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com> https://github.com/zeromq/libzmq/pull/842
 - [ ]     9	Jon Dyte <jon@totient.co.uk> https://github.com/zeromq/libzmq/pull/550
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810
-- [ ]     7	Yann Diorcet <yann.diorcet@xenocs.com> https://github.com/zeromq/libzmq/pull/2619
 - [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com> https://github.com/zeromq/libzmq/pull/2504
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345
 - [ ]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> https://github.com/zeromq/libzmq/pull/3181
