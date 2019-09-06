@@ -297,6 +297,7 @@
 - [x]     7	Chris Busbey <chris.busbey@gmail.com> **(MPLv2)**
 - [x]     4	Chris Busbey <cbusbey@connamara.com>
 - [x]     7	Yann Diorcet <yann.diorcet@xenocs.com>
+- [x]     1	RPGillespie6 <rpgillespie6@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -533,7 +534,6 @@
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net> https://github.com/zeromq/libzmq/pull/993
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com> https://github.com/zeromq/libzmq/pull/322
-- [ ]     1	RPGillespie6 <rpgillespie6@gmail.com> https://github.com/zeromq/libzmq/pull/2536
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969
 - [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523
 - [ ]     1	Antony Searle <antony.searle@gmail.com> https://github.com/zeromq/libzmq/pull/3047
