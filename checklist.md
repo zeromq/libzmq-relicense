@@ -298,6 +298,7 @@
 - [x]     4	Chris Busbey <cbusbey@connamara.com>
 - [x]     7	Yann Diorcet <yann.diorcet@xenocs.com>
 - [x]     1	RPGillespie6 <rpgillespie6@gmail.com>
+- [x]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -519,7 +520,6 @@
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810
 - [ ]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com> https://github.com/zeromq/libzmq/pull/2504
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345
-- [ ]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> https://github.com/zeromq/libzmq/pull/3181
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be> https://github.com/zeromq/libzmq/pull/2023
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com> https://github.com/zeromq/libzmq/pull/1882
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591
