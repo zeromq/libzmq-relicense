@@ -300,6 +300,7 @@
 - [x]     1	RPGillespie6 <rpgillespie6@gmail.com>
 - [x]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> **(MPLv2)**
 - [x]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com>
+- [x]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -516,7 +517,6 @@
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891
 - [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018
 - [ ]    12	Telford Berkey <tberkey@4qbase.com> https://github.com/zeromq/libzmq/pull/1080
-- [ ]    12	Ivan Pechorin <ivan.pechorin@gmail.com> https://github.com/zeromq/libzmq/pull/842
 - [ ]     9	Jon Dyte <jon@totient.co.uk> https://github.com/zeromq/libzmq/pull/550
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345
