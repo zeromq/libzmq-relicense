@@ -303,6 +303,7 @@
 - [x]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
 - [x]     ?     trya <tryagainprod@gmail.com> **(MPLv2)**
 - [x]     ?     Dima Pasechnik <dimpase@gmail.com>
+- [x]     ?     Tobias Schlüter <tobias@lp-research.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
