@@ -301,6 +301,7 @@
 - [x]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> **(MPLv2)**
 - [x]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com>
 - [x]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
+- [x]     ?     trya <tryagainprod@gmail.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
