@@ -277,7 +277,7 @@
 - [x]     1	Suudy <pladow@gmail.com>
 - [x]     2	Robert G. Jakabosky <bobby@sharedrealm.com> **(MPLv2)**
 - [x]     9	Daniel Krikun <krikun.daniel@gmail.com> **(MPLv2)**
-- [x]     ?     Thomas Chiantia <Thomas@Altronix.com> **(MPLv2)**
+- [x]     ? Thomas Chiantia <Thomas@Altronix.com> **(MPLv2)**
 - [x]     9	Staffan Gimåker <staffan@spotify.com> (grant by Spotify) **(MPLv2)**
 - [x]     2	Daniel Norberg <dano@spotify.com> (grant by Spotify) **(MPLv2)**
 - [x]     ?	Andrei Tomashpolskiy <nordmann89@gmail.com>
@@ -301,9 +301,10 @@
 - [x]     5	Jean-Christophe Fillion-Robin <jchris.fillionr@kitware.com> **(MPLv2)**
 - [x]     6	Stefan Herbrechtsmeier <stefan.herbrechtsmeier@weidmueller.com>
 - [x]    12	Ivan Pechorin <ivan.pechorin@gmail.com>
-- [x]     ?     trya <tryagainprod@gmail.com> **(MPLv2)**
-- [x]     ?     Dima Pasechnik <dimpase@gmail.com>
-- [x]     ?     Tobias Schlüter <tobias@lp-research.com>
+- [x]     ? trya <tryagainprod@gmail.com> **(MPLv2)**
+- [x]     ? Dima Pasechnik <dimpase@gmail.com>
+- [x]     ? Tobias Schlüter <tobias@lp-research.com>
+- [x]     ? Michael Ford <fanquake@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
