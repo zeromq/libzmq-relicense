@@ -306,6 +306,7 @@
 - [x]     ?	Dima Pasechnik <dimpase@gmail.com>
 - [x]     ?	Tobias Schlüter <tobias@lp-research.com>
 - [x]     ?	Michael Ford <fanquake@gmail.com>
+- [x]     ?	Alexander Straub <alexander.straub@visus.uni-stuttgart.de>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
