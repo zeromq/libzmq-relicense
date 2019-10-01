@@ -285,6 +285,7 @@
 - [x]     2	Marc Sune <marcdevel@gmail.com>
 - [x]     2	Marc Sune <marc@voltanet.io>
 - [x]     1	Daiyu Hurst <daiyu.hurst@gmail.com>
+- [x]     3	Jonathan Reams <jbreams@mongodb.com> (grant by MongoDB)
 - [x]     2	Jonathan Reams <jbreams@gmail.com>
 - [x]     5	Mark Barbisan <mark@barbisan.ca> **(MPLv2)**
 - [x]     7	Patrik Wenger <paddor@gmail.com> **(MPLv2)**
@@ -531,7 +532,6 @@
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591
 - [ ]     3	Benjamin Henrion <zoobab@gmail.com>
 - [ ]     3	Fabien Ninoles <fabien@tzone.org> https://github.com/zeromq/libzmq/pull/217
-- [ ]     3	Jonathan Reams <jbreams@mongodb.com> https://github.com/zeromq/libzmq/pull/1451
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu> https://github.com/zeromq/libzmq/pull/950
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com> https://github.com/zeromq/libzmq/pull/3083
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145
