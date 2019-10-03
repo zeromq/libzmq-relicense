@@ -310,6 +310,7 @@
 - [x]     ?	Alexander Straub <alexander.straub@visus.uni-stuttgart.de>
 - [x]     2	niXman <i.nixman@gmail.com>
 - [x]     ?	Jesse Gorzinski <jgorzinski@gmail.com> **(MPLv2)**
+- [x]     9	Jon Dyte <jon@totient.co.uk>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -526,7 +527,6 @@
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891
 - [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018
 - [ ]    12	Telford Berkey <tberkey@4qbase.com> https://github.com/zeromq/libzmq/pull/1080
-- [ ]     9	Jon Dyte <jon@totient.co.uk> https://github.com/zeromq/libzmq/pull/550
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810
 - [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be> https://github.com/zeromq/libzmq/pull/2023
