@@ -309,6 +309,7 @@
 - [x]     ?	Michael Ford <fanquake@gmail.com>
 - [x]     ?	Alexander Straub <alexander.straub@visus.uni-stuttgart.de>
 - [x]     2	niXman <i.nixman@gmail.com>
+- [x]     ?	Jesse Gorzinski <jgorzinski@gmail.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
