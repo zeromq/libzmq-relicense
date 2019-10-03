@@ -308,6 +308,7 @@
 - [x]     ?	Tobias Schlüter <tobias@lp-research.com>
 - [x]     ?	Michael Ford <fanquake@gmail.com>
 - [x]     ?	Alexander Straub <alexander.straub@visus.uni-stuttgart.de>
+- [x]     2	niXman <i.nixman@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -536,7 +537,6 @@
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com> https://github.com/zeromq/libzmq/pull/3083
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> https://github.com/zeromq/libzmq/pull/1718
-- [ ]     2	niXman <i.nixman@gmail.com> https://github.com/zeromq/libzmq/pull/242
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net> https://github.com/zeromq/libzmq/pull/993
 - [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com> https://github.com/zeromq/libzmq/pull/322
