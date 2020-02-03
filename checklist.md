@@ -327,6 +327,7 @@
 - [x]     ?	xqcool <xuquan316@live.com>
 - [x]     ?	Chih-Hsuan Yen <yan12125@gmail.com> **(MPLv2)**
 - [x]     1	Antony Searle <antony.searle@gmail.com> (grant by Liquid Instruments) **(MPLv2)**
+- [x]     4	Frederic Tregon <frederic.tregon@gmail.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -549,7 +550,6 @@
 - [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - emailed on 03/02/2020
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810 - emailed on 03/02/2020
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be> https://github.com/zeromq/libzmq/pull/2023 - emailed on 03/02/2020
-- [ ]     4	Frederic Tregon <frederic.tregon@gmail.com> https://github.com/zeromq/libzmq/pull/1882 - emailed on 03/02/2020
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591 - emailed on 03/02/2020
 - [ ]     3	Fabien Ninoles <fabien@tzone.org> https://github.com/zeromq/libzmq/pull/217 - emailed on 03/02/2020
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com> https://github.com/zeromq/libzmq/pull/3083 - emailed on 03/02/2020
