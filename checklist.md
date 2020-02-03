@@ -538,6 +538,7 @@
 - [x]     7	Dan Mick <dmick@redhat.com>
 - [x]    12	Telford Berkey <tberkey@4qbase.com>
 - [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
+- [x]     3	Fred Eisele <feisele@isis.vanderbilt.edu> nuget internal metadata, removed
 
 ## Grants to be submitted
 
@@ -549,7 +550,6 @@
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com> https://github.com/zeromq/libzmq/pull/1882 - emailed on 03/02/2020
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591 - emailed on 03/02/2020
 - [ ]     3	Fabien Ninoles <fabien@tzone.org> https://github.com/zeromq/libzmq/pull/217 - emailed on 03/02/2020
-- [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu> https://github.com/zeromq/libzmq/pull/950 - emailed on 03/02/2020
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com> https://github.com/zeromq/libzmq/pull/3083 - emailed on 03/02/2020
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 03/02/2020
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> https://github.com/zeromq/libzmq/pull/1718 - emailed on 03/02/2020
