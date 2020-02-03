@@ -312,6 +312,20 @@
 - [x]     ?	Jesse Gorzinski <jgorzinski@gmail.com> **(MPLv2)**
 - [x]     9	Jon Dyte <jon@totient.co.uk>
 - [x]     3	Benjamin Henrion <zoobab@gmail.com>
+- [x]     ?	Dries Harnie <dries@harnie.be>
+- [x]     ?	Benjamin Deroche <benjdero>
+- [x]     ?	Denis Collette denisncollette@gmail.com
+- [x]     ?	Andrij Abyzov <drolevar@gmail.com>
+- [x]     ?	Diego Barrios Romero <eldruin@gmail.com>
+- [x]     ?	Christoph Kahl <kanonet>
+- [x]     ?	Sven Liedtke <liedtkeInTUM>
+- [x]     ?	Michele Dionisio <mdionisio>
+- [x]     ?	Matthias Loy <mloy>
+- [x]     ?	Stephan Senkbeil <sonoware>
+- [x]     ?	std-any-emplace
+- [x]     ?	Victor Luchits <viciious>
+- [x]     ?	xqcool <xuquan316@live.com>
+- [x]     ?	Chih-Hsuan Yen <yan12125@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
