@@ -560,18 +560,18 @@
 - [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523 - emailed on 03/02/2020
 
 #### Same users
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 03/02/2020
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
 - [ ]    12	Michel Zou <xantares10@hotmail.com> (address bounces) https://github.com/zeromq/libzmq/pull/1366
-- [ ]     1	Michel Zou <xantares09@hotmail.com> (address bounces)
-- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces) https://github.com/zeromq/libzmq/pull/3002
+- [ ]     1	Michel Zou <xantares09@hotmail.com> (address bounces) - emailed on 03/02/2020
+- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces) https://github.com/zeromq/libzmq/pull/3002 - emailed on 03/02/2020
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
-- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266
+- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 03/02/2020
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
-- [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com> https://github.com/zeromq/libzmq/pull/1202
+- [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com> https://github.com/zeromq/libzmq/pull/1202 - emailed on 03/02/2020
 - [ ]     5	pavel.pimenov <pavel.pimenov@gmail.com>
-- [ ]     2	Goswin von Brederlow <goswin-v-b@web.de> https://github.com/zeromq/libzmq/pull/2372
+- [ ]     2	Goswin von Brederlow <goswin-v-b@web.de> https://github.com/zeromq/libzmq/pull/2372 - emailed on 03/02/2020
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
 - [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
-- [ ]     3	Guido Goldstein <zmq@a-nugget.de>
+- [ ]     3	Guido Goldstein <zmq@a-nugget.de> - emailed on 03/02/2020
