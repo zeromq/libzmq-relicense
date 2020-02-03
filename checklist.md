@@ -520,6 +520,7 @@
 - [x]     5	Jos Decoster <jos.decoster@gmail.com>
 - [x]     1	Dan Mick <dan.mick@inktank.com>
 - [x]     7	Dan Mick <dmick@redhat.com>
+- [x]     3	Benjamin Henrion <zoobab@gmail.com>
 
 ## Grants to be submitted
 
@@ -532,7 +533,6 @@
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be> https://github.com/zeromq/libzmq/pull/2023
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com> https://github.com/zeromq/libzmq/pull/1882
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591
-- [ ]     3	Benjamin Henrion <zoobab@gmail.com>
 - [ ]     3	Fabien Ninoles <fabien@tzone.org> https://github.com/zeromq/libzmq/pull/217
 - [ ]     3	Fred Eisele <feisele@isis.vanderbilt.edu> https://github.com/zeromq/libzmq/pull/950
 - [ ]     2	Asaf Kahlon <asafka7@gmail.com> https://github.com/zeromq/libzmq/pull/3083
