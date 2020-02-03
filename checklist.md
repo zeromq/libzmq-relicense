@@ -332,6 +332,8 @@
 - [x]    12	Michel Zou <xantares10@hotmail.com> **(MPLv2)**
 - [x]     1	Michel Zou <xantares09@hotmail.com> **(MPLv2)**
 - [x]     3	Fred Eisele <feisele@isis.vanderbilt.edu> **(MPLv2)**
+- [x]    12	Telford Berkey <tberkey@4qbase.com> **(MPLv2)**
+- [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -541,8 +543,6 @@
 - [x]     5	Jos Decoster <jos.decoster@gmail.com>
 - [x]     1	Dan Mick <dan.mick@inktank.com>
 - [x]     7	Dan Mick <dmick@redhat.com>
-- [x]    12	Telford Berkey <tberkey@4qbase.com> changes to CMakeLists.txt, overhauled over time
-- [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com> changes to CMakeLists.txt, overhauled over time
 
 ## Grants to be submitted
 
