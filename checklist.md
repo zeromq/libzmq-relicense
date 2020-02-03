@@ -313,19 +313,19 @@
 - [x]     9	Jon Dyte <jon@totient.co.uk>
 - [x]     3	Benjamin Henrion <zoobab@gmail.com>
 - [x]     ?	Dries Harnie <dries@harnie.be>
-- [x]     ?	Benjamin Deroche <benjdero>
+- [x]     ?	Benjamin Deroche <benjdero> **(MPLv2)**
 - [x]     ?	Denis Collette denisncollette@gmail.com
 - [x]     ?	Andrij Abyzov <drolevar@gmail.com>
 - [x]     ?	Diego Barrios Romero <eldruin@gmail.com>
 - [x]     ?	Christoph Kahl <kanonet>
-- [x]     ?	Sven Liedtke <liedtkeInTUM>
-- [x]     ?	Michele Dionisio <mdionisio>
-- [x]     ?	Matthias Loy <mloy>
-- [x]     ?	Stephan Senkbeil <sonoware>
+- [x]     ?	Sven Liedtke <liedtkeInTUM> **(MPLv2)**
+- [x]     ?	Michele Dionisio <mdionisio> **(MPLv2)**
+- [x]     ?	Matthias Loy <mloy> **(MPLv2)**
+- [x]     ?	Stephan Senkbeil <sonoware> **(MPLv2)**
 - [x]     ?	std-any-emplace
-- [x]     ?	Victor Luchits <viciious>
+- [x]     ?	Victor Luchits <viciious> **(MPLv2)**
 - [x]     ?	xqcool <xuquan316@live.com>
-- [x]     ?	Chih-Hsuan Yen <yan12125@gmail.com>
+- [x]     ?	Chih-Hsuan Yen <yan12125@gmail.com> **(MPLv2)**
 - [x]     1	Antony Searle <antony.searle@gmail.com> (grant by Liquid Instruments) **(MPLv2)**
 
 ### No grant needed for minor contribution
