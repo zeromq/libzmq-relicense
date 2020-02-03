@@ -311,6 +311,7 @@
 - [x]     2	niXman <i.nixman@gmail.com>
 - [x]     ?	Jesse Gorzinski <jgorzinski@gmail.com> **(MPLv2)**
 - [x]     9	Jon Dyte <jon@totient.co.uk>
+- [x]     3	Benjamin Henrion <zoobab@gmail.com>
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -520,7 +521,6 @@
 - [x]     5	Jos Decoster <jos.decoster@gmail.com>
 - [x]     1	Dan Mick <dan.mick@inktank.com>
 - [x]     7	Dan Mick <dmick@redhat.com>
-- [x]     3	Benjamin Henrion <zoobab@gmail.com>
 
 ## Grants to be submitted
 
