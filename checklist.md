@@ -539,6 +539,8 @@
 - [x]    12	Telford Berkey <tberkey@4qbase.com> changes to CMakeLists.txt, overhauled over time
 - [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com> changes to CMakeLists.txt, overhauled over time
 - [x]     3	Fred Eisele <feisele@isis.vanderbilt.edu> nuget internal metadata, removed
+- [x]    12	Michel Zou <xantares10@hotmail.com> (address bounces) minor contributions to CMakeLists.txt, overhauled over time
+- [x]     1	Michel Zou <xantares09@hotmail.com> (address bounces) - emailed on 03/02/2020
 
 ## Grants to be submitted
 
@@ -563,8 +565,6 @@
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 03/02/2020
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
-- [ ]    12	Michel Zou <xantares10@hotmail.com> (address bounces) https://github.com/zeromq/libzmq/pull/1366
-- [ ]     1	Michel Zou <xantares09@hotmail.com> (address bounces) - emailed on 03/02/2020
 - [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces) https://github.com/zeromq/libzmq/pull/3002 - emailed on 03/02/2020
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 03/02/2020
