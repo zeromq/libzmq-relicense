@@ -536,8 +536,8 @@
 - [x]     5	Jos Decoster <jos.decoster@gmail.com>
 - [x]     1	Dan Mick <dan.mick@inktank.com>
 - [x]     7	Dan Mick <dmick@redhat.com>
-- [x]    12	Telford Berkey <tberkey@4qbase.com>
-- [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
+- [x]    12	Telford Berkey <tberkey@4qbase.com> changes to CMakeLists.txt, overhauled over time
+- [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com> changes to CMakeLists.txt, overhauled over time
 - [x]     3	Fred Eisele <feisele@isis.vanderbilt.edu> nuget internal metadata, removed
 
 ## Grants to be submitted
