@@ -329,6 +329,8 @@
 - [x]     1	Antony Searle <antony.searle@gmail.com> (grant by Liquid Instruments) **(MPLv2)**
 - [x]     4	Frederic Tregon <frederic.tregon@gmail.com> **(MPLv2)**
 - [x]     5	Ricardo Catalinas Jiménez <r@untroubled.be> **(MPLv2)**
+- [x]    12	Michel Zou <xantares10@hotmail.com> **(MPLv2)**
+- [x]     1	Michel Zou <xantares09@hotmail.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -541,8 +543,6 @@
 - [x]    12	Telford Berkey <tberkey@4qbase.com> changes to CMakeLists.txt, overhauled over time
 - [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com> changes to CMakeLists.txt, overhauled over time
 - [x]     3	Fred Eisele <feisele@isis.vanderbilt.edu> nuget internal metadata, removed
-- [x]    12	Michel Zou <xantares10@hotmail.com> (address bounces) minor contributions to CMakeLists.txt, overhauled over time
-- [x]     1	Michel Zou <xantares09@hotmail.com> (address bounces) - emailed on 03/02/2020
 
 ## Grants to be submitted
 
