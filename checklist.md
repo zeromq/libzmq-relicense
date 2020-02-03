@@ -540,7 +540,7 @@
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> https://github.com/zeromq/libzmq/pull/1718
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452
 - [ ]     1	Nikita Kozlov <nikita@elyzion.net> https://github.com/zeromq/libzmq/pull/993
-- [ ]     1	Patrick Trantham <patrick.trantham@fuel7.com> https://github.com/zeromq/libzmq/pull/322
+- [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969
 - [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523
 - [ ]     1	Antony Searle <antony.searle@gmail.com> https://github.com/zeromq/libzmq/pull/3047
