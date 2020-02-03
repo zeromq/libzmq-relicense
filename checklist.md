@@ -536,15 +536,15 @@
 - [x]     5	Jos Decoster <jos.decoster@gmail.com>
 - [x]     1	Dan Mick <dan.mick@inktank.com>
 - [x]     7	Dan Mick <dmick@redhat.com>
+- [x]    12	Telford Berkey <tberkey@4qbase.com>
+- [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com>
 
 ## Grants to be submitted
 
 ### Grant necessary
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891 - emailed on 03/02/2020
 - [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - emailed on 03/02/2020
-- [ ]    12	Telford Berkey <tberkey@4qbase.com> https://github.com/zeromq/libzmq/pull/1080 - emailed on 03/02/2020
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810 - emailed on 03/02/2020
-- [ ]     5	Bryan Zimmerman <bzimmerman@4qbase.com> https://github.com/zeromq/libzmq/pull/1345 - emailed on 03/02/2020
 - [ ]     5	Ricardo Catalinas Jiménez <r@untroubled.be> https://github.com/zeromq/libzmq/pull/2023 - emailed on 03/02/2020
 - [ ]     4	Frederic Tregon <frederic.tregon@gmail.com> https://github.com/zeromq/libzmq/pull/1882 - emailed on 03/02/2020
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591 - emailed on 03/02/2020
