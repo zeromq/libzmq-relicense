@@ -326,6 +326,7 @@
 - [x]     ?	Victor Luchits <viciious>
 - [x]     ?	xqcool <xuquan316@live.com>
 - [x]     ?	Chih-Hsuan Yen <yan12125@gmail.com>
+- [x]     1	Antony Searle <antony.searle@gmail.com> (grant by Liquid Instruments) **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -557,7 +558,6 @@
 - [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 03/02/2020
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969 - emailed on 03/02/2020
 - [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523 - emailed on 03/02/2020
-- [ ]     1	Antony Searle <antony.searle@gmail.com> https://github.com/zeromq/libzmq/pull/3047 - emailed on 03/02/2020
 
 #### Same users
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com>
