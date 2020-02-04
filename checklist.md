@@ -334,6 +334,8 @@
 - [x]     3	Fred Eisele <feisele@isis.vanderbilt.edu> **(MPLv2)**
 - [x]    12	Telford Berkey <tberkey@4qbase.com> **(MPLv2)**
 - [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com> **(MPLv2)**
+- [x]     5	Pavel Pimenov <pavel.pimenov@gmail.com> **(MPLv2)**
+- [x]     5	pavel.pimenov <pavel.pimenov@gmail.com> **(MPLv2)**
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
@@ -569,8 +571,6 @@
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 03/02/2020
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
-- [ ]     5	Pavel Pimenov <pavel.pimenov@gmail.com> https://github.com/zeromq/libzmq/pull/1202 - emailed on 03/02/2020
-- [ ]     5	pavel.pimenov <pavel.pimenov@gmail.com>
 - [ ]     2	Goswin von Brederlow <goswin-v-b@web.de> https://github.com/zeromq/libzmq/pull/2372 - emailed on 03/02/2020
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
 - [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
