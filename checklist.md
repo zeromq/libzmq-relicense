@@ -336,6 +336,8 @@
 - [x]     5	Bryan Zimmerman <bzimmerman@4qbase.com> **(MPLv2)**
 - [x]     5	Pavel Pimenov <pavel.pimenov@gmail.com> **(MPLv2)**
 - [x]     5	pavel.pimenov <pavel.pimenov@gmail.com> **(MPLv2)**
+- [x]     1	Cameron Smith <smithc11@rpi.edu> **(MPLv2)**
+
 
 ### No grant needed for minor contribution
 - [x]     1	WGH <wgh@torlan.ru>
