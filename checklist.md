@@ -338,6 +338,7 @@
 - [x]     5	pavel.pimenov <pavel.pimenov@gmail.com> **(MPLv2)**
 - [x]     1	Cameron Smith <smithc11@rpi.edu> **(MPLv2)**
 - [x]     2	Asaf Kahlon <asafka7@gmail.com> **(MPLv2)**
+- [x]     1	Nikita Kozlov <nikita@elyzion.net> **(MPLv2)**
 
 
 ### No grant needed for minor contribution
@@ -560,7 +561,6 @@
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 03/02/2020
 - [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> https://github.com/zeromq/libzmq/pull/1718 - emailed on 03/02/2020
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 03/02/2020
-- [ ]     1	Nikita Kozlov <nikita@elyzion.net> https://github.com/zeromq/libzmq/pull/993 - emailed on 03/02/2020
 - [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 03/02/2020
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969 - emailed on 03/02/2020
 - [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523 - emailed on 03/02/2020
