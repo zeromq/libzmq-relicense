@@ -340,6 +340,7 @@
 - [x]     2	Asaf Kahlon <asafka7@gmail.com> **(MPLv2)**
 - [x]     1	Nikita Kozlov <nikita@elyzion.net> **(MPLv2)**
 - [x]     3	Fabien Ninoles <fabien@tzone.org> **(MPLv2)**
+- [x]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> **(MPLv2)**
 
 
 ### No grant needed for minor contribution
@@ -559,7 +560,6 @@
 - [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810 - emailed on 03/02/2020
 - [ ]     4	laplaceyang <laplace2013@outlook.com> https://github.com/zeromq/libzmq/pull/2591 - emailed on 03/02/2020
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 03/02/2020
-- [ ]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> https://github.com/zeromq/libzmq/pull/1718 - emailed on 03/02/2020
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 03/02/2020
 - [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 03/02/2020
 - [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969 - emailed on 03/02/2020
