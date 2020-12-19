@@ -556,24 +556,24 @@
 ## Grants to be submitted
 
 ### Grant necessary
-- [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891 - emailed on 03/02/2020
-- [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - emailed on 03/02/2020
-- [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810 - emailed on 03/02/2020
-- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 03/02/2020
-- [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 03/02/2020
-- [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 03/02/2020
-- [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969 - emailed on 03/02/2020
-- [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523 - emailed on 03/02/2020
+- [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891 - emailed on 19/12/2020
+- [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - emailed on 19/12/2020
+- [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810 - emailed on 19/12/2020 (address bounces)
+- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 19/12/2020
+- [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 19/12/2020
+- [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 19/12/2020
+- [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969 - emailed on 19/12/2020
+- [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523 - emailed on 19/12/2020
 
 #### Same users
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 03/02/2020
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 19/12/2020
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
-- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces) https://github.com/zeromq/libzmq/pull/3002 - emailed on 03/02/2020
+- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces) https://github.com/zeromq/libzmq/pull/3002 - emailed on 19/12/2020
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
-- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 03/02/2020
+- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 19/12/2020
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
-- [ ]     2	Goswin von Brederlow <goswin-v-b@web.de> https://github.com/zeromq/libzmq/pull/2372 - emailed on 03/02/2020
+- [ ]     2	Goswin von Brederlow <goswin-v-b@web.de> https://github.com/zeromq/libzmq/pull/2372 - emailed on 19/12/2020
 - [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
 - [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
-- [ ]     3	Guido Goldstein <zmq@a-nugget.de> - emailed on 03/02/2020
+- [ ]     3	Guido Goldstein <zmq@a-nugget.de> - emailed on 19/12/2020
