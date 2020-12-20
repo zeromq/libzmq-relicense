@@ -342,6 +342,7 @@
 - [x]     3	Fabien Ninoles <fabien@tzone.org> **(MPLv2)**
 - [x]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> **(MPLv2)**
 - [x]     4	laplaceyang <laplace2013@outlook.com>
+- [x]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 
 
 ### No grant needed for minor contribution
@@ -558,7 +559,6 @@
 ### Grant necessary
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891 - emailed on 19/12/2020
 - [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - emailed on 19/12/2020
-- [ ]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de> https://github.com/zeromq/libzmq/pull/810 - emailed on 19/12/2020 (address bounces)
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 19/12/2020
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 19/12/2020
 - [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 19/12/2020
