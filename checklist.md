@@ -343,6 +343,8 @@
 - [x]     2	Laszlo Boszormenyi (GCS) <gcs@debian.org> **(MPLv2)**
 - [x]     4	laplaceyang <laplace2013@outlook.com>
 - [x]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
+- [x]     2	Goswin von Brederlow <goswin-v-b@web.de> **(MPLv2)**
+- [x]     5	Goswin von Brederlow <brederlo@q-leap.de> **(MPLv2)**
 
 
 ### No grant needed for minor contribution
@@ -573,7 +575,5 @@
 - [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 19/12/2020
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
-- [ ]     2	Goswin von Brederlow <goswin-v-b@web.de> https://github.com/zeromq/libzmq/pull/2372 - emailed on 19/12/2020
-- [ ]     5	Goswin von Brederlow <brederlo@q-leap.de>
 - [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de> - emailed on 19/12/2020
