@@ -1,4 +1,4 @@
-# Checklist of all license agreements:
+G# Checklist of all license agreements:
 
 ## Grant collected
 - [x]  1139	Pieter Hintjens <ph@imatix.com> **(MPLv2)**
@@ -345,6 +345,7 @@
 - [x]     8	Stefan Radomski <radomski@tk.informatik.tu-darmstadt.de>
 - [x]     2	Goswin von Brederlow <goswin-v-b@web.de> **(MPLv2)**
 - [x]     5	Goswin von Brederlow <brederlo@q-leap.de> **(MPLv2)**
+- [x]     1	Stefan Kaes <stefan.kaes@xing.com> **(MPLv2)**
 
 
 ### No grant needed for minor contribution
@@ -564,7 +565,6 @@
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 19/12/2020
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 19/12/2020
 - [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 19/12/2020
-- [ ]     1	Stefan Kaes <stefan.kaes@xing.com> https://github.com/zeromq/libzmq/pull/2969 - emailed on 19/12/2020
 - [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523 - emailed on 19/12/2020
 
 #### Same users
