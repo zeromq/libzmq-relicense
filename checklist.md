@@ -346,6 +346,8 @@ G# Checklist of all license agreements:
 - [x]     2	Goswin von Brederlow <goswin-v-b@web.de> **(MPLv2)**
 - [x]     5	Goswin von Brederlow <brederlo@q-leap.de> **(MPLv2)**
 - [x]     1	Stefan Kaes <stefan.kaes@xing.com> **(MPLv2)**
+- [x]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> **(MPLv2)**
+- [x]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> **(MPLv2)**
 
 
 ### No grant needed for minor contribution
@@ -571,8 +573,6 @@ G# Checklist of all license agreements:
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 19/12/2020
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
-- [ ]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> (address bounces) https://github.com/zeromq/libzmq/pull/3002 - emailed on 19/12/2020
-- [ ]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> (address bounces)
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 19/12/2020
 - [ ]     1	Cziken <wojciech_kula@o2.pl>
 - [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
