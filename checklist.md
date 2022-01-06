@@ -348,6 +348,7 @@ G# Checklist of all license agreements:
 - [x]     1	Stefan Kaes <stefan.kaes@xing.com> **(MPLv2)**
 - [x]     7	Pontus Sköldström <pontus.skoldstrom@ri.se> **(MPLv2)**
 - [x]     1	Pontus.Skoeldstroem <pontus.skoldstrom@ri.se> **(MPLv2)**
+- [x]     1	Attila Mark <gougolith@gmail.com>
 
 
 ### No grant needed for minor contribution
@@ -567,7 +568,6 @@ G# Checklist of all license agreements:
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 19/12/2020
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 19/12/2020
 - [ ]     1	Patrick Trantham <patricktrantham@gmail.com> https://github.com/zeromq/libzmq/pull/322 - emailed on 19/12/2020
-- [ ]     1	Attila Mark <gougolith@gmail.com> https://github.com/zeromq/libzmq/pull/523 - emailed on 19/12/2020
 
 #### Same users
 - [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 19/12/2020
