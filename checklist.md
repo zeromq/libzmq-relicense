@@ -565,12 +565,12 @@ G# Checklist of all license agreements:
 
 ### Grant necessary
 - [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891 - emailed on 19/12/2020
-- [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - emailed on 19/12/2020
+- [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - NACK on https://github.com/zeromq/libzmq/issues/2376
 - [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 19/12/2020
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 19/12/2020
 
 #### Same users
-- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 19/12/2020
+- [ ]    47	hitstergtd <hitstergtd@users.noreply.github.com> - emailed on 2022/01/07, discussion ongoing
 - [ ]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [ ]     0	Hitster GTD <hitstergtd@gmail.com>
 - [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 19/12/2020
