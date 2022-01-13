@@ -353,6 +353,8 @@ G# Checklist of all license agreements:
 - [x]    47	hitstergtd <hitstergtd@users.noreply.github.com> **(MPLv2)**
 - [x]     4	Hitster GTD <hitstergtd@users.noreply.github.com>
 - [x]     0	Hitster GTD <hitstergtd@gmail.com>
+- [x]     2	Wojciech Kula <wojciech_kula@o2.pl> **(MPLv2)**
+- [x]     1	Cziken <wojciech_kula@o2.pl>
 
 
 ### No grant needed for minor contribution
@@ -573,7 +575,5 @@ G# Checklist of all license agreements:
 - [ ]     1	Hardeep Singh <hshardeesi@gmail.com> https://github.com/zeromq/libzmq/pull/452 - emailed on 19/12/2020
 
 #### Same users
-- [ ]     2	Wojciech Kula <wojciech_kula@o2.pl> https://github.com/zeromq/libzmq/pull/2266 - emailed on 19/12/2020
-- [ ]     1	Cziken <wojciech_kula@o2.pl>
 - [ ]     6	Guido Goldstein <github@a-nugget.de> https://github.com/zeromq/libzmq/pull/634
 - [ ]     3	Guido Goldstein <zmq@a-nugget.de> - emailed on 19/12/2020
