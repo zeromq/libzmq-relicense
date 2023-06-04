@@ -569,9 +569,10 @@ G# Checklist of all license agreements:
 - [x]     3	Guido Goldstein <zmq@a-nugget.de> (contributions were two test cases that have been completely rewritten when switching to Unity)
 - [x]     1	Hardeep Singh <hshardeesi@gmail.com> (contribution was substantially rewritten as part of subsequent refactors and reimplementations https://github.com/zeromq/libzmq/pull/452)
 
+### Contributions removed
+- [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891 - removed by https://github.com/zeromq/libzmq/pull/4554
+- [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - NACK on https://github.com/zeromq/libzmq/issues/2376 - removed by https://github.com/zeromq/libzmq/pull/4554
+- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - removed by https://github.com/zeromq/libzmq/pull/4554
+
 ## Grants to be submitted
 
-### Grant necessary
-- [ ]    15	Laurent Alebarde <l.alebarde@free.fr> https://github.com/zeromq/libzmq/pull/891 - emailed on 19/12/2020
-- [ ]    13	Frank Hartmann <soundart@gmx.net> https://github.com/zeromq/libzmq/pull/1018 - NACK on https://github.com/zeromq/libzmq/issues/2376
-- [ ]     2	Thijs Terlouw <thijsterlouw@gmail.com> https://github.com/zeromq/libzmq/pull/145 - emailed on 19/12/2020
